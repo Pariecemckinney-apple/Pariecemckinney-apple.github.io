@@ -112,6 +112,7 @@
   ],
   "seeAlsoSections" : [
     {
+      "anchor" : "Text",
       "generated" : true,
       "identifiers" : [
         "doc:\/\/com.apple.ResearchKit\/documentation\/ResearchKit\/ORKTextAnswerFormat",
@@ -126,12 +127,16 @@
   ],
   "topicSections" : [
     {
+      "anchor" : "Initializers",
+      "generated" : true,
       "identifiers" : [
         "doc:\/\/com.apple.ResearchKit\/documentation\/ResearchKit\/ORKTextChoiceAnswerFormat\/init(style:textChoices:)"
       ],
       "title" : "Initializers"
     },
     {
+      "anchor" : "Instance-Properties",
+      "generated" : true,
       "identifiers" : [
         "doc:\/\/com.apple.ResearchKit\/documentation\/ResearchKit\/ORKTextChoiceAnswerFormat\/style",
         "doc:\/\/com.apple.ResearchKit\/documentation\/ResearchKit\/ORKTextChoiceAnswerFormat\/textChoices"
@@ -139,6 +144,8 @@
       "title" : "Instance Properties"
     },
     {
+      "anchor" : "Instance-Methods",
+      "generated" : true,
       "identifiers" : [
         "doc:\/\/com.apple.ResearchKit\/documentation\/ResearchKit\/ORKTextChoiceAnswerFormat\/isAnswerInvalid(_:)"
       ],

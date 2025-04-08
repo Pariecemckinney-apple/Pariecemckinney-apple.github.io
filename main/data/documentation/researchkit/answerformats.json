@@ -38,12 +38,14 @@
   ],
   "topicSections" : [
     {
+      "anchor" : "Age",
       "identifiers" : [
         "doc:\/\/com.apple.ResearchKit\/documentation\/ResearchKit\/ORKAgeAnswerFormat"
       ],
       "title" : "Age"
     },
     {
+      "anchor" : "Color-Choice",
       "identifiers" : [
         "doc:\/\/com.apple.ResearchKit\/documentation\/ResearchKit\/ORKColorChoiceAnswerFormat",
         "doc:\/\/com.apple.ResearchKit\/documentation\/ResearchKit\/ORKColorChoice"
@@ -51,6 +53,7 @@
       "title" : "Color Choice"
     },
     {
+      "anchor" : "Essentials",
       "identifiers" : [
         "doc:\/\/com.apple.ResearchKit\/documentation\/ResearchKit\/ORKAnswerFormat",
         "doc:\/\/com.apple.ResearchKit\/documentation\/ResearchKit\/ORKNumericPrecision"
@@ -58,6 +61,7 @@
       "title" : "Essentials"
     },
     {
+      "anchor" : "Height-and-Weight",
       "identifiers" : [
         "doc:\/\/com.apple.ResearchKit\/documentation\/ResearchKit\/ORKHeightAnswerFormat",
         "doc:\/\/com.apple.ResearchKit\/documentation\/ResearchKit\/ORKWeightAnswerFormat",
@@ -67,6 +71,7 @@
       "title" : "Height and Weight"
     },
     {
+      "anchor" : "Date-and-time",
       "identifiers" : [
         "doc:\/\/com.apple.ResearchKit\/documentation\/ResearchKit\/ORKDateAnswerFormat",
         "doc:\/\/com.apple.ResearchKit\/documentation\/ResearchKit\/ORKTimeIntervalAnswerFormat",
@@ -76,6 +81,7 @@
       "title" : "Date and time"
     },
     {
+      "anchor" : "HealthKit",
       "identifiers" : [
         "doc:\/\/com.apple.ResearchKit\/documentation\/ResearchKit\/ORKHealthKitQuantityTypeAnswerFormat",
         "doc:\/\/com.apple.ResearchKit\/documentation\/ResearchKit\/ORKHealthKitCharacteristicTypeAnswerFormat"
@@ -83,6 +89,7 @@
       "title" : "HealthKit"
     },
     {
+      "anchor" : "Image",
       "identifiers" : [
         "doc:\/\/com.apple.ResearchKit\/documentation\/ResearchKit\/ORKImageChoice",
         "doc:\/\/com.apple.ResearchKit\/documentation\/ResearchKit\/ORKImageChoiceAnswerFormat"
@@ -90,6 +97,7 @@
       "title" : "Image"
     },
     {
+      "anchor" : "Numeric",
       "identifiers" : [
         "doc:\/\/com.apple.ResearchKit\/documentation\/ResearchKit\/ORKNumericAnswerFormat",
         "doc:\/\/com.apple.ResearchKit\/documentation\/ResearchKit\/ORKNumericAnswerStyle"
@@ -97,6 +105,7 @@
       "title" : "Numeric"
     },
     {
+      "anchor" : "Scale",
       "identifiers" : [
         "doc:\/\/com.apple.ResearchKit\/documentation\/ResearchKit\/ORKScaleAnswerFormat",
         "doc:\/\/com.apple.ResearchKit\/documentation\/ResearchKit\/ORKContinuousScaleAnswerFormat",
@@ -105,6 +114,7 @@
       "title" : "Scale"
     },
     {
+      "anchor" : "Text",
       "identifiers" : [
         "doc:\/\/com.apple.ResearchKit\/documentation\/ResearchKit\/ORKTextAnswerFormat",
         "doc:\/\/com.apple.ResearchKit\/documentation\/ResearchKit\/ORKTextChoiceAnswerFormat",
@@ -117,6 +127,7 @@
       "title" : "Text"
     },
     {
+      "anchor" : "Other-formats",
       "identifiers" : [
         "doc:\/\/com.apple.ResearchKit\/documentation\/ResearchKit\/ORKBooleanAnswerFormat",
         "doc:\/\/com.apple.ResearchKit\/documentation\/ResearchKit\/ORKEmailAnswerFormat",

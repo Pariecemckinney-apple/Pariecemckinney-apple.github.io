@@ -111,6 +111,7 @@
   ],
   "seeAlsoSections" : [
     {
+      "anchor" : "Text",
       "generated" : true,
       "identifiers" : [
         "doc:\/\/com.apple.ResearchKit\/documentation\/ResearchKit\/ORKTextAnswerFormat",
@@ -125,12 +126,16 @@
   ],
   "topicSections" : [
     {
+      "anchor" : "Initializers",
+      "generated" : true,
       "identifiers" : [
         "doc:\/\/com.apple.ResearchKit\/documentation\/ResearchKit\/ORKTextChoiceOther\/init(text:primaryTextAttributedString:detailText:detailTextAttributedString:value:exclusive:textViewPlaceholderText:textViewInputOptional:textViewStartsHidden:)"
       ],
       "title" : "Initializers"
     },
     {
+      "anchor" : "Instance-Properties",
+      "generated" : true,
       "identifiers" : [
         "doc:\/\/com.apple.ResearchKit\/documentation\/ResearchKit\/ORKTextChoiceOther\/textViewInputOptional",
         "doc:\/\/com.apple.ResearchKit\/documentation\/ResearchKit\/ORKTextChoiceOther\/textViewPlaceholderText",
@@ -139,6 +144,8 @@
       "title" : "Instance Properties"
     },
     {
+      "anchor" : "Type-Methods",
+      "generated" : true,
       "identifiers" : [
         "doc:\/\/com.apple.ResearchKit\/documentation\/ResearchKit\/ORKTextChoiceOther\/choice(withText:detailText:value:exclusive:textViewPlaceholderText:)"
       ],

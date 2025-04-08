@@ -111,6 +111,7 @@
   ],
   "seeAlsoSections" : [
     {
+      "anchor" : "Other-formats",
       "generated" : true,
       "identifiers" : [
         "doc:\/\/com.apple.ResearchKit\/documentation\/ResearchKit\/ORKEmailAnswerFormat",
@@ -124,12 +125,16 @@
   ],
   "topicSections" : [
     {
+      "anchor" : "Initializers",
+      "generated" : true,
       "identifiers" : [
         "doc:\/\/com.apple.ResearchKit\/documentation\/ResearchKit\/ORKBooleanAnswerFormat\/init(yesString:noString:)"
       ],
       "title" : "Initializers"
     },
     {
+      "anchor" : "Instance-Properties",
+      "generated" : true,
       "identifiers" : [
         "doc:\/\/com.apple.ResearchKit\/documentation\/ResearchKit\/ORKBooleanAnswerFormat\/no",
         "doc:\/\/com.apple.ResearchKit\/documentation\/ResearchKit\/ORKBooleanAnswerFormat\/yes"

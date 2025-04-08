@@ -106,6 +106,7 @@
   ],
   "seeAlsoSections" : [
     {
+      "anchor" : "Signature-acquisition",
       "generated" : true,
       "identifiers" : [
         "doc:\/\/com.apple.ResearchKit\/documentation\/ResearchKit\/ORKConsentSignature",
@@ -116,6 +117,8 @@
   ],
   "topicSections" : [
     {
+      "anchor" : "Instance-Methods",
+      "generated" : true,
       "identifiers" : [
         "doc:\/\/com.apple.ResearchKit\/documentation\/ResearchKit\/ORKHTMLPDFWriter\/writePDF(fromHTML:completionBlock:)"
       ],

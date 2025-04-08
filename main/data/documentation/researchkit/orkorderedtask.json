@@ -119,6 +119,7 @@
   ],
   "seeAlsoSections" : [
     {
+      "anchor" : "Essentials",
       "generated" : true,
       "identifiers" : [
         "doc:\/\/com.apple.ResearchKit\/documentation\/ResearchKit\/ORKTask",
@@ -129,6 +130,8 @@
   ],
   "topicSections" : [
     {
+      "anchor" : "Initializers",
+      "generated" : true,
       "identifiers" : [
         "doc:\/\/com.apple.ResearchKit\/documentation\/ResearchKit\/ORKOrderedTask\/init(coder:)",
         "doc:\/\/com.apple.ResearchKit\/documentation\/ResearchKit\/ORKOrderedTask\/init(identifier:steps:)"
@@ -136,6 +139,8 @@
       "title" : "Initializers"
     },
     {
+      "anchor" : "Instance-Properties",
+      "generated" : true,
       "identifiers" : [
         "doc:\/\/com.apple.ResearchKit\/documentation\/ResearchKit\/ORKOrderedTask\/progressLabelColor",
         "doc:\/\/com.apple.ResearchKit\/documentation\/ResearchKit\/ORKOrderedTask\/steps"
@@ -143,6 +148,8 @@
       "title" : "Instance Properties"
     },
     {
+      "anchor" : "Instance-Methods",
+      "generated" : true,
       "identifiers" : [
         "doc:\/\/com.apple.ResearchKit\/documentation\/ResearchKit\/ORKOrderedTask\/addStep(_:)",
         "doc:\/\/com.apple.ResearchKit\/documentation\/ResearchKit\/ORKOrderedTask\/addSteps(from:)",

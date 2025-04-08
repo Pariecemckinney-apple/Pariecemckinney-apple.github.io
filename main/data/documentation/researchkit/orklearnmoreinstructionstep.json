@@ -110,6 +110,7 @@
   ],
   "seeAlsoSections" : [
     {
+      "anchor" : "Question-and-instruction-steps",
       "generated" : true,
       "identifiers" : [
         "doc:\/\/com.apple.ResearchKit\/documentation\/ResearchKit\/ORKQuestionStep",

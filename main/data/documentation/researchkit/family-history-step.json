@@ -657,6 +657,7 @@
   ],
   "seeAlsoSections" : [
     {
+      "anchor" : "Articles",
       "generated" : true,
       "identifiers" : [
         "doc:\/\/com.apple.ResearchKit\/documentation\/ResearchKit\/Conditional-Logic-in-ResearchKit",
@@ -993,7 +994,7 @@
         "3x",
         "light"
       ],
-      "url" : "\/images\/family-history-step-instruction-step@3x.png"
+      "url" : "\/images\/com.apple.ResearchKit\/family-history-step-instruction-step@3x.png"
     }
   ]
 },
@@ -1007,7 +1008,7 @@
         "3x",
         "light"
       ],
-      "url" : "\/images\/family-history-step-no-relatives@3x.png"
+      "url" : "\/images\/com.apple.ResearchKit\/family-history-step-no-relatives@3x.png"
     }
   ]
 },
@@ -1021,7 +1022,7 @@
         "3x",
         "light"
       ],
-      "url" : "\/images\/family-history-step-parent-added@3x.png"
+      "url" : "\/images\/com.apple.ResearchKit\/family-history-step-parent-added@3x.png"
     }
   ]
 }

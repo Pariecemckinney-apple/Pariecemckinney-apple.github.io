@@ -107,6 +107,7 @@
   ],
   "seeAlsoSections" : [
     {
+      "anchor" : "Step-recording",
       "generated" : true,
       "identifiers" : [
         "doc:\/\/com.apple.ResearchKit\/documentation\/ResearchKit\/ORKRecorderDelegate",
@@ -117,6 +118,8 @@
   ],
   "topicSections" : [
     {
+      "anchor" : "Instance-Properties",
+      "generated" : true,
       "identifiers" : [
         "doc:\/\/com.apple.ResearchKit\/documentation\/ResearchKit\/ORKRecorder\/configuration",
         "doc:\/\/com.apple.ResearchKit\/documentation\/ResearchKit\/ORKRecorder\/delegate",
@@ -128,6 +131,8 @@
       "title" : "Instance Properties"
     },
     {
+      "anchor" : "Instance-Methods",
+      "generated" : true,
       "identifiers" : [
         "doc:\/\/com.apple.ResearchKit\/documentation\/ResearchKit\/ORKRecorder\/logName()",
         "doc:\/\/com.apple.ResearchKit\/documentation\/ResearchKit\/ORKRecorder\/start()",

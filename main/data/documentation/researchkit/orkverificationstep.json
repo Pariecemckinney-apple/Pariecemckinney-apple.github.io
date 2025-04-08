@@ -110,6 +110,7 @@
   ],
   "seeAlsoSections" : [
     {
+      "anchor" : "Authentication-and-consent-steps",
       "generated" : true,
       "identifiers" : [
         "doc:\/\/com.apple.ResearchKit\/documentation\/ResearchKit\/ORKLoginStep",
@@ -123,12 +124,16 @@
   ],
   "topicSections" : [
     {
+      "anchor" : "Initializers",
+      "generated" : true,
       "identifiers" : [
         "doc:\/\/com.apple.ResearchKit\/documentation\/ResearchKit\/ORKVerificationStep\/init(identifier:text:verificationViewControllerClass:)"
       ],
       "title" : "Initializers"
     },
     {
+      "anchor" : "Instance-Properties",
+      "generated" : true,
       "identifiers" : [
         "doc:\/\/com.apple.ResearchKit\/documentation\/ResearchKit\/ORKVerificationStep\/verificationViewControllerClass"
       ],

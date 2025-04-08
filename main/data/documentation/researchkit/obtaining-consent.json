@@ -804,6 +804,7 @@
   ],
   "seeAlsoSections" : [
     {
+      "anchor" : "Essentials",
       "generated" : true,
       "identifiers" : [
         "doc:\/\/com.apple.ResearchKit\/documentation\/ResearchKit\/Setting-up-Your-Project-to-Use-ResearchKit",
@@ -1048,7 +1049,7 @@
         "3x",
         "light"
       ],
-      "url" : "\/images\/obtaining-consent-before-you-join-step@3x.png"
+      "url" : "\/images\/com.apple.ResearchKit\/obtaining-consent-before-you-join-step@3x.png"
     }
   ]
 },
@@ -1062,7 +1063,7 @@
         "3x",
         "light"
       ],
-      "url" : "\/images\/obtaining-consent-pdf-1@3x.png"
+      "url" : "\/images\/com.apple.ResearchKit\/obtaining-consent-pdf-1@3x.png"
     }
   ]
 },
@@ -1076,7 +1077,7 @@
         "3x",
         "light"
       ],
-      "url" : "\/images\/obtaining-consent-pdf-2@3x.png"
+      "url" : "\/images\/com.apple.ResearchKit\/obtaining-consent-pdf-2@3x.png"
     }
   ]
 },
@@ -1090,7 +1091,7 @@
         "3x",
         "light"
       ],
-      "url" : "\/images\/obtaining-consent-review-1@3x.png"
+      "url" : "\/images\/com.apple.ResearchKit\/obtaining-consent-review-1@3x.png"
     }
   ]
 },
@@ -1104,7 +1105,7 @@
         "3x",
         "light"
       ],
-      "url" : "\/images\/obtaining-consent-review-2@3x.png"
+      "url" : "\/images\/com.apple.ResearchKit\/obtaining-consent-review-2@3x.png"
     }
   ]
 },
@@ -1118,7 +1119,7 @@
         "3x",
         "light"
       ],
-      "url" : "\/images\/obtaining-consent-sharing@3x.png"
+      "url" : "\/images\/com.apple.ResearchKit\/obtaining-consent-sharing@3x.png"
     }
   ]
 },
@@ -1132,7 +1133,7 @@
         "3x",
         "light"
       ],
-      "url" : "\/images\/obtaining-consent-welcome-step@3x.png"
+      "url" : "\/images\/com.apple.ResearchKit\/obtaining-consent-welcome-step@3x.png"
     }
   ]
 }

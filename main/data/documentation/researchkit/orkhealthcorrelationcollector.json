@@ -110,6 +110,7 @@
   ],
   "seeAlsoSections" : [
     {
+      "anchor" : "Data-collection",
       "generated" : true,
       "identifiers" : [
         "doc:\/\/com.apple.ResearchKit\/documentation\/ResearchKit\/ORKCollector",
@@ -123,6 +124,8 @@
   ],
   "topicSections" : [
     {
+      "anchor" : "Instance-Properties",
+      "generated" : true,
       "identifiers" : [
         "doc:\/\/com.apple.ResearchKit\/documentation\/ResearchKit\/ORKHealthCorrelationCollector\/correlationType",
         "doc:\/\/com.apple.ResearchKit\/documentation\/ResearchKit\/ORKHealthCorrelationCollector\/lastAnchor",

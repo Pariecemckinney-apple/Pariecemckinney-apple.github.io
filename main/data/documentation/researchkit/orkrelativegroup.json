@@ -107,6 +107,7 @@
   ],
   "seeAlsoSections" : [
     {
+      "anchor" : "Family-History",
       "generated" : true,
       "identifiers" : [
         "doc:\/\/com.apple.ResearchKit\/documentation\/ResearchKit\/ORKFamilyHistoryStep",
@@ -119,12 +120,16 @@
   ],
   "topicSections" : [
     {
+      "anchor" : "Initializers",
+      "generated" : true,
       "identifiers" : [
         "doc:\/\/com.apple.ResearchKit\/documentation\/ResearchKit\/ORKRelativeGroup\/init(identifier:name:sectionTitle:sectionDetailText:identifierForCellTitle:maxAllowed:formSteps:detailTextIdentifiers:)"
       ],
       "title" : "Initializers"
     },
     {
+      "anchor" : "Instance-Properties",
+      "generated" : true,
       "identifiers" : [
         "doc:\/\/com.apple.ResearchKit\/documentation\/ResearchKit\/ORKRelativeGroup\/detailTextIdentifiers",
         "doc:\/\/com.apple.ResearchKit\/documentation\/ResearchKit\/ORKRelativeGroup\/formSteps",

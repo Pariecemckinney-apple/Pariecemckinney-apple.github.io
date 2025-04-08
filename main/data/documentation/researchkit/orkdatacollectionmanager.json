@@ -107,6 +107,7 @@
   ],
   "seeAlsoSections" : [
     {
+      "anchor" : "Data-collection",
       "generated" : true,
       "identifiers" : [
         "doc:\/\/com.apple.ResearchKit\/documentation\/ResearchKit\/ORKCollector",
@@ -120,12 +121,16 @@
   ],
   "topicSections" : [
     {
+      "anchor" : "Initializers",
+      "generated" : true,
       "identifiers" : [
         "doc:\/\/com.apple.ResearchKit\/documentation\/ResearchKit\/ORKDataCollectionManager\/init(persistenceDirectoryURL:)"
       ],
       "title" : "Initializers"
     },
     {
+      "anchor" : "Instance-Properties",
+      "generated" : true,
       "identifiers" : [
         "doc:\/\/com.apple.ResearchKit\/documentation\/ResearchKit\/ORKDataCollectionManager\/collectors",
         "doc:\/\/com.apple.ResearchKit\/documentation\/ResearchKit\/ORKDataCollectionManager\/delegate"
@@ -133,6 +138,8 @@
       "title" : "Instance Properties"
     },
     {
+      "anchor" : "Instance-Methods",
+      "generated" : true,
       "identifiers" : [
         "doc:\/\/com.apple.ResearchKit\/documentation\/ResearchKit\/ORKDataCollectionManager\/addHealthCollector(with:unit:start:error:)",
         "doc:\/\/com.apple.ResearchKit\/documentation\/ResearchKit\/ORKDataCollectionManager\/addHealthCorrelationCollector(with:sampleTypes:units:start:error:)",

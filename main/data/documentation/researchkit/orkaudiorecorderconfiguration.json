@@ -109,6 +109,8 @@
   ],
   "topicSections" : [
     {
+      "anchor" : "Initializers",
+      "generated" : true,
       "identifiers" : [
         "doc:\/\/com.apple.ResearchKit\/documentation\/ResearchKit\/ORKAudioRecorderConfiguration\/init(coder:)",
         "doc:\/\/com.apple.ResearchKit\/documentation\/ResearchKit\/ORKAudioRecorderConfiguration\/init(identifier:recorderSettings:)"
@@ -116,6 +118,8 @@
       "title" : "Initializers"
     },
     {
+      "anchor" : "Instance-Properties",
+      "generated" : true,
       "identifiers" : [
         "doc:\/\/com.apple.ResearchKit\/documentation\/ResearchKit\/ORKAudioRecorderConfiguration\/recorderSettings"
       ],

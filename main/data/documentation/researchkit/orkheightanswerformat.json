@@ -111,6 +111,7 @@
   ],
   "seeAlsoSections" : [
     {
+      "anchor" : "Height-and-Weight",
       "generated" : true,
       "identifiers" : [
         "doc:\/\/com.apple.ResearchKit\/documentation\/ResearchKit\/ORKWeightAnswerFormat",
@@ -122,6 +123,8 @@
   ],
   "topicSections" : [
     {
+      "anchor" : "Initializers",
+      "generated" : true,
       "identifiers" : [
         "doc:\/\/com.apple.ResearchKit\/documentation\/ResearchKit\/ORKHeightAnswerFormat\/init()",
         "doc:\/\/com.apple.ResearchKit\/documentation\/ResearchKit\/ORKHeightAnswerFormat\/init(measurementSystem:)"
@@ -129,6 +132,8 @@
       "title" : "Initializers"
     },
     {
+      "anchor" : "Instance-Properties",
+      "generated" : true,
       "identifiers" : [
         "doc:\/\/com.apple.ResearchKit\/documentation\/ResearchKit\/ORKHeightAnswerFormat\/measurementSystem"
       ],

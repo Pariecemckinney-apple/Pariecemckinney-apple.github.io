@@ -38,6 +38,7 @@
   ],
   "seeAlsoSections" : [
     {
+      "anchor" : "Data-collection-and-analysis",
       "generated" : true,
       "identifiers" : [
         "doc:\/\/com.apple.ResearchKit\/documentation\/ResearchKit\/Steps",
@@ -48,6 +49,7 @@
   ],
   "topicSections" : [
     {
+      "anchor" : "Essentials",
       "identifiers" : [
         "doc:\/\/com.apple.ResearchKit\/documentation\/ResearchKit\/ORKResult",
         "doc:\/\/com.apple.ResearchKit\/documentation\/ResearchKit\/ORKTaskResult",
@@ -57,24 +59,28 @@
       "title" : "Essentials"
     },
     {
+      "anchor" : "Result-source",
       "identifiers" : [
         "doc:\/\/com.apple.ResearchKit\/documentation\/ResearchKit\/ORKTaskResultSource"
       ],
       "title" : "Result source"
     },
     {
+      "anchor" : "Family-History",
       "identifiers" : [
         "doc:\/\/com.apple.ResearchKit\/documentation\/ResearchKit\/ORKFamilyHistoryResult"
       ],
       "title" : "Family History"
     },
     {
+      "anchor" : "File-storage",
       "identifiers" : [
         "doc:\/\/com.apple.ResearchKit\/documentation\/ResearchKit\/ORKFileResult"
       ],
       "title" : "File storage"
     },
     {
+      "anchor" : "Authentication-and-consent",
       "identifiers" : [
         "doc:\/\/com.apple.ResearchKit\/documentation\/ResearchKit\/ORKPasscodeResult",
         "doc:\/\/com.apple.ResearchKit\/documentation\/ResearchKit\/ORKSignatureResult",
@@ -83,6 +89,7 @@
       "title" : "Authentication and consent"
     },
     {
+      "anchor" : "Data-collection",
       "identifiers" : [
         "doc:\/\/com.apple.ResearchKit\/documentation\/ResearchKit\/ORKCollector",
         "doc:\/\/com.apple.ResearchKit\/documentation\/ResearchKit\/ORKHealthCollector",
@@ -94,6 +101,7 @@
       "title" : "Data collection"
     },
     {
+      "anchor" : "Surveys",
       "identifiers" : [
         "doc:\/\/com.apple.ResearchKit\/documentation\/ResearchKit\/ORKQuestionResult",
         "doc:\/\/com.apple.ResearchKit\/documentation\/ResearchKit\/ORKSESQuestionResult",
@@ -111,6 +119,7 @@
       "title" : "Surveys"
     },
     {
+      "anchor" : "Video",
       "identifiers" : [
         "doc:\/\/com.apple.ResearchKit\/documentation\/ResearchKit\/ORKFrontFacingCameraStepResult",
         "doc:\/\/com.apple.ResearchKit\/documentation\/ResearchKit\/ORKVideoInstructionStepResult"
@@ -118,6 +127,7 @@
       "title" : "Video"
     },
     {
+      "anchor" : "Web",
       "identifiers" : [
         "doc:\/\/com.apple.ResearchKit\/documentation\/ResearchKit\/ORKWebViewStepResult"
       ],

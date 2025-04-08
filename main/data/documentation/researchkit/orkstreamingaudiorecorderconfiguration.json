@@ -108,6 +108,7 @@
   ],
   "seeAlsoSections" : [
     {
+      "anchor" : "Active-step-configurations",
       "generated" : true,
       "identifiers" : [
         "doc:\/\/com.apple.ResearchKit\/documentation\/ResearchKit\/ORKAccelerometerRecorderConfiguration",
@@ -121,6 +122,8 @@
   ],
   "topicSections" : [
     {
+      "anchor" : "Initializers",
+      "generated" : true,
       "identifiers" : [
         "doc:\/\/com.apple.ResearchKit\/documentation\/ResearchKit\/ORKStreamingAudioRecorderConfiguration\/init(coder:)",
         "doc:\/\/com.apple.ResearchKit\/documentation\/ResearchKit\/ORKStreamingAudioRecorderConfiguration\/init(identifier:)"

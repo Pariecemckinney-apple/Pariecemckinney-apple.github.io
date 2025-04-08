@@ -111,6 +111,7 @@
   ],
   "seeAlsoSections" : [
     {
+      "anchor" : "Essentials",
       "generated" : true,
       "identifiers" : [
         "doc:\/\/com.apple.ResearchKit\/documentation\/ResearchKit\/ORKTask",
@@ -121,6 +122,8 @@
   ],
   "topicSections" : [
     {
+      "anchor" : "Instance-Properties",
+      "generated" : true,
       "identifiers" : [
         "doc:\/\/com.apple.ResearchKit\/documentation\/ResearchKit\/ORKNavigableOrderedTask\/shouldReportProgress",
         "doc:\/\/com.apple.ResearchKit\/documentation\/ResearchKit\/ORKNavigableOrderedTask\/skipStepNavigationRules",
@@ -130,6 +133,8 @@
       "title" : "Instance Properties"
     },
     {
+      "anchor" : "Instance-Methods",
+      "generated" : true,
       "identifiers" : [
         "doc:\/\/com.apple.ResearchKit\/documentation\/ResearchKit\/ORKNavigableOrderedTask\/navigationRule(forTriggerStepIdentifier:)",
         "doc:\/\/com.apple.ResearchKit\/documentation\/ResearchKit\/ORKNavigableOrderedTask\/removeNavigationRule(forTriggerStepIdentifier:)",

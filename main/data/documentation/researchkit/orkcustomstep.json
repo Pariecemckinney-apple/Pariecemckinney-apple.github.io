@@ -110,12 +110,16 @@
   ],
   "topicSections" : [
     {
+      "anchor" : "Initializers",
+      "generated" : true,
       "identifiers" : [
         "doc:\/\/com.apple.ResearchKit\/documentation\/ResearchKit\/ORKCustomStep\/init(identifier:contentView:)"
       ],
       "title" : "Initializers"
     },
     {
+      "anchor" : "Instance-Properties",
+      "generated" : true,
       "identifiers" : [
         "doc:\/\/com.apple.ResearchKit\/documentation\/ResearchKit\/ORKCustomStep\/contentView",
         "doc:\/\/com.apple.ResearchKit\/documentation\/ResearchKit\/ORKCustomStep\/hideNavigationContainer",

@@ -121,6 +121,7 @@
   ],
   "seeAlsoSections" : [
     {
+      "anchor" : "Active-step-configurations",
       "generated" : true,
       "identifiers" : [
         "doc:\/\/com.apple.ResearchKit\/documentation\/ResearchKit\/ORKAccelerometerRecorderConfiguration",
@@ -134,18 +135,16 @@
   ],
   "topicSections" : [
     {
-      "identifiers" : [
-        "doc:\/\/com.apple.ResearchKit\/documentation\/ResearchKit\/ORKRecorderConfiguration\/init(coder:)"
-      ],
-      "title" : "Initializers"
-    },
-    {
+      "anchor" : "Instance-Properties",
+      "generated" : true,
       "identifiers" : [
         "doc:\/\/com.apple.ResearchKit\/documentation\/ResearchKit\/ORKRecorderConfiguration\/identifier"
       ],
       "title" : "Instance Properties"
     },
     {
+      "anchor" : "Instance-Methods",
+      "generated" : true,
       "identifiers" : [
         "doc:\/\/com.apple.ResearchKit\/documentation\/ResearchKit\/ORKRecorderConfiguration\/recorder(for:outputDirectory:)",
         "doc:\/\/com.apple.ResearchKit\/documentation\/ResearchKit\/ORKRecorderConfiguration\/requestedHealthKitTypesForReading()"
@@ -424,44 +423,6 @@
   "title" : "identifier",
   "type" : "topic",
   "url" : "\/documentation\/researchkit\/orkrecorderconfiguration\/identifier"
-},
-"doc://com.apple.ResearchKit/documentation/ResearchKit/ORKRecorderConfiguration/init(coder:)": {
-  "abstract" : [
-
-  ],
-  "fragments" : [
-    {
-      "kind" : "identifier",
-      "text" : "init"
-    },
-    {
-      "kind" : "text",
-      "text" : "?("
-    },
-    {
-      "kind" : "externalParam",
-      "text" : "coder"
-    },
-    {
-      "kind" : "text",
-      "text" : ": "
-    },
-    {
-      "kind" : "typeIdentifier",
-      "preciseIdentifier" : "c:objc(cs)NSCoder",
-      "text" : "NSCoder"
-    },
-    {
-      "kind" : "text",
-      "text" : ")"
-    }
-  ],
-  "identifier" : "doc:\/\/com.apple.ResearchKit\/documentation\/ResearchKit\/ORKRecorderConfiguration\/init(coder:)",
-  "kind" : "symbol",
-  "role" : "symbol",
-  "title" : "init(coder:)",
-  "type" : "topic",
-  "url" : "\/documentation\/researchkit\/orkrecorderconfiguration\/init(coder:)"
 },
 "doc://com.apple.ResearchKit/documentation/ResearchKit/ORKRecorderConfiguration/recorder(for:outputDirectory:)": {
   "abstract" : [

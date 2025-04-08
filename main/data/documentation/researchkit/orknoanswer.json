@@ -118,6 +118,7 @@
   ],
   "seeAlsoSections" : [
     {
+      "anchor" : "Form-steps",
       "generated" : true,
       "identifiers" : [
         "doc:\/\/com.apple.ResearchKit\/documentation\/ResearchKit\/ORKFormStep",
@@ -131,14 +132,6 @@
         "doc:\/\/com.apple.ResearchKit\/documentation\/ResearchKit\/ORKLearnMoreItem"
       ],
       "title" : "Form steps"
-    }
-  ],
-  "topicSections" : [
-    {
-      "identifiers" : [
-        "doc:\/\/com.apple.ResearchKit\/documentation\/ResearchKit\/ORKNoAnswer\/init(coder:)"
-      ],
-      "title" : "Initializers"
     }
   ],
   "variants" : [
@@ -488,44 +481,6 @@
   "title" : "ORKNoAnswer",
   "type" : "topic",
   "url" : "\/documentation\/researchkit\/orknoanswer"
-},
-"doc://com.apple.ResearchKit/documentation/ResearchKit/ORKNoAnswer/init(coder:)": {
-  "abstract" : [
-
-  ],
-  "fragments" : [
-    {
-      "kind" : "identifier",
-      "text" : "init"
-    },
-    {
-      "kind" : "text",
-      "text" : "?("
-    },
-    {
-      "kind" : "externalParam",
-      "text" : "coder"
-    },
-    {
-      "kind" : "text",
-      "text" : ": "
-    },
-    {
-      "kind" : "typeIdentifier",
-      "preciseIdentifier" : "c:objc(cs)NSCoder",
-      "text" : "NSCoder"
-    },
-    {
-      "kind" : "text",
-      "text" : ")"
-    }
-  ],
-  "identifier" : "doc:\/\/com.apple.ResearchKit\/documentation\/ResearchKit\/ORKNoAnswer\/init(coder:)",
-  "kind" : "symbol",
-  "role" : "symbol",
-  "title" : "init(coder:)",
-  "type" : "topic",
-  "url" : "\/documentation\/researchkit\/orknoanswer\/init(coder:)"
 },
 "doc://com.apple.ResearchKit/documentation/ResearchKit/Steps": {
   "abstract" : [

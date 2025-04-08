@@ -111,6 +111,7 @@
   ],
   "seeAlsoSections" : [
     {
+      "anchor" : "Image",
       "generated" : true,
       "identifiers" : [
         "doc:\/\/com.apple.ResearchKit\/documentation\/ResearchKit\/ORKImageChoiceAnswerFormat"
@@ -120,13 +121,16 @@
   ],
   "topicSections" : [
     {
+      "anchor" : "Initializers",
+      "generated" : true,
       "identifiers" : [
-        "doc:\/\/com.apple.ResearchKit\/documentation\/ResearchKit\/ORKImageChoice\/init(coder:)",
         "doc:\/\/com.apple.ResearchKit\/documentation\/ResearchKit\/ORKImageChoice\/init(normalImage:selectedImage:text:value:)"
       ],
       "title" : "Initializers"
     },
     {
+      "anchor" : "Instance-Properties",
+      "generated" : true,
       "identifiers" : [
         "doc:\/\/com.apple.ResearchKit\/documentation\/ResearchKit\/ORKImageChoice\/normalStateImage",
         "doc:\/\/com.apple.ResearchKit\/documentation\/ResearchKit\/ORKImageChoice\/selectedStateImage",
@@ -218,44 +222,6 @@
   "title" : "ORKImageChoice",
   "type" : "topic",
   "url" : "\/documentation\/researchkit\/orkimagechoice"
-},
-"doc://com.apple.ResearchKit/documentation/ResearchKit/ORKImageChoice/init(coder:)": {
-  "abstract" : [
-
-  ],
-  "fragments" : [
-    {
-      "kind" : "identifier",
-      "text" : "init"
-    },
-    {
-      "kind" : "text",
-      "text" : "?("
-    },
-    {
-      "kind" : "externalParam",
-      "text" : "coder"
-    },
-    {
-      "kind" : "text",
-      "text" : ": "
-    },
-    {
-      "kind" : "typeIdentifier",
-      "preciseIdentifier" : "c:objc(cs)NSCoder",
-      "text" : "NSCoder"
-    },
-    {
-      "kind" : "text",
-      "text" : ")"
-    }
-  ],
-  "identifier" : "doc:\/\/com.apple.ResearchKit\/documentation\/ResearchKit\/ORKImageChoice\/init(coder:)",
-  "kind" : "symbol",
-  "role" : "symbol",
-  "title" : "init(coder:)",
-  "type" : "topic",
-  "url" : "\/documentation\/researchkit\/orkimagechoice\/init(coder:)"
 },
 "doc://com.apple.ResearchKit/documentation/ResearchKit/ORKImageChoice/init(normalImage:selectedImage:text:value:)": {
   "abstract" : [

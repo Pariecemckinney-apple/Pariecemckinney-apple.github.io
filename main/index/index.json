@@ -1,4 +1,7 @@
 {
+  "includedArchiveIdentifiers" : [
+    "com.apple.ResearchKit"
+  ],
   "interfaceLanguages" : {
     "swift" : [
       {
@@ -1053,11 +1056,6 @@
                         "type" : "init"
                       },
                       {
-                        "path" : "\/documentation\/researchkit\/orkconsentreviewstep\/init(identifier:signature:indocument:)",
-                        "title" : "init(identifier: String, signature: ORKConsentSignature?, inDocument: ORKConsentDocument)",
-                        "type" : "init"
-                      },
-                      {
                         "title" : "Instance Properties",
                         "type" : "groupMarker"
                       },
@@ -1198,11 +1196,6 @@
                         "type" : "groupMarker"
                       },
                       {
-                        "path" : "\/documentation\/researchkit\/orkconditionstepconfiguration\/init(coder:)",
-                        "title" : "init?(coder: NSCoder)",
-                        "type" : "init"
-                      },
-                      {
                         "path" : "\/documentation\/researchkit\/orkconditionstepconfiguration\/init(stepidentifier:conditionsformitemidentifier:conditions:formitems:)",
                         "title" : "init(stepIdentifier: String, conditionsFormItemIdentifier: String, conditions: [ORKHealthCondition], formItems: [ORKFormItem])",
                         "type" : "init"
@@ -1243,11 +1236,6 @@
                         "type" : "groupMarker"
                       },
                       {
-                        "path" : "\/documentation\/researchkit\/orkhealthcondition\/init(coder:)",
-                        "title" : "init?(coder: NSCoder)",
-                        "type" : "init"
-                      },
-                      {
                         "path" : "\/documentation\/researchkit\/orkhealthcondition\/init(identifier:displayname:value:)",
                         "title" : "init(identifier: String, displayName: String, value: any NSCopying & NSSecureCoding & NSObjectProtocol)",
                         "type" : "init"
@@ -1281,11 +1269,6 @@
                       {
                         "title" : "Initializers",
                         "type" : "groupMarker"
-                      },
-                      {
-                        "path" : "\/documentation\/researchkit\/orkrelatedperson\/init(coder:)",
-                        "title" : "init?(coder: NSCoder)",
-                        "type" : "init"
                       },
                       {
                         "path" : "\/documentation\/researchkit\/orkrelatedperson\/init(identifier:groupidentifier:identifierforcelltitle:taskresult:)",
@@ -1454,11 +1437,6 @@
                       {
                         "title" : "Initializers",
                         "type" : "groupMarker"
-                      },
-                      {
-                        "path" : "\/documentation\/researchkit\/orkbodyitem\/init(coder:)",
-                        "title" : "init?(coder: NSCoder)",
-                        "type" : "init"
                       },
                       {
                         "path" : "\/documentation\/researchkit\/orkbodyitem\/init(horizontalrule:)",
@@ -1711,11 +1689,6 @@
                         "type" : "groupMarker"
                       },
                       {
-                        "path" : "\/documentation\/researchkit\/orkformitem\/init(coder:)",
-                        "title" : "init?(coder: NSCoder)",
-                        "type" : "init"
-                      },
-                      {
                         "path" : "\/documentation\/researchkit\/orkformitem\/init(identifier:text:answerformat:)",
                         "title" : "init(identifier: String, text: String?, answerFormat: ORKAnswerFormat?)",
                         "type" : "init"
@@ -1809,17 +1782,6 @@
                     "type" : "class"
                   },
                   {
-                    "children" : [
-                      {
-                        "title" : "Initializers",
-                        "type" : "groupMarker"
-                      },
-                      {
-                        "path" : "\/documentation\/researchkit\/orknoanswer\/init(coder:)",
-                        "title" : "init?(coder: NSCoder)",
-                        "type" : "init"
-                      }
-                    ],
                     "path" : "\/documentation\/researchkit\/orknoanswer",
                     "title" : "ORKNoAnswer",
                     "type" : "class"
@@ -1997,11 +1959,6 @@
                         "type" : "groupMarker"
                       },
                       {
-                        "path" : "\/documentation\/researchkit\/orklearnmoreitem\/init(coder:)",
-                        "title" : "init?(coder: NSCoder)",
-                        "type" : "init"
-                      },
-                      {
                         "path" : "\/documentation\/researchkit\/orklearnmoreitem\/init(text:learnmoreinstructionstep:)-3i00l",
                         "title" : "init(text: String?, learnMoreInstructionStep: ORKLearnMoreInstructionStep)",
                         "type" : "init"
@@ -2102,15 +2059,6 @@
                   },
                   {
                     "children" : [
-                      {
-                        "title" : "Initializers",
-                        "type" : "groupMarker"
-                      },
-                      {
-                        "path" : "\/documentation\/researchkit\/orklocation\/init(coder:)",
-                        "title" : "init?(coder: NSCoder)",
-                        "type" : "init"
-                      },
                       {
                         "title" : "Instance Properties",
                         "type" : "groupMarker"
@@ -5132,15 +5080,6 @@
                   {
                     "children" : [
                       {
-                        "title" : "Initializers",
-                        "type" : "groupMarker"
-                      },
-                      {
-                        "path" : "\/documentation\/researchkit\/orkformitemvisibilityrule\/init(coder:)",
-                        "title" : "init?(coder: NSCoder)",
-                        "type" : "init"
-                      },
-                      {
                         "title" : "Instance Methods",
                         "type" : "groupMarker"
                       },
@@ -5547,11 +5486,6 @@
                         "type" : "groupMarker"
                       },
                       {
-                        "path" : "\/documentation\/researchkit\/orkresultselector\/init(coder:)",
-                        "title" : "init?(coder: NSCoder)",
-                        "type" : "init"
-                      },
-                      {
                         "path" : "\/documentation\/researchkit\/orkresultselector\/init(resultidentifier:)",
                         "title" : "convenience init(resultIdentifier: String)",
                         "type" : "init"
@@ -5827,11 +5761,6 @@
                         "type" : "init"
                       },
                       {
-                        "path" : "\/documentation\/researchkit\/orktaskresult\/init(taskidentifier:taskrunuuid:outputdirectory:)",
-                        "title" : "init(taskIdentifier: String, taskRunUUID: UUID, outputDirectory: URL?)",
-                        "type" : "init"
-                      },
-                      {
                         "title" : "Instance Properties",
                         "type" : "groupMarker"
                       },
@@ -6068,15 +5997,6 @@
                   {
                     "children" : [
                       {
-                        "title" : "Initializers",
-                        "type" : "groupMarker"
-                      },
-                      {
-                        "path" : "\/documentation\/researchkit\/orkcollector\/init(coder:)",
-                        "title" : "init?(coder: NSCoder)",
-                        "type" : "init"
-                      },
-                      {
                         "title" : "Instance Properties",
                         "type" : "groupMarker"
                       },
@@ -6271,11 +6191,6 @@
                       {
                         "title" : "Initializers",
                         "type" : "groupMarker"
-                      },
-                      {
-                        "path" : "\/documentation\/researchkit\/orkbundleasset\/init(coder:)",
-                        "title" : "init?(coder: NSCoder)",
-                        "type" : "init"
                       },
                       {
                         "path" : "\/documentation\/researchkit\/orkbundleasset\/init(name:bundleidentifier:fileextension:)",
@@ -6733,15 +6648,6 @@
               {
                 "children" : [
                   {
-                    "title" : "Initializers",
-                    "type" : "groupMarker"
-                  },
-                  {
-                    "path" : "\/documentation\/researchkit\/orkrecorderconfiguration\/init(coder:)",
-                    "title" : "init?(coder: NSCoder)",
-                    "type" : "init"
-                  },
-                  {
                     "title" : "Instance Properties",
                     "type" : "groupMarker"
                   },
@@ -6803,11 +6709,6 @@
                   {
                     "path" : "\/documentation\/researchkit\/orkearlyterminationconfiguration\/init(buttontext:earlyterminationstep:)",
                     "title" : "init(buttonText: String, earlyTerminationStep: ORKStep)",
-                    "type" : "init"
-                  },
-                  {
-                    "path" : "\/documentation\/researchkit\/orkearlyterminationconfiguration\/init(coder:)",
-                    "title" : "init?(coder: NSCoder)",
                     "type" : "init"
                   },
                   {
@@ -6940,15 +6841,6 @@
               {
                 "children" : [
                   {
-                    "title" : "Initializers",
-                    "type" : "groupMarker"
-                  },
-                  {
-                    "path" : "\/documentation\/researchkit\/orkconsentdocument\/init(coder:)",
-                    "title" : "init?(coder: NSCoder)",
-                    "type" : "init"
-                  },
-                  {
                     "title" : "Instance Properties",
                     "type" : "groupMarker"
                   },
@@ -7016,11 +6908,6 @@
                   {
                     "title" : "Initializers",
                     "type" : "groupMarker"
-                  },
-                  {
-                    "path" : "\/documentation\/researchkit\/orkconsentsection\/init(coder:)",
-                    "title" : "init?(coder: NSCoder)",
-                    "type" : "init"
                   },
                   {
                     "path" : "\/documentation\/researchkit\/orkconsentsection\/init(type:)",
@@ -7299,11 +7186,6 @@
                     "type" : "groupMarker"
                   },
                   {
-                    "path" : "\/documentation\/researchkit\/orkconsentsignature\/init(coder:)",
-                    "title" : "init?(coder: NSCoder)",
-                    "type" : "init"
-                  },
-                  {
                     "path" : "\/documentation\/researchkit\/orkconsentsignature\/init(forpersonwithtitle:dateformatstring:identifier:)",
                     "title" : "init(forPersonWithTitle: String?, dateFormatString: String?, identifier: String)",
                     "type" : "init"
@@ -7465,11 +7347,6 @@
                   {
                     "title" : "Initializers",
                     "type" : "groupMarker"
-                  },
-                  {
-                    "path" : "\/documentation\/researchkit\/orkformitem\/init(coder:)",
-                    "title" : "init?(coder: NSCoder)",
-                    "type" : "init"
                   },
                   {
                     "path" : "\/documentation\/researchkit\/orkformitem\/init(identifier:text:answerformat:)",
@@ -7714,11 +7591,6 @@
                         "type" : "groupMarker"
                       },
                       {
-                        "path" : "\/documentation\/researchkit\/orkcolorchoice\/init(coder:)",
-                        "title" : "init?(coder: NSCoder)",
-                        "type" : "init"
-                      },
-                      {
                         "path" : "\/documentation\/researchkit\/orkcolorchoice\/init(color:text:detailtext:value:)",
                         "title" : "init(color: UIColor?, text: String?, detailText: String?, value: any NSCopying & NSSecureCoding & NSObjectProtocol)",
                         "type" : "init"
@@ -7768,15 +7640,6 @@
                   },
                   {
                     "children" : [
-                      {
-                        "title" : "Initializers",
-                        "type" : "groupMarker"
-                      },
-                      {
-                        "path" : "\/documentation\/researchkit\/orkanswerformat\/init(coder:)",
-                        "title" : "init?(coder: NSCoder)",
-                        "type" : "init"
-                      },
                       {
                         "title" : "Instance Properties",
                         "type" : "groupMarker"
@@ -8572,11 +8435,6 @@
                         "type" : "groupMarker"
                       },
                       {
-                        "path" : "\/documentation\/researchkit\/orkimagechoice\/init(coder:)",
-                        "title" : "init?(coder: NSCoder)",
-                        "type" : "init"
-                      },
-                      {
                         "path" : "\/documentation\/researchkit\/orkimagechoice\/init(normalimage:selectedimage:text:value:)",
                         "title" : "init(normalImage: UIImage?, selectedImage: UIImage?, text: String?, value: any NSCopying & NSSecureCoding & NSObjectProtocol)",
                         "type" : "init"
@@ -9331,11 +9189,6 @@
                       {
                         "title" : "Initializers",
                         "type" : "groupMarker"
-                      },
-                      {
-                        "path" : "\/documentation\/researchkit\/orktextchoice\/init(coder:)",
-                        "title" : "init?(coder: NSCoder)",
-                        "type" : "init"
                       },
                       {
                         "path" : "\/documentation\/researchkit\/orktextchoice\/init(text:detailtext:value:exclusive:)",
@@ -11619,6 +11472,6 @@
   "schemaVersion" : {
     "major" : 0,
     "minor" : 1,
-    "patch" : 1
+    "patch" : 2
   }
 }

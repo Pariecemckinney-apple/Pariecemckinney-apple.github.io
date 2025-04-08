@@ -110,6 +110,8 @@
   ],
   "topicSections" : [
     {
+      "anchor" : "Initializers",
+      "generated" : true,
       "identifiers" : [
         "doc:\/\/com.apple.ResearchKit\/documentation\/ResearchKit\/ORKWebViewStep\/init(identifier:html:)",
         "doc:\/\/com.apple.ResearchKit\/documentation\/ResearchKit\/ORKWebViewStep\/init(identifier:instructionSteps:)"
@@ -117,6 +119,8 @@
       "title" : "Initializers"
     },
     {
+      "anchor" : "Instance-Properties",
+      "generated" : true,
       "identifiers" : [
         "doc:\/\/com.apple.ResearchKit\/documentation\/ResearchKit\/ORKWebViewStep\/customCSS",
         "doc:\/\/com.apple.ResearchKit\/documentation\/ResearchKit\/ORKWebViewStep\/customViewProvider",

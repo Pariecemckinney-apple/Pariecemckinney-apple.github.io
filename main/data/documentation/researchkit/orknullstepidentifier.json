@@ -96,6 +96,7 @@
   ],
   "seeAlsoSections" : [
     {
+      "anchor" : "Navigation",
       "generated" : true,
       "identifiers" : [
         "doc:\/\/com.apple.ResearchKit\/documentation\/ResearchKit\/ORKStepNavigationRule",

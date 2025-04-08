@@ -110,6 +110,7 @@
   ],
   "seeAlsoSections" : [
     {
+      "anchor" : "Image-and-3D-model-steps",
       "generated" : true,
       "identifiers" : [
         "doc:\/\/com.apple.ResearchKit\/documentation\/ResearchKit\/ORKFrontFacingCameraStep"
@@ -119,6 +120,8 @@
   ],
   "topicSections" : [
     {
+      "anchor" : "Instance-Properties",
+      "generated" : true,
       "identifiers" : [
         "doc:\/\/com.apple.ResearchKit\/documentation\/ResearchKit\/ORKImageCaptureStep\/accessibilityHint",
         "doc:\/\/com.apple.ResearchKit\/documentation\/ResearchKit\/ORKImageCaptureStep\/accessibilityInstructions",

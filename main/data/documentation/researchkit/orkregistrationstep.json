@@ -110,6 +110,7 @@
   ],
   "seeAlsoSections" : [
     {
+      "anchor" : "Registration-steps",
       "generated" : true,
       "identifiers" : [
         "doc:\/\/com.apple.ResearchKit\/documentation\/ResearchKit\/ORKRegistrationStepOption",
@@ -126,6 +127,8 @@
   ],
   "topicSections" : [
     {
+      "anchor" : "Initializers",
+      "generated" : true,
       "identifiers" : [
         "doc:\/\/com.apple.ResearchKit\/documentation\/ResearchKit\/ORKRegistrationStep\/init(identifier:title:text:options:)",
         "doc:\/\/com.apple.ResearchKit\/documentation\/ResearchKit\/ORKRegistrationStep\/init(identifier:title:text:passcodeValidationRegularExpression:passcodeInvalidMessage:options:)"
@@ -133,6 +136,8 @@
       "title" : "Initializers"
     },
     {
+      "anchor" : "Instance-Properties",
+      "generated" : true,
       "identifiers" : [
         "doc:\/\/com.apple.ResearchKit\/documentation\/ResearchKit\/ORKRegistrationStep\/options",
         "doc:\/\/com.apple.ResearchKit\/documentation\/ResearchKit\/ORKRegistrationStep\/passcodeInvalidMessage",

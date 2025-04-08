@@ -37,6 +37,7 @@
   ],
   "seeAlsoSections" : [
     {
+      "anchor" : "Other",
       "generated" : true,
       "identifiers" : [
         "doc:\/\/com.apple.ResearchKit\/documentation\/ResearchKit\/Constants",
@@ -47,6 +48,7 @@
   ],
   "topicSections" : [
     {
+      "anchor" : "Enumerations",
       "identifiers" : [
         "doc:\/\/com.apple.ResearchKit\/documentation\/ResearchKit\/ORKAudioChannel",
         "doc:\/\/com.apple.ResearchKit\/documentation\/ResearchKit\/ORKBodySagittal",

@@ -111,6 +111,7 @@
   ],
   "seeAlsoSections" : [
     {
+      "anchor" : "Image",
       "generated" : true,
       "identifiers" : [
         "doc:\/\/com.apple.ResearchKit\/documentation\/ResearchKit\/ORKImageChoice"
@@ -120,6 +121,8 @@
   ],
   "topicSections" : [
     {
+      "anchor" : "Initializers",
+      "generated" : true,
       "identifiers" : [
         "doc:\/\/com.apple.ResearchKit\/documentation\/ResearchKit\/ORKImageChoiceAnswerFormat\/init(imageChoices:)",
         "doc:\/\/com.apple.ResearchKit\/documentation\/ResearchKit\/ORKImageChoiceAnswerFormat\/init(imageChoices:style:vertical:)"
@@ -127,6 +130,8 @@
       "title" : "Initializers"
     },
     {
+      "anchor" : "Instance-Properties",
+      "generated" : true,
       "identifiers" : [
         "doc:\/\/com.apple.ResearchKit\/documentation\/ResearchKit\/ORKImageChoiceAnswerFormat\/imageChoices",
         "doc:\/\/com.apple.ResearchKit\/documentation\/ResearchKit\/ORKImageChoiceAnswerFormat\/isVertical",

@@ -102,6 +102,7 @@
   ],
   "seeAlsoSections" : [
     {
+      "anchor" : "Consent-presentation",
       "generated" : true,
       "identifiers" : [
         "doc:\/\/com.apple.ResearchKit\/documentation\/ResearchKit\/ORKConsentDocument",
@@ -115,6 +116,8 @@
   ],
   "topicSections" : [
     {
+      "anchor" : "Instance-Methods",
+      "generated" : true,
       "identifiers" : [
         "doc:\/\/com.apple.ResearchKit\/documentation\/ResearchKit\/ORKCustomSignatureAccessoryViewDelegate\/customViewDidChangeCompletedState(_:)",
         "doc:\/\/com.apple.ResearchKit\/documentation\/ResearchKit\/ORKCustomSignatureAccessoryViewDelegate\/rectInFooterView(for:)",

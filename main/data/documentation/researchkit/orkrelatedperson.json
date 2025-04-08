@@ -110,6 +110,7 @@
   ],
   "seeAlsoSections" : [
     {
+      "anchor" : "Family-History",
       "generated" : true,
       "identifiers" : [
         "doc:\/\/com.apple.ResearchKit\/documentation\/ResearchKit\/ORKFamilyHistoryStep",
@@ -122,13 +123,16 @@
   ],
   "topicSections" : [
     {
+      "anchor" : "Initializers",
+      "generated" : true,
       "identifiers" : [
-        "doc:\/\/com.apple.ResearchKit\/documentation\/ResearchKit\/ORKRelatedPerson\/init(coder:)",
         "doc:\/\/com.apple.ResearchKit\/documentation\/ResearchKit\/ORKRelatedPerson\/init(identifier:groupIdentifier:identifierForCellTitle:taskResult:)"
       ],
       "title" : "Initializers"
     },
     {
+      "anchor" : "Instance-Properties",
+      "generated" : true,
       "identifiers" : [
         "doc:\/\/com.apple.ResearchKit\/documentation\/ResearchKit\/ORKRelatedPerson\/groupIdentifier",
         "doc:\/\/com.apple.ResearchKit\/documentation\/ResearchKit\/ORKRelatedPerson\/identifier",
@@ -138,6 +142,8 @@
       "title" : "Instance Properties"
     },
     {
+      "anchor" : "Instance-Methods",
+      "generated" : true,
       "identifiers" : [
         "doc:\/\/com.apple.ResearchKit\/documentation\/ResearchKit\/ORKRelatedPerson\/getConditionsList(withStepIdentifier:formItemIdentifier:conditionsKeyValues:)",
         "doc:\/\/com.apple.ResearchKit\/documentation\/ResearchKit\/ORKRelatedPerson\/getDetailListValues(withIdentifiers:displayInfoKeyAndValues:)",
@@ -652,44 +658,6 @@
   "title" : "identifierForCellTitle",
   "type" : "topic",
   "url" : "\/documentation\/researchkit\/orkrelatedperson\/identifierforcelltitle"
-},
-"doc://com.apple.ResearchKit/documentation/ResearchKit/ORKRelatedPerson/init(coder:)": {
-  "abstract" : [
-
-  ],
-  "fragments" : [
-    {
-      "kind" : "identifier",
-      "text" : "init"
-    },
-    {
-      "kind" : "text",
-      "text" : "?("
-    },
-    {
-      "kind" : "externalParam",
-      "text" : "coder"
-    },
-    {
-      "kind" : "text",
-      "text" : ": "
-    },
-    {
-      "kind" : "typeIdentifier",
-      "preciseIdentifier" : "c:objc(cs)NSCoder",
-      "text" : "NSCoder"
-    },
-    {
-      "kind" : "text",
-      "text" : ")"
-    }
-  ],
-  "identifier" : "doc:\/\/com.apple.ResearchKit\/documentation\/ResearchKit\/ORKRelatedPerson\/init(coder:)",
-  "kind" : "symbol",
-  "role" : "symbol",
-  "title" : "init(coder:)",
-  "type" : "topic",
-  "url" : "\/documentation\/researchkit\/orkrelatedperson\/init(coder:)"
 },
 "doc://com.apple.ResearchKit/documentation/ResearchKit/ORKRelatedPerson/init(identifier:groupIdentifier:identifierForCellTitle:taskResult:)": {
   "abstract" : [

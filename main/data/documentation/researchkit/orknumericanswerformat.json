@@ -111,6 +111,7 @@
   ],
   "seeAlsoSections" : [
     {
+      "anchor" : "Numeric",
       "generated" : true,
       "identifiers" : [
         "doc:\/\/com.apple.ResearchKit\/documentation\/ResearchKit\/ORKNumericAnswerStyle"
@@ -120,6 +121,8 @@
   ],
   "topicSections" : [
     {
+      "anchor" : "Initializers",
+      "generated" : true,
       "identifiers" : [
         "doc:\/\/com.apple.ResearchKit\/documentation\/ResearchKit\/ORKNumericAnswerFormat\/init(style:)",
         "doc:\/\/com.apple.ResearchKit\/documentation\/ResearchKit\/ORKNumericAnswerFormat\/init(style:unit:)",
@@ -130,6 +133,8 @@
       "title" : "Initializers"
     },
     {
+      "anchor" : "Instance-Properties",
+      "generated" : true,
       "identifiers" : [
         "doc:\/\/com.apple.ResearchKit\/documentation\/ResearchKit\/ORKNumericAnswerFormat\/defaultNumericAnswer",
         "doc:\/\/com.apple.ResearchKit\/documentation\/ResearchKit\/ORKNumericAnswerFormat\/displayUnit",

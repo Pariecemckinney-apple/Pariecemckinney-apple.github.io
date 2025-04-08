@@ -119,6 +119,7 @@
   ],
   "seeAlsoSections" : [
     {
+      "anchor" : "Permissions",
       "generated" : true,
       "identifiers" : [
         "doc:\/\/com.apple.ResearchKit\/documentation\/ResearchKit\/ORKHealthKitPermissionType",
@@ -135,6 +136,8 @@
   ],
   "topicSections" : [
     {
+      "anchor" : "Instance-Properties",
+      "generated" : true,
       "identifiers" : [
         "doc:\/\/com.apple.ResearchKit\/documentation\/ResearchKit\/ORKPermissionType\/canContinue",
         "doc:\/\/com.apple.ResearchKit\/documentation\/ResearchKit\/ORKPermissionType\/iconTintColor",
@@ -147,6 +150,8 @@
       "title" : "Instance Properties"
     },
     {
+      "anchor" : "Instance-Methods",
+      "generated" : true,
       "identifiers" : [
         "doc:\/\/com.apple.ResearchKit\/documentation\/ResearchKit\/ORKPermissionType\/cleanUp()",
         "doc:\/\/com.apple.ResearchKit\/documentation\/ResearchKit\/ORKPermissionType\/request()"
@@ -154,6 +159,8 @@
       "title" : "Instance Methods"
     },
     {
+      "anchor" : "Type-Methods",
+      "generated" : true,
       "identifiers" : [
         "doc:\/\/com.apple.ResearchKit\/documentation\/ResearchKit\/ORKPermissionType\/deviceMotionPermissionType()",
         "doc:\/\/com.apple.ResearchKit\/documentation\/ResearchKit\/ORKPermissionType\/healthKitPermissionTypeWithSampleTypes(toWrite:objectTypesToRead:)",

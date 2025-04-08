@@ -77,6 +77,7 @@
   "relationshipsSections" : [
     {
       "identifiers" : [
+        "doc:\/\/com.apple.ResearchKit\/s15BitwiseCopyableP",
         "doc:\/\/com.apple.ResearchKit\/SQ",
         "doc:\/\/com.apple.ResearchKit\/SH",
         "doc:\/\/com.apple.ResearchKit\/SY",
@@ -97,6 +98,7 @@
   ],
   "seeAlsoSections" : [
     {
+      "anchor" : "Form-steps",
       "generated" : true,
       "identifiers" : [
         "doc:\/\/com.apple.ResearchKit\/documentation\/ResearchKit\/ORKFormStep",
@@ -114,6 +116,8 @@
   ],
   "topicSections" : [
     {
+      "anchor" : "Enumeration-Cases",
+      "generated" : true,
       "identifiers" : [
         "doc:\/\/com.apple.ResearchKit\/documentation\/ResearchKit\/ORKCardViewStyle\/bordered",
         "doc:\/\/com.apple.ResearchKit\/documentation\/ResearchKit\/ORKCardViewStyle\/default"
@@ -121,12 +125,15 @@
       "title" : "Enumeration Cases"
     },
     {
+      "anchor" : "Initializers",
+      "generated" : true,
       "identifiers" : [
         "doc:\/\/com.apple.ResearchKit\/documentation\/ResearchKit\/ORKCardViewStyle\/init(rawValue:)"
       ],
       "title" : "Initializers"
     },
     {
+      "anchor" : "Default-Implementations",
       "generated" : true,
       "identifiers" : [
         "doc:\/\/com.apple.ResearchKit\/documentation\/ResearchKit\/ORKCardViewStyle\/Equatable-Implementations",
@@ -625,6 +632,11 @@
   "title" : "Steps, tasks, and results",
   "type" : "topic",
   "url" : "\/documentation\/researchkit\/steps-tasks-results"
+},
+"doc://com.apple.ResearchKit/s15BitwiseCopyableP": {
+  "identifier" : "doc:\/\/com.apple.ResearchKit\/s15BitwiseCopyableP",
+  "title" : "Swift.BitwiseCopyable",
+  "type" : "unresolvable"
 },
 "doc://com.apple.ResearchKit/s8SendableP": {
   "identifier" : "doc:\/\/com.apple.ResearchKit\/s8SendableP",

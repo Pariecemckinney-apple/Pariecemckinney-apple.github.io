@@ -37,6 +37,7 @@
   ],
   "seeAlsoSections" : [
     {
+      "anchor" : "Other",
       "generated" : true,
       "identifiers" : [
         "doc:\/\/com.apple.ResearchKit\/documentation\/ResearchKit\/Enumerations",
@@ -47,6 +48,7 @@
   ],
   "topicSections" : [
     {
+      "anchor" : "Constants",
       "identifiers" : [
         "doc:\/\/com.apple.ResearchKit\/documentation\/ResearchKit\/CheckmarkViewDimension",
         "doc:\/\/com.apple.ResearchKit\/documentation\/ResearchKit\/ORKAuxiliaryImageTintColorKey",

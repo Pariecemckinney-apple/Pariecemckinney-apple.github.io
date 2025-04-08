@@ -118,6 +118,7 @@
   ],
   "seeAlsoSections" : [
     {
+      "anchor" : "Active-steps",
       "generated" : true,
       "identifiers" : [
         "doc:\/\/com.apple.ResearchKit\/documentation\/ResearchKit\/ORKMotionActivityCollector",
@@ -128,6 +129,8 @@
   ],
   "topicSections" : [
     {
+      "anchor" : "Instance-Properties",
+      "generated" : true,
       "identifiers" : [
         "doc:\/\/com.apple.ResearchKit\/documentation\/ResearchKit\/ORKActiveStep\/finishedSpokenInstruction",
         "doc:\/\/com.apple.ResearchKit\/documentation\/ResearchKit\/ORKActiveStep\/recorderConfigurations",

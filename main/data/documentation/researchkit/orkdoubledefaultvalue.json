@@ -96,6 +96,7 @@
   ],
   "seeAlsoSections" : [
     {
+      "anchor" : "Height-and-Weight",
       "generated" : true,
       "identifiers" : [
         "doc:\/\/com.apple.ResearchKit\/documentation\/ResearchKit\/ORKHeightAnswerFormat",

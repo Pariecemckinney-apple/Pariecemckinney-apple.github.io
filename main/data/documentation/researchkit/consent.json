@@ -37,6 +37,7 @@
   ],
   "seeAlsoSections" : [
     {
+      "anchor" : "Research-components",
       "generated" : true,
       "identifiers" : [
         "doc:\/\/com.apple.ResearchKit\/documentation\/ResearchKit\/Surveys",
@@ -47,6 +48,7 @@
   ],
   "topicSections" : [
     {
+      "anchor" : "Consent-presentation",
       "identifiers" : [
         "doc:\/\/com.apple.ResearchKit\/documentation\/ResearchKit\/ORKConsentDocument",
         "doc:\/\/com.apple.ResearchKit\/documentation\/ResearchKit\/ORKConsentSection",
@@ -58,6 +60,7 @@
       "title" : "Consent presentation"
     },
     {
+      "anchor" : "Signature-acquisition",
       "identifiers" : [
         "doc:\/\/com.apple.ResearchKit\/documentation\/ResearchKit\/ORKConsentSignature",
         "doc:\/\/com.apple.ResearchKit\/documentation\/ResearchKit\/ORKSignatureFormatter",

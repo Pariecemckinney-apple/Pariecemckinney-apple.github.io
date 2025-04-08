@@ -110,6 +110,7 @@
   ],
   "seeAlsoSections" : [
     {
+      "anchor" : "Family-History",
       "generated" : true,
       "identifiers" : [
         "doc:\/\/com.apple.ResearchKit\/documentation\/ResearchKit\/ORKConditionStepConfiguration",
@@ -122,6 +123,8 @@
   ],
   "topicSections" : [
     {
+      "anchor" : "Instance-Properties",
+      "generated" : true,
       "identifiers" : [
         "doc:\/\/com.apple.ResearchKit\/documentation\/ResearchKit\/ORKFamilyHistoryStep\/conditionStepConfiguration",
         "doc:\/\/com.apple.ResearchKit\/documentation\/ResearchKit\/ORKFamilyHistoryStep\/relativeGroups"

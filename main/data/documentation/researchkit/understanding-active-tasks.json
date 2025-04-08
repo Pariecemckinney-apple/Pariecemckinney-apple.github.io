@@ -4758,6 +4758,7 @@
   ],
   "seeAlsoSections" : [
     {
+      "anchor" : "Research-components",
       "generated" : true,
       "identifiers" : [
         "doc:\/\/com.apple.ResearchKit\/documentation\/ResearchKit\/Consent",
@@ -4790,7 +4791,7 @@
         "3x",
         "light"
       ],
-      "url" : "\/images\/amsler-grid-1@3x.PNG"
+      "url" : "\/images\/com.apple.ResearchKit\/amsler-grid-1@3x.PNG"
     }
   ]
 },
@@ -4804,7 +4805,7 @@
         "3x",
         "light"
       ],
-      "url" : "\/images\/amsler-grid-2@3x.PNG"
+      "url" : "\/images\/com.apple.ResearchKit\/amsler-grid-2@3x.PNG"
     }
   ]
 },
@@ -4818,7 +4819,7 @@
         "3x",
         "light"
       ],
-      "url" : "\/images\/amsler-grid-3@3x.PNG"
+      "url" : "\/images\/com.apple.ResearchKit\/amsler-grid-3@3x.PNG"
     }
   ]
 },
@@ -4832,7 +4833,7 @@
         "3x",
         "light"
       ],
-      "url" : "\/images\/amsler-grid-4@3x.PNG"
+      "url" : "\/images\/com.apple.ResearchKit\/amsler-grid-4@3x.PNG"
     }
   ]
 },
@@ -4846,7 +4847,7 @@
         "3x",
         "light"
       ],
-      "url" : "\/images\/amsler-grid-5@3x.PNG"
+      "url" : "\/images\/com.apple.ResearchKit\/amsler-grid-5@3x.PNG"
     }
   ]
 },
@@ -4860,7 +4861,7 @@
         "3x",
         "light"
       ],
-      "url" : "\/images\/amsler-grid-6@3x.PNG"
+      "url" : "\/images\/com.apple.ResearchKit\/amsler-grid-6@3x.PNG"
     }
   ]
 },
@@ -4874,7 +4875,7 @@
         "3x",
         "light"
       ],
-      "url" : "\/images\/audio-task-1@3x.PNG"
+      "url" : "\/images\/com.apple.ResearchKit\/audio-task-1@3x.PNG"
     }
   ]
 },
@@ -4888,7 +4889,7 @@
         "3x",
         "light"
       ],
-      "url" : "\/images\/audio-task-2@3x.PNG"
+      "url" : "\/images\/com.apple.ResearchKit\/audio-task-2@3x.PNG"
     }
   ]
 },
@@ -4902,7 +4903,7 @@
         "3x",
         "light"
       ],
-      "url" : "\/images\/audio-task-3@3x.PNG"
+      "url" : "\/images\/com.apple.ResearchKit\/audio-task-3@3x.PNG"
     }
   ]
 },
@@ -4916,7 +4917,7 @@
         "3x",
         "light"
       ],
-      "url" : "\/images\/audio-task-4@3x.PNG"
+      "url" : "\/images\/com.apple.ResearchKit\/audio-task-4@3x.PNG"
     }
   ]
 },
@@ -4930,7 +4931,7 @@
         "3x",
         "light"
       ],
-      "url" : "\/images\/audio-task-5@3x.PNG"
+      "url" : "\/images\/com.apple.ResearchKit\/audio-task-5@3x.PNG"
     }
   ]
 },
@@ -4944,7 +4945,7 @@
         "3x",
         "light"
       ],
-      "url" : "\/images\/dbhl-tone-audiometry-task-1@3x.PNG"
+      "url" : "\/images\/com.apple.ResearchKit\/dbhl-tone-audiometry-task-1@3x.PNG"
     }
   ]
 },
@@ -4958,7 +4959,7 @@
         "3x",
         "light"
       ],
-      "url" : "\/images\/dbhl-tone-audiometry-task-2@3x.PNG"
+      "url" : "\/images\/com.apple.ResearchKit\/dbhl-tone-audiometry-task-2@3x.PNG"
     }
   ]
 },
@@ -4972,7 +4973,7 @@
         "3x",
         "light"
       ],
-      "url" : "\/images\/dbhl-tone-audiometry-task-3@3x.PNG"
+      "url" : "\/images\/com.apple.ResearchKit\/dbhl-tone-audiometry-task-3@3x.PNG"
     }
   ]
 },
@@ -4986,7 +4987,7 @@
         "3x",
         "light"
       ],
-      "url" : "\/images\/dbhl-tone-audiometry-task-4@3x.PNG"
+      "url" : "\/images\/com.apple.ResearchKit\/dbhl-tone-audiometry-task-4@3x.PNG"
     }
   ]
 },
@@ -5000,7 +5001,7 @@
         "3x",
         "light"
       ],
-      "url" : "\/images\/dbhl-tone-audiometry-task-5@3x.PNG"
+      "url" : "\/images\/com.apple.ResearchKit\/dbhl-tone-audiometry-task-5@3x.PNG"
     }
   ]
 },
@@ -5014,7 +5015,7 @@
         "3x",
         "light"
       ],
-      "url" : "\/images\/dbhl-tone-audiometry-task-6@3x.PNG"
+      "url" : "\/images\/com.apple.ResearchKit\/dbhl-tone-audiometry-task-6@3x.PNG"
     }
   ]
 },
@@ -5028,7 +5029,7 @@
         "3x",
         "light"
       ],
-      "url" : "\/images\/dbhl-tone-audiometry-task-7@3x.PNG"
+      "url" : "\/images\/com.apple.ResearchKit\/dbhl-tone-audiometry-task-7@3x.PNG"
     }
   ]
 },
@@ -5042,7 +5043,7 @@
         "3x",
         "light"
       ],
-      "url" : "\/images\/dbhl-tone-audiometry-task-8@3x.PNG"
+      "url" : "\/images\/com.apple.ResearchKit\/dbhl-tone-audiometry-task-8@3x.PNG"
     }
   ]
 },
@@ -5056,7 +5057,7 @@
         "3x",
         "light"
       ],
-      "url" : "\/images\/dbhl-tone-audiometry-task-9@3x.PNG"
+      "url" : "\/images\/com.apple.ResearchKit\/dbhl-tone-audiometry-task-9@3x.PNG"
     }
   ]
 },
@@ -5112,7 +5113,7 @@
         "3x",
         "light"
       ],
-      "url" : "\/images\/fitness-task-1@3x.PNG"
+      "url" : "\/images\/com.apple.ResearchKit\/fitness-task-1@3x.PNG"
     }
   ]
 },
@@ -5126,7 +5127,7 @@
         "3x",
         "light"
       ],
-      "url" : "\/images\/fitness-task-2@3x.PNG"
+      "url" : "\/images\/com.apple.ResearchKit\/fitness-task-2@3x.PNG"
     }
   ]
 },
@@ -5140,7 +5141,7 @@
         "3x",
         "light"
       ],
-      "url" : "\/images\/fitness-task-3@3x.PNG"
+      "url" : "\/images\/com.apple.ResearchKit\/fitness-task-3@3x.PNG"
     }
   ]
 },
@@ -5154,7 +5155,7 @@
         "3x",
         "light"
       ],
-      "url" : "\/images\/fitness-task-4@3x.PNG"
+      "url" : "\/images\/com.apple.ResearchKit\/fitness-task-4@3x.PNG"
     }
   ]
 },
@@ -5168,7 +5169,7 @@
         "3x",
         "light"
       ],
-      "url" : "\/images\/fitness-task-5@3x.PNG"
+      "url" : "\/images\/com.apple.ResearchKit\/fitness-task-5@3x.PNG"
     }
   ]
 },
@@ -5182,7 +5183,7 @@
         "3x",
         "light"
       ],
-      "url" : "\/images\/fitness-task-6@3x.PNG"
+      "url" : "\/images\/com.apple.ResearchKit\/fitness-task-6@3x.PNG"
     }
   ]
 },
@@ -5196,7 +5197,7 @@
         "3x",
         "light"
       ],
-      "url" : "\/images\/fitness-task-7@3x.PNG"
+      "url" : "\/images\/com.apple.ResearchKit\/fitness-task-7@3x.PNG"
     }
   ]
 },
@@ -5210,7 +5211,7 @@
         "3x",
         "light"
       ],
-      "url" : "\/images\/hole-peg-task-1@3x.PNG"
+      "url" : "\/images\/com.apple.ResearchKit\/hole-peg-task-1@3x.PNG"
     }
   ]
 },
@@ -5224,7 +5225,7 @@
         "3x",
         "light"
       ],
-      "url" : "\/images\/hole-peg-task-2@3x.PNG"
+      "url" : "\/images\/com.apple.ResearchKit\/hole-peg-task-2@3x.PNG"
     }
   ]
 },
@@ -5238,7 +5239,7 @@
         "3x",
         "light"
       ],
-      "url" : "\/images\/hole-peg-task-3@3x.PNG"
+      "url" : "\/images\/com.apple.ResearchKit\/hole-peg-task-3@3x.PNG"
     }
   ]
 },
@@ -5252,7 +5253,7 @@
         "3x",
         "light"
       ],
-      "url" : "\/images\/hole-peg-task-4@3x.PNG"
+      "url" : "\/images\/com.apple.ResearchKit\/hole-peg-task-4@3x.PNG"
     }
   ]
 },
@@ -5266,7 +5267,7 @@
         "3x",
         "light"
       ],
-      "url" : "\/images\/hole-peg-task-5@3x.PNG"
+      "url" : "\/images\/com.apple.ResearchKit\/hole-peg-task-5@3x.PNG"
     }
   ]
 },
@@ -5280,7 +5281,7 @@
         "3x",
         "light"
       ],
-      "url" : "\/images\/hole-peg-task-6@3x.PNG"
+      "url" : "\/images\/com.apple.ResearchKit\/hole-peg-task-6@3x.PNG"
     }
   ]
 },
@@ -5294,7 +5295,7 @@
         "3x",
         "light"
       ],
-      "url" : "\/images\/hole-peg-task-7@3x.PNG"
+      "url" : "\/images\/com.apple.ResearchKit\/hole-peg-task-7@3x.PNG"
     }
   ]
 },
@@ -5392,7 +5393,7 @@
         "3x",
         "light"
       ],
-      "url" : "\/images\/knee-range-of-motion-1@3x.PNG"
+      "url" : "\/images\/com.apple.ResearchKit\/knee-range-of-motion-1@3x.PNG"
     }
   ]
 },
@@ -5406,7 +5407,7 @@
         "3x",
         "light"
       ],
-      "url" : "\/images\/knee-range-of-motion-2@3x.PNG"
+      "url" : "\/images\/com.apple.ResearchKit\/knee-range-of-motion-2@3x.PNG"
     }
   ]
 },
@@ -5420,7 +5421,7 @@
         "3x",
         "light"
       ],
-      "url" : "\/images\/knee-range-of-motion-3@3x.PNG"
+      "url" : "\/images\/com.apple.ResearchKit\/knee-range-of-motion-3@3x.PNG"
     }
   ]
 },
@@ -5434,7 +5435,7 @@
         "3x",
         "light"
       ],
-      "url" : "\/images\/knee-range-of-motion-4@3x.PNG"
+      "url" : "\/images\/com.apple.ResearchKit\/knee-range-of-motion-4@3x.PNG"
     }
   ]
 },
@@ -5448,7 +5449,7 @@
         "3x",
         "light"
       ],
-      "url" : "\/images\/psat-task-1@3x.PNG"
+      "url" : "\/images\/com.apple.ResearchKit\/psat-task-1@3x.PNG"
     }
   ]
 },
@@ -5462,7 +5463,7 @@
         "3x",
         "light"
       ],
-      "url" : "\/images\/psat-task-2@3x.PNG"
+      "url" : "\/images\/com.apple.ResearchKit\/psat-task-2@3x.PNG"
     }
   ]
 },
@@ -5476,7 +5477,7 @@
         "3x",
         "light"
       ],
-      "url" : "\/images\/psat-task-3@3x.PNG"
+      "url" : "\/images\/com.apple.ResearchKit\/psat-task-3@3x.PNG"
     }
   ]
 },
@@ -5490,7 +5491,7 @@
         "3x",
         "light"
       ],
-      "url" : "\/images\/psat-task-4@3x.PNG"
+      "url" : "\/images\/com.apple.ResearchKit\/psat-task-4@3x.PNG"
     }
   ]
 },
@@ -5504,7 +5505,7 @@
         "3x",
         "light"
       ],
-      "url" : "\/images\/psat-task-5@3x.PNG"
+      "url" : "\/images\/com.apple.ResearchKit\/psat-task-5@3x.PNG"
     }
   ]
 },
@@ -5518,7 +5519,7 @@
         "3x",
         "light"
       ],
-      "url" : "\/images\/reaction-time-task-1@3x.PNG"
+      "url" : "\/images\/com.apple.ResearchKit\/reaction-time-task-1@3x.PNG"
     }
   ]
 },
@@ -5532,7 +5533,7 @@
         "3x",
         "light"
       ],
-      "url" : "\/images\/reaction-time-task-2@3x.PNG"
+      "url" : "\/images\/com.apple.ResearchKit\/reaction-time-task-2@3x.PNG"
     }
   ]
 },
@@ -5546,7 +5547,7 @@
         "3x",
         "light"
       ],
-      "url" : "\/images\/reaction-time-task-3@3x.PNG"
+      "url" : "\/images\/com.apple.ResearchKit\/reaction-time-task-3@3x.PNG"
     }
   ]
 },
@@ -5560,7 +5561,7 @@
         "3x",
         "light"
       ],
-      "url" : "\/images\/reaction-time-task-4@3x.PNG"
+      "url" : "\/images\/com.apple.ResearchKit\/reaction-time-task-4@3x.PNG"
     }
   ]
 },
@@ -5574,7 +5575,7 @@
         "3x",
         "light"
       ],
-      "url" : "\/images\/short-walk-task-1@3x.PNG"
+      "url" : "\/images\/com.apple.ResearchKit\/short-walk-task-1@3x.PNG"
     }
   ]
 },
@@ -5588,7 +5589,7 @@
         "3x",
         "light"
       ],
-      "url" : "\/images\/short-walk-task-2@3x.PNG"
+      "url" : "\/images\/com.apple.ResearchKit\/short-walk-task-2@3x.PNG"
     }
   ]
 },
@@ -5602,7 +5603,7 @@
         "3x",
         "light"
       ],
-      "url" : "\/images\/short-walk-task-3@3x.PNG"
+      "url" : "\/images\/com.apple.ResearchKit\/short-walk-task-3@3x.PNG"
     }
   ]
 },
@@ -5616,7 +5617,7 @@
         "3x",
         "light"
       ],
-      "url" : "\/images\/short-walk-task-4@3x.PNG"
+      "url" : "\/images\/com.apple.ResearchKit\/short-walk-task-4@3x.PNG"
     }
   ]
 },
@@ -5630,7 +5631,7 @@
         "3x",
         "light"
       ],
-      "url" : "\/images\/short-walk-task-5@3x.PNG"
+      "url" : "\/images\/com.apple.ResearchKit\/short-walk-task-5@3x.PNG"
     }
   ]
 },
@@ -5644,7 +5645,7 @@
         "3x",
         "light"
       ],
-      "url" : "\/images\/short-walk-task-6@3x.PNG"
+      "url" : "\/images\/com.apple.ResearchKit\/short-walk-task-6@3x.PNG"
     }
   ]
 },
@@ -5658,7 +5659,7 @@
         "3x",
         "light"
       ],
-      "url" : "\/images\/short-walk-task-7@3x.PNG"
+      "url" : "\/images\/com.apple.ResearchKit\/short-walk-task-7@3x.PNG"
     }
   ]
 },
@@ -5672,7 +5673,7 @@
         "3x",
         "light"
       ],
-      "url" : "\/images\/spatial-span-memory-task-1@3x.PNG"
+      "url" : "\/images\/com.apple.ResearchKit\/spatial-span-memory-task-1@3x.PNG"
     }
   ]
 },
@@ -5686,7 +5687,7 @@
         "3x",
         "light"
       ],
-      "url" : "\/images\/spatial-span-memory-task-2@3x.PNG"
+      "url" : "\/images\/com.apple.ResearchKit\/spatial-span-memory-task-2@3x.PNG"
     }
   ]
 },
@@ -5700,7 +5701,7 @@
         "3x",
         "light"
       ],
-      "url" : "\/images\/spatial-span-memory-task-3@3x.PNG"
+      "url" : "\/images\/com.apple.ResearchKit\/spatial-span-memory-task-3@3x.PNG"
     }
   ]
 },
@@ -5714,7 +5715,7 @@
         "3x",
         "light"
       ],
-      "url" : "\/images\/spatial-span-memory-task-4@3x.PNG"
+      "url" : "\/images\/com.apple.ResearchKit\/spatial-span-memory-task-4@3x.PNG"
     }
   ]
 },
@@ -5728,7 +5729,7 @@
         "3x",
         "light"
       ],
-      "url" : "\/images\/speech-in-noise-1@3x.PNG"
+      "url" : "\/images\/com.apple.ResearchKit\/speech-in-noise-1@3x.PNG"
     }
   ]
 },
@@ -5742,7 +5743,7 @@
         "3x",
         "light"
       ],
-      "url" : "\/images\/speech-in-noise-2@3x.PNG"
+      "url" : "\/images\/com.apple.ResearchKit\/speech-in-noise-2@3x.PNG"
     }
   ]
 },
@@ -5756,7 +5757,7 @@
         "3x",
         "light"
       ],
-      "url" : "\/images\/speech-in-noise-3@3x.PNG"
+      "url" : "\/images\/com.apple.ResearchKit\/speech-in-noise-3@3x.PNG"
     }
   ]
 },
@@ -5770,7 +5771,7 @@
         "3x",
         "light"
       ],
-      "url" : "\/images\/speech-in-noise-4@3x.PNG"
+      "url" : "\/images\/com.apple.ResearchKit\/speech-in-noise-4@3x.PNG"
     }
   ]
 },
@@ -5784,7 +5785,7 @@
         "3x",
         "light"
       ],
-      "url" : "\/images\/speech-in-noise-5@3x.PNG"
+      "url" : "\/images\/com.apple.ResearchKit\/speech-in-noise-5@3x.PNG"
     }
   ]
 },
@@ -5798,7 +5799,7 @@
         "3x",
         "light"
       ],
-      "url" : "\/images\/speech-in-noise-6@3x.PNG"
+      "url" : "\/images\/com.apple.ResearchKit\/speech-in-noise-6@3x.PNG"
     }
   ]
 },
@@ -5812,7 +5813,7 @@
         "3x",
         "light"
       ],
-      "url" : "\/images\/speech-recognition-task-1@3x.PNG"
+      "url" : "\/images\/com.apple.ResearchKit\/speech-recognition-task-1@3x.PNG"
     }
   ]
 },
@@ -5826,7 +5827,7 @@
         "3x",
         "light"
       ],
-      "url" : "\/images\/speech-recognition-task-2@3x.PNG"
+      "url" : "\/images\/com.apple.ResearchKit\/speech-recognition-task-2@3x.PNG"
     }
   ]
 },
@@ -5840,7 +5841,7 @@
         "3x",
         "light"
       ],
-      "url" : "\/images\/speech-recognition-task-3@3x.PNG"
+      "url" : "\/images\/com.apple.ResearchKit\/speech-recognition-task-3@3x.PNG"
     }
   ]
 },
@@ -5854,7 +5855,7 @@
         "3x",
         "light"
       ],
-      "url" : "\/images\/speech-recognition-task-4@3x.PNG"
+      "url" : "\/images\/com.apple.ResearchKit\/speech-recognition-task-4@3x.PNG"
     }
   ]
 },
@@ -5868,7 +5869,7 @@
         "3x",
         "light"
       ],
-      "url" : "\/images\/speech-recognition-task-5@3x.PNG"
+      "url" : "\/images\/com.apple.ResearchKit\/speech-recognition-task-5@3x.PNG"
     }
   ]
 },
@@ -5882,7 +5883,7 @@
         "3x",
         "light"
       ],
-      "url" : "\/images\/spl-meter-1@3x.PNG"
+      "url" : "\/images\/com.apple.ResearchKit\/spl-meter-1@3x.PNG"
     }
   ]
 },
@@ -5896,7 +5897,7 @@
         "3x",
         "light"
       ],
-      "url" : "\/images\/spl-meter-2@3x.PNG"
+      "url" : "\/images\/com.apple.ResearchKit\/spl-meter-2@3x.PNG"
     }
   ]
 },
@@ -5910,7 +5911,7 @@
         "3x",
         "light"
       ],
-      "url" : "\/images\/spl-meter-3@3x.PNG"
+      "url" : "\/images\/com.apple.ResearchKit\/spl-meter-3@3x.PNG"
     }
   ]
 },
@@ -5924,7 +5925,7 @@
         "3x",
         "light"
       ],
-      "url" : "\/images\/stroop-task-1@3x.PNG"
+      "url" : "\/images\/com.apple.ResearchKit\/stroop-task-1@3x.PNG"
     }
   ]
 },
@@ -5938,7 +5939,7 @@
         "3x",
         "light"
       ],
-      "url" : "\/images\/stroop-task-2@3x.PNG"
+      "url" : "\/images\/com.apple.ResearchKit\/stroop-task-2@3x.PNG"
     }
   ]
 },
@@ -5952,7 +5953,7 @@
         "3x",
         "light"
       ],
-      "url" : "\/images\/stroop-task-3@3x.PNG"
+      "url" : "\/images\/com.apple.ResearchKit\/stroop-task-3@3x.PNG"
     }
   ]
 },
@@ -5966,7 +5967,7 @@
         "3x",
         "light"
       ],
-      "url" : "\/images\/stroop-task-4@3x.PNG"
+      "url" : "\/images\/com.apple.ResearchKit\/stroop-task-4@3x.PNG"
     }
   ]
 },
@@ -5980,7 +5981,7 @@
         "3x",
         "light"
       ],
-      "url" : "\/images\/stroop-task-5@3x.PNG"
+      "url" : "\/images\/com.apple.ResearchKit\/stroop-task-5@3x.PNG"
     }
   ]
 },
@@ -5994,7 +5995,7 @@
         "3x",
         "light"
       ],
-      "url" : "\/images\/timed-walk-task-1@3x.PNG"
+      "url" : "\/images\/com.apple.ResearchKit\/timed-walk-task-1@3x.PNG"
     }
   ]
 },
@@ -6008,7 +6009,7 @@
         "3x",
         "light"
       ],
-      "url" : "\/images\/timed-walk-task-2@3x.PNG"
+      "url" : "\/images\/com.apple.ResearchKit\/timed-walk-task-2@3x.PNG"
     }
   ]
 },
@@ -6022,7 +6023,7 @@
         "3x",
         "light"
       ],
-      "url" : "\/images\/timed-walk-task-3@3x.PNG"
+      "url" : "\/images\/com.apple.ResearchKit\/timed-walk-task-3@3x.PNG"
     }
   ]
 },
@@ -6036,7 +6037,7 @@
         "3x",
         "light"
       ],
-      "url" : "\/images\/timed-walk-task-4@3x.PNG"
+      "url" : "\/images\/com.apple.ResearchKit\/timed-walk-task-4@3x.PNG"
     }
   ]
 },
@@ -6050,7 +6051,7 @@
         "3x",
         "light"
       ],
-      "url" : "\/images\/timed-walk-task-5@3x.PNG"
+      "url" : "\/images\/com.apple.ResearchKit\/timed-walk-task-5@3x.PNG"
     }
   ]
 },
@@ -6064,7 +6065,7 @@
         "3x",
         "light"
       ],
-      "url" : "\/images\/timed-walk-task-6@3x.PNG"
+      "url" : "\/images\/com.apple.ResearchKit\/timed-walk-task-6@3x.PNG"
     }
   ]
 },
@@ -6078,7 +6079,7 @@
         "3x",
         "light"
       ],
-      "url" : "\/images\/timed-walk-task-7@3x.PNG"
+      "url" : "\/images\/com.apple.ResearchKit\/timed-walk-task-7@3x.PNG"
     }
   ]
 },
@@ -6092,7 +6093,7 @@
         "3x",
         "light"
       ],
-      "url" : "\/images\/timed-walk-task-8@3x.PNG"
+      "url" : "\/images\/com.apple.ResearchKit\/timed-walk-task-8@3x.PNG"
     }
   ]
 },
@@ -6106,7 +6107,7 @@
         "3x",
         "light"
       ],
-      "url" : "\/images\/tone-audiometry-task-1@3x.PNG"
+      "url" : "\/images\/com.apple.ResearchKit\/tone-audiometry-task-1@3x.PNG"
     }
   ]
 },
@@ -6120,7 +6121,7 @@
         "3x",
         "light"
       ],
-      "url" : "\/images\/tone-audiometry-task-2@3x.PNG"
+      "url" : "\/images\/com.apple.ResearchKit\/tone-audiometry-task-2@3x.PNG"
     }
   ]
 },
@@ -6134,7 +6135,7 @@
         "3x",
         "light"
       ],
-      "url" : "\/images\/tone-audiometry-task-3@3x.PNG"
+      "url" : "\/images\/com.apple.ResearchKit\/tone-audiometry-task-3@3x.PNG"
     }
   ]
 },
@@ -6148,7 +6149,7 @@
         "3x",
         "light"
       ],
-      "url" : "\/images\/tone-audiometry-task-4@3x.PNG"
+      "url" : "\/images\/com.apple.ResearchKit\/tone-audiometry-task-4@3x.PNG"
     }
   ]
 },
@@ -6162,7 +6163,7 @@
         "3x",
         "light"
       ],
-      "url" : "\/images\/tone-audiometry-task-5@3x.PNG"
+      "url" : "\/images\/com.apple.ResearchKit\/tone-audiometry-task-5@3x.PNG"
     }
   ]
 },
@@ -6176,7 +6177,7 @@
         "3x",
         "light"
       ],
-      "url" : "\/images\/tower-of-hanoi-1@3x.PNG"
+      "url" : "\/images\/com.apple.ResearchKit\/tower-of-hanoi-1@3x.PNG"
     }
   ]
 },
@@ -6190,7 +6191,7 @@
         "3x",
         "light"
       ],
-      "url" : "\/images\/tower-of-hanoi-2@3x.PNG"
+      "url" : "\/images\/com.apple.ResearchKit\/tower-of-hanoi-2@3x.PNG"
     }
   ]
 },
@@ -6204,7 +6205,7 @@
         "3x",
         "light"
       ],
-      "url" : "\/images\/tower-of-hanoi-3@3x.PNG"
+      "url" : "\/images\/com.apple.ResearchKit\/tower-of-hanoi-3@3x.PNG"
     }
   ]
 },
@@ -6218,7 +6219,7 @@
         "3x",
         "light"
       ],
-      "url" : "\/images\/tower-of-hanoi-4@3x.PNG"
+      "url" : "\/images\/com.apple.ResearchKit\/tower-of-hanoi-4@3x.PNG"
     }
   ]
 },
@@ -6232,7 +6233,7 @@
         "3x",
         "light"
       ],
-      "url" : "\/images\/trail-making-task-1@3x.PNG"
+      "url" : "\/images\/com.apple.ResearchKit\/trail-making-task-1@3x.PNG"
     }
   ]
 },
@@ -6246,7 +6247,7 @@
         "3x",
         "light"
       ],
-      "url" : "\/images\/trail-making-task-2@3x.PNG"
+      "url" : "\/images\/com.apple.ResearchKit\/trail-making-task-2@3x.PNG"
     }
   ]
 },
@@ -6260,7 +6261,7 @@
         "3x",
         "light"
       ],
-      "url" : "\/images\/trail-making-task-3@3x.PNG"
+      "url" : "\/images\/com.apple.ResearchKit\/trail-making-task-3@3x.PNG"
     }
   ]
 },
@@ -6274,7 +6275,7 @@
         "3x",
         "light"
       ],
-      "url" : "\/images\/trail-making-task-4@3x.PNG"
+      "url" : "\/images\/com.apple.ResearchKit\/trail-making-task-4@3x.PNG"
     }
   ]
 },
@@ -6288,7 +6289,7 @@
         "3x",
         "light"
       ],
-      "url" : "\/images\/trail-making-task-5@3x.PNG"
+      "url" : "\/images\/com.apple.ResearchKit\/trail-making-task-5@3x.PNG"
     }
   ]
 },
@@ -6302,7 +6303,7 @@
         "3x",
         "light"
       ],
-      "url" : "\/images\/trail-making-task-6@3x.PNG"
+      "url" : "\/images\/com.apple.ResearchKit\/trail-making-task-6@3x.PNG"
     }
   ]
 },
@@ -6316,7 +6317,7 @@
         "3x",
         "light"
       ],
-      "url" : "\/images\/two-finger-tapping-task-1@3x.PNG"
+      "url" : "\/images\/com.apple.ResearchKit\/two-finger-tapping-task-1@3x.PNG"
     }
   ]
 },
@@ -6330,7 +6331,7 @@
         "3x",
         "light"
       ],
-      "url" : "\/images\/two-finger-tapping-task-2@3x.PNG"
+      "url" : "\/images\/com.apple.ResearchKit\/two-finger-tapping-task-2@3x.PNG"
     }
   ]
 },
@@ -6344,7 +6345,7 @@
         "3x",
         "light"
       ],
-      "url" : "\/images\/two-finger-tapping-task-3@3x.PNG"
+      "url" : "\/images\/com.apple.ResearchKit\/two-finger-tapping-task-3@3x.PNG"
     }
   ]
 },
@@ -6358,7 +6359,7 @@
         "3x",
         "light"
       ],
-      "url" : "\/images\/two-finger-tapping-task-4@3x.PNG"
+      "url" : "\/images\/com.apple.ResearchKit\/two-finger-tapping-task-4@3x.PNG"
     }
   ]
 },
@@ -6372,7 +6373,7 @@
         "3x",
         "light"
       ],
-      "url" : "\/images\/two-finger-tapping-task-5@3x.PNG"
+      "url" : "\/images\/com.apple.ResearchKit\/two-finger-tapping-task-5@3x.PNG"
     }
   ]
 },
@@ -6386,7 +6387,7 @@
         "3x",
         "light"
       ],
-      "url" : "\/images\/two-finger-tapping-task-6@3x.PNG"
+      "url" : "\/images\/com.apple.ResearchKit\/two-finger-tapping-task-6@3x.PNG"
     }
   ]
 }

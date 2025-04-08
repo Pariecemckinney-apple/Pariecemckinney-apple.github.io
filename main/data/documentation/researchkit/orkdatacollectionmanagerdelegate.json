@@ -103,6 +103,7 @@
   ],
   "seeAlsoSections" : [
     {
+      "anchor" : "Data-collection",
       "generated" : true,
       "identifiers" : [
         "doc:\/\/com.apple.ResearchKit\/documentation\/ResearchKit\/ORKCollector",
@@ -116,6 +117,8 @@
   ],
   "topicSections" : [
     {
+      "anchor" : "Instance-Methods",
+      "generated" : true,
       "identifiers" : [
         "doc:\/\/com.apple.ResearchKit\/documentation\/ResearchKit\/ORKDataCollectionManagerDelegate\/collector(_:didDetectError:)",
         "doc:\/\/com.apple.ResearchKit\/documentation\/ResearchKit\/ORKDataCollectionManagerDelegate\/dataCollectionManagerDidCompleteCollection(_:)",
@@ -328,6 +331,7 @@
   ],
   "identifier" : "doc:\/\/com.apple.ResearchKit\/documentation\/ResearchKit\/ORKDataCollectionManagerDelegate\/collector(_:didDetectError:)",
   "kind" : "symbol",
+  "required" : true,
   "role" : "symbol",
   "title" : "collector(_:didDetectError:)",
   "type" : "topic",
@@ -488,6 +492,7 @@
   ],
   "identifier" : "doc:\/\/com.apple.ResearchKit\/documentation\/ResearchKit\/ORKDataCollectionManagerDelegate\/healthCorrelationCollector(_:didCollect:)",
   "kind" : "symbol",
+  "required" : true,
   "role" : "symbol",
   "title" : "healthCorrelationCollector(_:didCollect:)",
   "type" : "topic",

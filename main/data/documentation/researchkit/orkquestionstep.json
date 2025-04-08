@@ -119,6 +119,7 @@
   ],
   "seeAlsoSections" : [
     {
+      "anchor" : "Question-and-instruction-steps",
       "generated" : true,
       "identifiers" : [
         "doc:\/\/com.apple.ResearchKit\/documentation\/ResearchKit\/ORKInstructionStep",
@@ -130,6 +131,8 @@
   ],
   "topicSections" : [
     {
+      "anchor" : "Initializers",
+      "generated" : true,
       "identifiers" : [
         "doc:\/\/com.apple.ResearchKit\/documentation\/ResearchKit\/ORKQuestionStep\/init(identifier:text:placeholder:title:question:presentationStyle:tagText:answer:learnMoreItem:useCardView:)",
         "doc:\/\/com.apple.ResearchKit\/documentation\/ResearchKit\/ORKQuestionStep\/init(identifier:title:answer:)",
@@ -140,6 +143,8 @@
       "title" : "Initializers"
     },
     {
+      "anchor" : "Instance-Properties",
+      "generated" : true,
       "identifiers" : [
         "doc:\/\/com.apple.ResearchKit\/documentation\/ResearchKit\/ORKQuestionStep\/answerFormat",
         "doc:\/\/com.apple.ResearchKit\/documentation\/ResearchKit\/ORKQuestionStep\/learnMoreItem",

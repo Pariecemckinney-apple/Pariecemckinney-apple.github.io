@@ -110,6 +110,7 @@
   ],
   "seeAlsoSections" : [
     {
+      "anchor" : "Authentication-and-consent",
       "generated" : true,
       "identifiers" : [
         "doc:\/\/com.apple.ResearchKit\/documentation\/ResearchKit\/ORKSignatureResult",
@@ -120,6 +121,8 @@
   ],
   "topicSections" : [
     {
+      "anchor" : "Instance-Properties",
+      "generated" : true,
       "identifiers" : [
         "doc:\/\/com.apple.ResearchKit\/documentation\/ResearchKit\/ORKPasscodeResult\/isPasscodeSaved",
         "doc:\/\/com.apple.ResearchKit\/documentation\/ResearchKit\/ORKPasscodeResult\/isTouchIdEnabled"

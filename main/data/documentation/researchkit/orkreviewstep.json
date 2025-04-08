@@ -110,6 +110,8 @@
   ],
   "topicSections" : [
     {
+      "anchor" : "Instance-Properties",
+      "generated" : true,
       "identifiers" : [
         "doc:\/\/com.apple.ResearchKit\/documentation\/ResearchKit\/ORKReviewStep\/excludeInstructionSteps",
         "doc:\/\/com.apple.ResearchKit\/documentation\/ResearchKit\/ORKReviewStep\/resultSource",
@@ -118,6 +120,8 @@
       "title" : "Instance Properties"
     },
     {
+      "anchor" : "Type-Methods",
+      "generated" : true,
       "identifiers" : [
         "doc:\/\/com.apple.ResearchKit\/documentation\/ResearchKit\/ORKReviewStep\/embeddedReviewStep(withIdentifier:)",
         "doc:\/\/com.apple.ResearchKit\/documentation\/ResearchKit\/ORKReviewStep\/standaloneReviewStep(withIdentifier:steps:resultSource:)"

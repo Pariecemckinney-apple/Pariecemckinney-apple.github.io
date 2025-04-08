@@ -76,6 +76,7 @@
   "relationshipsSections" : [
     {
       "identifiers" : [
+        "doc:\/\/com.apple.ResearchKit\/s15BitwiseCopyableP",
         "doc:\/\/com.apple.ResearchKit\/SQ",
         "doc:\/\/com.apple.ResearchKit\/SH",
         "doc:\/\/com.apple.ResearchKit\/SY",
@@ -96,6 +97,7 @@
   ],
   "seeAlsoSections" : [
     {
+      "anchor" : "Enumerations",
       "generated" : true,
       "identifiers" : [
         "doc:\/\/com.apple.ResearchKit\/documentation\/ResearchKit\/ORKAudioChannel",
@@ -112,6 +114,8 @@
   ],
   "topicSections" : [
     {
+      "anchor" : "Enumeration-Cases",
+      "generated" : true,
       "identifiers" : [
         "doc:\/\/com.apple.ResearchKit\/documentation\/ResearchKit\/ORKTaskFinishReason\/completed",
         "doc:\/\/com.apple.ResearchKit\/documentation\/ResearchKit\/ORKTaskFinishReason\/discarded",
@@ -122,12 +126,15 @@
       "title" : "Enumeration Cases"
     },
     {
+      "anchor" : "Initializers",
+      "generated" : true,
       "identifiers" : [
         "doc:\/\/com.apple.ResearchKit\/documentation\/ResearchKit\/ORKTaskFinishReason\/init(rawValue:)"
       ],
       "title" : "Initializers"
     },
     {
+      "anchor" : "Default-Implementations",
       "generated" : true,
       "identifiers" : [
         "doc:\/\/com.apple.ResearchKit\/documentation\/ResearchKit\/ORKTaskFinishReason\/Equatable-Implementations",
@@ -656,6 +663,11 @@
   "title" : "ORKTaskFinishReason.saved",
   "type" : "topic",
   "url" : "\/documentation\/researchkit\/orktaskfinishreason\/saved"
+},
+"doc://com.apple.ResearchKit/s15BitwiseCopyableP": {
+  "identifier" : "doc:\/\/com.apple.ResearchKit\/s15BitwiseCopyableP",
+  "title" : "Swift.BitwiseCopyable",
+  "type" : "unresolvable"
 },
 "doc://com.apple.ResearchKit/s8SendableP": {
   "identifier" : "doc:\/\/com.apple.ResearchKit\/s8SendableP",

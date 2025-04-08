@@ -77,6 +77,7 @@
   "relationshipsSections" : [
     {
       "identifiers" : [
+        "doc:\/\/com.apple.ResearchKit\/s15BitwiseCopyableP",
         "doc:\/\/com.apple.ResearchKit\/SQ",
         "doc:\/\/com.apple.ResearchKit\/SH",
         "doc:\/\/com.apple.ResearchKit\/SY",
@@ -97,6 +98,7 @@
   ],
   "seeAlsoSections" : [
     {
+      "anchor" : "Scale",
       "generated" : true,
       "identifiers" : [
         "doc:\/\/com.apple.ResearchKit\/documentation\/ResearchKit\/ORKScaleAnswerFormat",
@@ -107,6 +109,8 @@
   ],
   "topicSections" : [
     {
+      "anchor" : "Enumeration-Cases",
+      "generated" : true,
       "identifiers" : [
         "doc:\/\/com.apple.ResearchKit\/documentation\/ResearchKit\/ORKNumberFormattingStyle\/default",
         "doc:\/\/com.apple.ResearchKit\/documentation\/ResearchKit\/ORKNumberFormattingStyle\/percent"
@@ -114,12 +118,15 @@
       "title" : "Enumeration Cases"
     },
     {
+      "anchor" : "Initializers",
+      "generated" : true,
       "identifiers" : [
         "doc:\/\/com.apple.ResearchKit\/documentation\/ResearchKit\/ORKNumberFormattingStyle\/init(rawValue:)"
       ],
       "title" : "Initializers"
     },
     {
+      "anchor" : "Default-Implementations",
       "generated" : true,
       "identifiers" : [
         "doc:\/\/com.apple.ResearchKit\/documentation\/ResearchKit\/ORKNumberFormattingStyle\/Equatable-Implementations",
@@ -401,6 +408,11 @@
   "title" : "Surveys",
   "type" : "topic",
   "url" : "\/documentation\/researchkit\/surveys"
+},
+"doc://com.apple.ResearchKit/s15BitwiseCopyableP": {
+  "identifier" : "doc:\/\/com.apple.ResearchKit\/s15BitwiseCopyableP",
+  "title" : "Swift.BitwiseCopyable",
+  "type" : "unresolvable"
 },
 "doc://com.apple.ResearchKit/s8SendableP": {
   "identifier" : "doc:\/\/com.apple.ResearchKit\/s8SendableP",

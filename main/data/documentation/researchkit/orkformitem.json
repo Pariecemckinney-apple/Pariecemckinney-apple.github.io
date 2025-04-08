@@ -114,6 +114,7 @@
   ],
   "seeAlsoSections" : [
     {
+      "anchor" : "Survey-creation",
       "generated" : true,
       "identifiers" : [
         "doc:\/\/com.apple.ResearchKit\/documentation\/ResearchKit\/ORKFormStep"
@@ -123,8 +124,9 @@
   ],
   "topicSections" : [
     {
+      "anchor" : "Initializers",
+      "generated" : true,
       "identifiers" : [
-        "doc:\/\/com.apple.ResearchKit\/documentation\/ResearchKit\/ORKFormItem\/init(coder:)",
         "doc:\/\/com.apple.ResearchKit\/documentation\/ResearchKit\/ORKFormItem\/init(identifier:text:answerFormat:)",
         "doc:\/\/com.apple.ResearchKit\/documentation\/ResearchKit\/ORKFormItem\/init(identifier:text:answerFormat:optional:)",
         "doc:\/\/com.apple.ResearchKit\/documentation\/ResearchKit\/ORKFormItem\/init(identifier:text:detailText:learnMoreItem:showsProgress:answerFormat:tagText:optional:)",
@@ -134,6 +136,8 @@
       "title" : "Initializers"
     },
     {
+      "anchor" : "Instance-Properties",
+      "generated" : true,
       "identifiers" : [
         "doc:\/\/com.apple.ResearchKit\/documentation\/ResearchKit\/ORKFormItem\/answerFormat",
         "doc:\/\/com.apple.ResearchKit\/documentation\/ResearchKit\/ORKFormItem\/detailText",
@@ -149,6 +153,8 @@
       "title" : "Instance Properties"
     },
     {
+      "anchor" : "Instance-Methods",
+      "generated" : true,
       "identifiers" : [
         "doc:\/\/com.apple.ResearchKit\/documentation\/ResearchKit\/ORKFormItem\/confirmationAnswer(withIdentifier:text:errorMessage:)"
       ],
@@ -418,44 +424,6 @@
   "title" : "identifier",
   "type" : "topic",
   "url" : "\/documentation\/researchkit\/orkformitem\/identifier"
-},
-"doc://com.apple.ResearchKit/documentation/ResearchKit/ORKFormItem/init(coder:)": {
-  "abstract" : [
-
-  ],
-  "fragments" : [
-    {
-      "kind" : "identifier",
-      "text" : "init"
-    },
-    {
-      "kind" : "text",
-      "text" : "?("
-    },
-    {
-      "kind" : "externalParam",
-      "text" : "coder"
-    },
-    {
-      "kind" : "text",
-      "text" : ": "
-    },
-    {
-      "kind" : "typeIdentifier",
-      "preciseIdentifier" : "c:objc(cs)NSCoder",
-      "text" : "NSCoder"
-    },
-    {
-      "kind" : "text",
-      "text" : ")"
-    }
-  ],
-  "identifier" : "doc:\/\/com.apple.ResearchKit\/documentation\/ResearchKit\/ORKFormItem\/init(coder:)",
-  "kind" : "symbol",
-  "role" : "symbol",
-  "title" : "init(coder:)",
-  "type" : "topic",
-  "url" : "\/documentation\/researchkit\/orkformitem\/init(coder:)"
 },
 "doc://com.apple.ResearchKit/documentation/ResearchKit/ORKFormItem/init(identifier:text:answerFormat:)": {
   "abstract" : [

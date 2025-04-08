@@ -77,6 +77,7 @@
   "relationshipsSections" : [
     {
       "identifiers" : [
+        "doc:\/\/com.apple.ResearchKit\/s15BitwiseCopyableP",
         "doc:\/\/com.apple.ResearchKit\/s8SendableP"
       ],
       "kind" : "relationships",
@@ -94,6 +95,7 @@
   ],
   "seeAlsoSections" : [
     {
+      "anchor" : "Progress-tracking",
       "generated" : true,
       "identifiers" : [
         "doc:\/\/com.apple.ResearchKit\/documentation\/ResearchKit\/ORKTaskTotalProgress",
@@ -104,6 +106,8 @@
   ],
   "topicSections" : [
     {
+      "anchor" : "Initializers",
+      "generated" : true,
       "identifiers" : [
         "doc:\/\/com.apple.ResearchKit\/documentation\/ResearchKit\/ORKTaskProgress\/init()",
         "doc:\/\/com.apple.ResearchKit\/documentation\/ResearchKit\/ORKTaskProgress\/init(current:total:shouldBePresented:)"
@@ -111,6 +115,8 @@
       "title" : "Initializers"
     },
     {
+      "anchor" : "Instance-Properties",
+      "generated" : true,
       "identifiers" : [
         "doc:\/\/com.apple.ResearchKit\/documentation\/ResearchKit\/ORKTaskProgress\/current",
         "doc:\/\/com.apple.ResearchKit\/documentation\/ResearchKit\/ORKTaskProgress\/shouldBePresented",
@@ -462,6 +468,11 @@
   "title" : "Tasks",
   "type" : "topic",
   "url" : "\/documentation\/researchkit\/tasks"
+},
+"doc://com.apple.ResearchKit/s15BitwiseCopyableP": {
+  "identifier" : "doc:\/\/com.apple.ResearchKit\/s15BitwiseCopyableP",
+  "title" : "Swift.BitwiseCopyable",
+  "type" : "unresolvable"
 },
 "doc://com.apple.ResearchKit/s8SendableP": {
   "identifier" : "doc:\/\/com.apple.ResearchKit\/s8SendableP",

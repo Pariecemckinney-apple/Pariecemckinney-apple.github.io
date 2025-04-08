@@ -118,6 +118,7 @@
   ],
   "seeAlsoSections" : [
     {
+      "anchor" : "PDF-and-page-steps",
       "generated" : true,
       "identifiers" : [
         "doc:\/\/com.apple.ResearchKit\/documentation\/ResearchKit\/ORKPDFViewerStep",
@@ -128,6 +129,8 @@
   ],
   "topicSections" : [
     {
+      "anchor" : "Initializers",
+      "generated" : true,
       "identifiers" : [
         "doc:\/\/com.apple.ResearchKit\/documentation\/ResearchKit\/ORKPageStep\/init(coder:)",
         "doc:\/\/com.apple.ResearchKit\/documentation\/ResearchKit\/ORKPageStep\/init(identifier:steps:)"
@@ -135,12 +138,16 @@
       "title" : "Initializers"
     },
     {
+      "anchor" : "Instance-Properties",
+      "generated" : true,
       "identifiers" : [
         "doc:\/\/com.apple.ResearchKit\/documentation\/ResearchKit\/ORKPageStep\/steps"
       ],
       "title" : "Instance Properties"
     },
     {
+      "anchor" : "Instance-Methods",
+      "generated" : true,
       "identifiers" : [
         "doc:\/\/com.apple.ResearchKit\/documentation\/ResearchKit\/ORKPageStep\/step(withIdentifier:)",
         "doc:\/\/com.apple.ResearchKit\/documentation\/ResearchKit\/ORKPageStep\/stepAfterStep(withIdentifier:with:)",

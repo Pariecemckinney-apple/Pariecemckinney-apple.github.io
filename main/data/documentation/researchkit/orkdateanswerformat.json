@@ -111,6 +111,7 @@
   ],
   "seeAlsoSections" : [
     {
+      "anchor" : "Date-and-time",
       "generated" : true,
       "identifiers" : [
         "doc:\/\/com.apple.ResearchKit\/documentation\/ResearchKit\/ORKTimeIntervalAnswerFormat",
@@ -122,6 +123,8 @@
   ],
   "topicSections" : [
     {
+      "anchor" : "Initializers",
+      "generated" : true,
       "identifiers" : [
         "doc:\/\/com.apple.ResearchKit\/documentation\/ResearchKit\/ORKDateAnswerFormat\/init(style:)",
         "doc:\/\/com.apple.ResearchKit\/documentation\/ResearchKit\/ORKDateAnswerFormat\/init(style:defaultDate:minimumDate:maximumDate:calendar:)"
@@ -129,6 +132,8 @@
       "title" : "Initializers"
     },
     {
+      "anchor" : "Instance-Properties",
+      "generated" : true,
       "identifiers" : [
         "doc:\/\/com.apple.ResearchKit\/documentation\/ResearchKit\/ORKDateAnswerFormat\/calendar",
         "doc:\/\/com.apple.ResearchKit\/documentation\/ResearchKit\/ORKDateAnswerFormat\/daysAfterCurrentDateToSetMinimumDate",

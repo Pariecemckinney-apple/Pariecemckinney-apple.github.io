@@ -112,6 +112,7 @@
   ],
   "seeAlsoSections" : [
     {
+      "anchor" : "Essentials",
       "generated" : true,
       "identifiers" : [
         "doc:\/\/com.apple.ResearchKit\/documentation\/ResearchKit\/ORKOrderedTask",
@@ -122,6 +123,8 @@
   ],
   "topicSections" : [
     {
+      "anchor" : "Instance-Properties",
+      "generated" : true,
       "identifiers" : [
         "doc:\/\/com.apple.ResearchKit\/documentation\/ResearchKit\/ORKTask\/identifier",
         "doc:\/\/com.apple.ResearchKit\/documentation\/ResearchKit\/ORKTask\/providesBackgroundAudioPrompts",
@@ -132,6 +135,8 @@
       "title" : "Instance Properties"
     },
     {
+      "anchor" : "Instance-Methods",
+      "generated" : true,
       "identifiers" : [
         "doc:\/\/com.apple.ResearchKit\/documentation\/ResearchKit\/ORKTask\/progress(ofCurrentStep:with:)",
         "doc:\/\/com.apple.ResearchKit\/documentation\/ResearchKit\/ORKTask\/shouldHideProgress(for:)",
@@ -363,6 +368,7 @@
   ],
   "identifier" : "doc:\/\/com.apple.ResearchKit\/documentation\/ResearchKit\/ORKTask\/progress(ofCurrentStep:with:)",
   "kind" : "symbol",
+  "required" : true,
   "role" : "symbol",
   "title" : "progress(ofCurrentStep:with:)",
   "type" : "topic",
@@ -397,6 +403,7 @@
   ],
   "identifier" : "doc:\/\/com.apple.ResearchKit\/documentation\/ResearchKit\/ORKTask\/providesBackgroundAudioPrompts",
   "kind" : "symbol",
+  "required" : true,
   "role" : "symbol",
   "title" : "providesBackgroundAudioPrompts",
   "type" : "topic",
@@ -526,6 +533,7 @@
   ],
   "identifier" : "doc:\/\/com.apple.ResearchKit\/documentation\/ResearchKit\/ORKTask\/requestedPermissions",
   "kind" : "symbol",
+  "required" : true,
   "role" : "symbol",
   "title" : "requestedPermissions",
   "type" : "topic",

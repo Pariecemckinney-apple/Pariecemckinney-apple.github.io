@@ -180,6 +180,7 @@
   ],
   "seeAlsoSections" : [
     {
+      "anchor" : "Essentials",
       "generated" : true,
       "identifiers" : [
         "doc:\/\/com.apple.ResearchKit\/documentation\/ResearchKit\/Obtaining-Consent",
@@ -269,7 +270,7 @@
         "1x",
         "light"
       ],
-      "url" : "\/images\/setting-up-your-project-to-use-researchkit-1@1x.png"
+      "url" : "\/images\/com.apple.ResearchKit\/setting-up-your-project-to-use-researchkit-1@1x.png"
     }
   ]
 },
@@ -283,7 +284,7 @@
         "1x",
         "light"
       ],
-      "url" : "\/images\/setting-up-your-project-to-use-researchkit-2@1x.png"
+      "url" : "\/images\/com.apple.ResearchKit\/setting-up-your-project-to-use-researchkit-2@1x.png"
     }
   ]
 }

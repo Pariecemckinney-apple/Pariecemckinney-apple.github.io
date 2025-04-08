@@ -110,6 +110,8 @@
   ],
   "topicSections" : [
     {
+      "anchor" : "Instance-Properties",
+      "generated" : true,
       "identifiers" : [
         "doc:\/\/com.apple.ResearchKit\/documentation\/ResearchKit\/ORKFamilyHistoryResult\/displayedConditions",
         "doc:\/\/com.apple.ResearchKit\/documentation\/ResearchKit\/ORKFamilyHistoryResult\/relatedPersons"

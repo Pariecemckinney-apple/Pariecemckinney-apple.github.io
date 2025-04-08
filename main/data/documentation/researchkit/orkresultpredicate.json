@@ -107,6 +107,7 @@
   ],
   "seeAlsoSections" : [
     {
+      "anchor" : "Navigation",
       "generated" : true,
       "identifiers" : [
         "doc:\/\/com.apple.ResearchKit\/documentation\/ResearchKit\/ORKStepNavigationRule",
@@ -127,6 +128,8 @@
   ],
   "topicSections" : [
     {
+      "anchor" : "Type-Methods",
+      "generated" : true,
       "identifiers" : [
         "doc:\/\/com.apple.ResearchKit\/documentation\/ResearchKit\/ORKResultPredicate\/predicateForBooleanQuestionResult(with:expectedAnswer:)",
         "doc:\/\/com.apple.ResearchKit\/documentation\/ResearchKit\/ORKResultPredicate\/predicateForChoiceQuestionResult(with:expectedAnswerValue:)",

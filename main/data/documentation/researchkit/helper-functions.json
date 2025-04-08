@@ -36,6 +36,7 @@
   ],
   "seeAlsoSections" : [
     {
+      "anchor" : "Other",
       "generated" : true,
       "identifiers" : [
         "doc:\/\/com.apple.ResearchKit\/documentation\/ResearchKit\/Constants",

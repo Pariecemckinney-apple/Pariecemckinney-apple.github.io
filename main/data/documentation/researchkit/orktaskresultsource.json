@@ -111,6 +111,8 @@
   ],
   "topicSections" : [
     {
+      "anchor" : "Instance-Methods",
+      "generated" : true,
       "identifiers" : [
         "doc:\/\/com.apple.ResearchKit\/documentation\/ResearchKit\/ORKTaskResultSource\/alwaysCheckForDefaultResult()",
         "doc:\/\/com.apple.ResearchKit\/documentation\/ResearchKit\/ORKTaskResultSource\/stepResult(forStepIdentifier:)"

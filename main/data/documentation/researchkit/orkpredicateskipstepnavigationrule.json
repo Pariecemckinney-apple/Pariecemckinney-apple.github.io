@@ -110,6 +110,7 @@
   ],
   "seeAlsoSections" : [
     {
+      "anchor" : "Navigation",
       "generated" : true,
       "identifiers" : [
         "doc:\/\/com.apple.ResearchKit\/documentation\/ResearchKit\/ORKStepNavigationRule",
@@ -130,6 +131,8 @@
   ],
   "topicSections" : [
     {
+      "anchor" : "Initializers",
+      "generated" : true,
       "identifiers" : [
         "doc:\/\/com.apple.ResearchKit\/documentation\/ResearchKit\/ORKPredicateSkipStepNavigationRule\/init(coder:)",
         "doc:\/\/com.apple.ResearchKit\/documentation\/ResearchKit\/ORKPredicateSkipStepNavigationRule\/init(resultPredicate:)"
@@ -137,6 +140,8 @@
       "title" : "Initializers"
     },
     {
+      "anchor" : "Instance-Properties",
+      "generated" : true,
       "identifiers" : [
         "doc:\/\/com.apple.ResearchKit\/documentation\/ResearchKit\/ORKPredicateSkipStepNavigationRule\/additionalTaskResults",
         "doc:\/\/com.apple.ResearchKit\/documentation\/ResearchKit\/ORKPredicateSkipStepNavigationRule\/resultPredicate"

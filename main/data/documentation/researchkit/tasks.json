@@ -60,6 +60,7 @@
   ],
   "seeAlsoSections" : [
     {
+      "anchor" : "Data-collection-and-analysis",
       "generated" : true,
       "identifiers" : [
         "doc:\/\/com.apple.ResearchKit\/documentation\/ResearchKit\/Steps",
@@ -70,6 +71,7 @@
   ],
   "topicSections" : [
     {
+      "anchor" : "Essentials",
       "identifiers" : [
         "doc:\/\/com.apple.ResearchKit\/documentation\/ResearchKit\/ORKTask",
         "doc:\/\/com.apple.ResearchKit\/documentation\/ResearchKit\/ORKOrderedTask",
@@ -78,12 +80,14 @@
       "title" : "Essentials"
     },
     {
+      "anchor" : "Audio",
       "identifiers" : [
         "doc:\/\/com.apple.ResearchKit\/documentation\/ResearchKit\/ORKAudioRecorderConfiguration"
       ],
       "title" : "Audio"
     },
     {
+      "anchor" : "Dexterity",
       "identifiers" : [
         "doc:\/\/com.apple.ResearchKit\/documentation\/ResearchKit\/ORKPredefinedTaskHandOption",
         "doc:\/\/com.apple.ResearchKit\/documentation\/ResearchKit\/ORKPredefinedTaskOption",
@@ -95,6 +99,7 @@
       "title" : "Dexterity"
     },
     {
+      "anchor" : "Navigation",
       "identifiers" : [
         "doc:\/\/com.apple.ResearchKit\/documentation\/ResearchKit\/ORKStepNavigationRule",
         "doc:\/\/com.apple.ResearchKit\/documentation\/ResearchKit\/ORKDirectStepNavigationRule",
@@ -113,6 +118,7 @@
       "title" : "Navigation"
     },
     {
+      "anchor" : "Progress-tracking",
       "identifiers" : [
         "doc:\/\/com.apple.ResearchKit\/documentation\/ResearchKit\/ORKTaskProgress",
         "doc:\/\/com.apple.ResearchKit\/documentation\/ResearchKit\/ORKTaskTotalProgress",

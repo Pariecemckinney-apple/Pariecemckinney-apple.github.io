@@ -102,6 +102,7 @@
   ],
   "seeAlsoSections" : [
     {
+      "anchor" : "Consent-presentation",
       "generated" : true,
       "identifiers" : [
         "doc:\/\/com.apple.ResearchKit\/documentation\/ResearchKit\/ORKConsentDocument",
@@ -115,12 +116,16 @@
   ],
   "topicSections" : [
     {
+      "anchor" : "Instance-Properties",
+      "generated" : true,
       "identifiers" : [
         "doc:\/\/com.apple.ResearchKit\/documentation\/ResearchKit\/ORKCustomSignatureAccessoryViewProtocol\/customViewDelegate"
       ],
       "title" : "Instance Properties"
     },
     {
+      "anchor" : "Instance-Methods",
+      "generated" : true,
       "identifiers" : [
         "doc:\/\/com.apple.ResearchKit\/documentation\/ResearchKit\/ORKCustomSignatureAccessoryViewProtocol\/isComplete()",
         "doc:\/\/com.apple.ResearchKit\/documentation\/ResearchKit\/ORKCustomSignatureAccessoryViewProtocol\/resultUserInfo()"

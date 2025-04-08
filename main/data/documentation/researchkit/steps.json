@@ -69,6 +69,7 @@
   ],
   "seeAlsoSections" : [
     {
+      "anchor" : "Data-collection-and-analysis",
       "generated" : true,
       "identifiers" : [
         "doc:\/\/com.apple.ResearchKit\/documentation\/ResearchKit\/Tasks",
@@ -79,12 +80,14 @@
   ],
   "topicSections" : [
     {
+      "anchor" : "Essentials",
       "identifiers" : [
         "doc:\/\/com.apple.ResearchKit\/documentation\/ResearchKit\/ORKStep"
       ],
       "title" : "Essentials"
     },
     {
+      "anchor" : "Active-steps",
       "identifiers" : [
         "doc:\/\/com.apple.ResearchKit\/documentation\/ResearchKit\/ORKActiveStep",
         "doc:\/\/com.apple.ResearchKit\/documentation\/ResearchKit\/ORKMotionActivityCollector",
@@ -93,6 +96,7 @@
       "title" : "Active steps"
     },
     {
+      "anchor" : "Authentication-and-consent-steps",
       "identifiers" : [
         "doc:\/\/com.apple.ResearchKit\/documentation\/ResearchKit\/ORKLoginStep",
         "doc:\/\/com.apple.ResearchKit\/documentation\/ResearchKit\/ORKSignatureStep",
@@ -104,6 +108,7 @@
       "title" : "Authentication and consent steps"
     },
     {
+      "anchor" : "Permissions",
       "identifiers" : [
         "doc:\/\/com.apple.ResearchKit\/documentation\/ResearchKit\/ORKPermissionType",
         "doc:\/\/com.apple.ResearchKit\/documentation\/ResearchKit\/ORKHealthKitPermissionType",
@@ -118,6 +123,7 @@
       "title" : "Permissions"
     },
     {
+      "anchor" : "Consent-and-completion-steps",
       "identifiers" : [
         "doc:\/\/com.apple.ResearchKit\/documentation\/ResearchKit\/ORKConsentReviewStep",
         "doc:\/\/com.apple.ResearchKit\/documentation\/ResearchKit\/ORKConsentSharingStep",
@@ -126,12 +132,14 @@
       "title" : "Consent and completion steps"
     },
     {
+      "anchor" : "Custom-steps",
       "identifiers" : [
         "doc:\/\/com.apple.ResearchKit\/documentation\/ResearchKit\/ORKCustomStep"
       ],
       "title" : "Custom steps"
     },
     {
+      "anchor" : "Family-History",
       "identifiers" : [
         "doc:\/\/com.apple.ResearchKit\/documentation\/ResearchKit\/ORKFamilyHistoryStep",
         "doc:\/\/com.apple.ResearchKit\/documentation\/ResearchKit\/ORKConditionStepConfiguration",
@@ -142,6 +150,7 @@
       "title" : "Family History"
     },
     {
+      "anchor" : "Form-steps",
       "identifiers" : [
         "doc:\/\/com.apple.ResearchKit\/documentation\/ResearchKit\/ORKFormStep",
         "doc:\/\/com.apple.ResearchKit\/documentation\/ResearchKit\/ORKBodyItem",
@@ -157,6 +166,7 @@
       "title" : "Form steps"
     },
     {
+      "anchor" : "Image-and-3D-model-steps",
       "identifiers" : [
         "doc:\/\/com.apple.ResearchKit\/documentation\/ResearchKit\/ORKFrontFacingCameraStep",
         "doc:\/\/com.apple.ResearchKit\/documentation\/ResearchKit\/ORKImageCaptureStep"
@@ -164,6 +174,7 @@
       "title" : "Image and 3D model steps"
     },
     {
+      "anchor" : "Location-steps",
       "identifiers" : [
         "doc:\/\/com.apple.ResearchKit\/documentation\/ResearchKit\/ORKLocation",
         "doc:\/\/com.apple.ResearchKit\/documentation\/ResearchKit\/ORKLocationPermissionType"
@@ -171,6 +182,7 @@
       "title" : "Location steps"
     },
     {
+      "anchor" : "Passcode-steps",
       "identifiers" : [
         "doc:\/\/com.apple.ResearchKit\/documentation\/ResearchKit\/ORKPasscodeStep",
         "doc:\/\/com.apple.ResearchKit\/documentation\/ResearchKit\/ORKPasscodeFlow",
@@ -179,6 +191,7 @@
       "title" : "Passcode steps"
     },
     {
+      "anchor" : "PDF-and-page-steps",
       "identifiers" : [
         "doc:\/\/com.apple.ResearchKit\/documentation\/ResearchKit\/ORKPDFViewerStep",
         "doc:\/\/com.apple.ResearchKit\/documentation\/ResearchKit\/ORKPageStep",
@@ -187,6 +200,7 @@
       "title" : "PDF and page steps"
     },
     {
+      "anchor" : "Question-and-instruction-steps",
       "identifiers" : [
         "doc:\/\/com.apple.ResearchKit\/documentation\/ResearchKit\/ORKQuestionStep",
         "doc:\/\/com.apple.ResearchKit\/documentation\/ResearchKit\/ORKInstructionStep",
@@ -196,6 +210,7 @@
       "title" : "Question and instruction steps"
     },
     {
+      "anchor" : "Registration-steps",
       "identifiers" : [
         "doc:\/\/com.apple.ResearchKit\/documentation\/ResearchKit\/ORKRegistrationStep",
         "doc:\/\/com.apple.ResearchKit\/documentation\/ResearchKit\/ORKRegistrationStepOption",
@@ -210,12 +225,14 @@
       "title" : "Registration steps"
     },
     {
+      "anchor" : "Review-steps",
       "identifiers" : [
         "doc:\/\/com.apple.ResearchKit\/documentation\/ResearchKit\/ORKReviewStep"
       ],
       "title" : "Review steps"
     },
     {
+      "anchor" : "Step-recording",
       "identifiers" : [
         "doc:\/\/com.apple.ResearchKit\/documentation\/ResearchKit\/ORKRecorder",
         "doc:\/\/com.apple.ResearchKit\/documentation\/ResearchKit\/ORKRecorderDelegate",
@@ -224,6 +241,7 @@
       "title" : "Step recording"
     },
     {
+      "anchor" : "Table-steps",
       "identifiers" : [
         "doc:\/\/com.apple.ResearchKit\/documentation\/ResearchKit\/ORKTableStep",
         "doc:\/\/com.apple.ResearchKit\/documentation\/ResearchKit\/ORKTableStepSource"
@@ -231,6 +249,7 @@
       "title" : "Table steps"
     },
     {
+      "anchor" : "Video-steps",
       "identifiers" : [
         "doc:\/\/com.apple.ResearchKit\/documentation\/ResearchKit\/ORKVideoCaptureStep",
         "doc:\/\/com.apple.ResearchKit\/documentation\/ResearchKit\/ORKVideoInstructionStep"
@@ -238,24 +257,28 @@
       "title" : "Video steps"
     },
     {
+      "anchor" : "Vision-steps",
       "identifiers" : [
         "doc:\/\/com.apple.ResearchKit\/documentation\/ResearchKit\/ORKAmslerGridEyeSide"
       ],
       "title" : "Vision steps"
     },
     {
+      "anchor" : "Wait-steps",
       "identifiers" : [
         "doc:\/\/com.apple.ResearchKit\/documentation\/ResearchKit\/ORKWaitStep"
       ],
       "title" : "Wait steps"
     },
     {
+      "anchor" : "Web-steps",
       "identifiers" : [
         "doc:\/\/com.apple.ResearchKit\/documentation\/ResearchKit\/ORKWebViewStep"
       ],
       "title" : "Web steps"
     },
     {
+      "anchor" : "Other-steps",
       "identifiers" : [
         "doc:\/\/com.apple.ResearchKit\/documentation\/ResearchKit\/ORKSecondaryTaskStep",
         "doc:\/\/com.apple.ResearchKit\/documentation\/ResearchKit\/ORKSkipStepNavigationRule"

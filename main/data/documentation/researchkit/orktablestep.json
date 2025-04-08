@@ -111,6 +111,7 @@
   ],
   "seeAlsoSections" : [
     {
+      "anchor" : "Table-steps",
       "generated" : true,
       "identifiers" : [
         "doc:\/\/com.apple.ResearchKit\/documentation\/ResearchKit\/ORKTableStepSource"
@@ -120,6 +121,8 @@
   ],
   "topicSections" : [
     {
+      "anchor" : "Instance-Properties",
+      "generated" : true,
       "identifiers" : [
         "doc:\/\/com.apple.ResearchKit\/documentation\/ResearchKit\/ORKTableStep\/allowsSelection",
         "doc:\/\/com.apple.ResearchKit\/documentation\/ResearchKit\/ORKTableStep\/bottomPadding",
@@ -132,6 +135,8 @@
       "title" : "Instance Properties"
     },
     {
+      "anchor" : "Instance-Methods",
+      "generated" : true,
       "identifiers" : [
         "doc:\/\/com.apple.ResearchKit\/documentation\/ResearchKit\/ORKTableStep\/configureCell(_:indexPath:tableView:)",
         "doc:\/\/com.apple.ResearchKit\/documentation\/ResearchKit\/ORKTableStep\/numberOfRows(inSection:)",

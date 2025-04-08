@@ -111,6 +111,7 @@
   ],
   "seeAlsoSections" : [
     {
+      "anchor" : "Table-steps",
       "generated" : true,
       "identifiers" : [
         "doc:\/\/com.apple.ResearchKit\/documentation\/ResearchKit\/ORKTableStep"
@@ -120,6 +121,8 @@
   ],
   "topicSections" : [
     {
+      "anchor" : "Instance-Methods",
+      "generated" : true,
       "identifiers" : [
         "doc:\/\/com.apple.ResearchKit\/documentation\/ResearchKit\/ORKTableStepSource\/configureCell(_:indexPath:tableView:)",
         "doc:\/\/com.apple.ResearchKit\/documentation\/ResearchKit\/ORKTableStepSource\/customTableViewStyle()",
@@ -421,7 +424,6 @@
   ],
   "identifier" : "doc:\/\/com.apple.ResearchKit\/documentation\/ResearchKit\/ORKTableStepSource\/numberOfSections()",
   "kind" : "symbol",
-  "required" : true,
   "role" : "symbol",
   "title" : "numberOfSections()",
   "type" : "topic",
@@ -519,7 +521,6 @@
   ],
   "identifier" : "doc:\/\/com.apple.ResearchKit\/documentation\/ResearchKit\/ORKTableStepSource\/reuseIdentifierForRow(at:)",
   "kind" : "symbol",
-  "required" : true,
   "role" : "symbol",
   "title" : "reuseIdentifierForRow(at:)",
   "type" : "topic",
@@ -592,7 +593,6 @@
   ],
   "identifier" : "doc:\/\/com.apple.ResearchKit\/documentation\/ResearchKit\/ORKTableStepSource\/titleForHeader(inSection:tableView:)",
   "kind" : "symbol",
-  "required" : true,
   "role" : "symbol",
   "title" : "titleForHeader(inSection:tableView:)",
   "type" : "topic",
@@ -665,7 +665,6 @@
   ],
   "identifier" : "doc:\/\/com.apple.ResearchKit\/documentation\/ResearchKit\/ORKTableStepSource\/viewForHeader(inSection:tableView:)",
   "kind" : "symbol",
-  "required" : true,
   "role" : "symbol",
   "title" : "viewForHeader(inSection:tableView:)",
   "type" : "topic",

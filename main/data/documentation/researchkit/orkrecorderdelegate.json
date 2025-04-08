@@ -103,6 +103,7 @@
   ],
   "seeAlsoSections" : [
     {
+      "anchor" : "Step-recording",
       "generated" : true,
       "identifiers" : [
         "doc:\/\/com.apple.ResearchKit\/documentation\/ResearchKit\/ORKRecorder",
@@ -113,6 +114,8 @@
   ],
   "topicSections" : [
     {
+      "anchor" : "Instance-Methods",
+      "generated" : true,
       "identifiers" : [
         "doc:\/\/com.apple.ResearchKit\/documentation\/ResearchKit\/ORKRecorderDelegate\/recorder(_:didCompleteWith:)",
         "doc:\/\/com.apple.ResearchKit\/documentation\/ResearchKit\/ORKRecorderDelegate\/recorder(_:didFailWithError:)"

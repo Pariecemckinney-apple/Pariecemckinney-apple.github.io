@@ -85,8 +85,23 @@
         "introducedAt" : "11.0",
         "name" : "iOS",
         "unavailable" : false
+      },
+      {
+        "beta" : false,
+        "deprecated" : false,
+        "introducedAt" : "11.0",
+        "name" : "iPadOS",
+        "unavailable" : false
+      },
+      {
+        "beta" : false,
+        "deprecated" : false,
+        "introducedAt" : "11.0",
+        "name" : "Mac Catalyst",
+        "unavailable" : false
       }
     ],
+    "required" : true,
     "role" : "symbol",
     "roleHeading" : "Instance Method",
     "symbolKind" : "method",
@@ -352,6 +367,7 @@
   ],
   "identifier" : "doc:\/\/com.apple.ResearchKit\/documentation\/ResearchKit\/ORKTask\/progress(ofCurrentStep:with:)",
   "kind" : "symbol",
+  "required" : true,
   "role" : "symbol",
   "title" : "progress(ofCurrentStep:with:)",
   "type" : "topic",

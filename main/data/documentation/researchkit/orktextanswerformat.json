@@ -112,6 +112,7 @@
   ],
   "seeAlsoSections" : [
     {
+      "anchor" : "Text",
       "generated" : true,
       "identifiers" : [
         "doc:\/\/com.apple.ResearchKit\/documentation\/ResearchKit\/ORKTextChoiceAnswerFormat",
@@ -126,6 +127,8 @@
   ],
   "topicSections" : [
     {
+      "anchor" : "Initializers",
+      "generated" : true,
       "identifiers" : [
         "doc:\/\/com.apple.ResearchKit\/documentation\/ResearchKit\/ORKTextAnswerFormat\/init(maximumLength:)",
         "doc:\/\/com.apple.ResearchKit\/documentation\/ResearchKit\/ORKTextAnswerFormat\/init(validationRegularExpression:invalidMessage:)"
@@ -133,6 +136,8 @@
       "title" : "Initializers"
     },
     {
+      "anchor" : "Instance-Properties",
+      "generated" : true,
       "identifiers" : [
         "doc:\/\/com.apple.ResearchKit\/documentation\/ResearchKit\/ORKTextAnswerFormat\/autocapitalizationType",
         "doc:\/\/com.apple.ResearchKit\/documentation\/ResearchKit\/ORKTextAnswerFormat\/autocorrectionType",

@@ -110,6 +110,7 @@
   ],
   "seeAlsoSections" : [
     {
+      "anchor" : "Consent-and-completion-steps",
       "generated" : true,
       "identifiers" : [
         "doc:\/\/com.apple.ResearchKit\/documentation\/ResearchKit\/ORKConsentSharingStep",
@@ -120,13 +121,16 @@
   ],
   "topicSections" : [
     {
+      "anchor" : "Initializers",
+      "generated" : true,
       "identifiers" : [
-        "doc:\/\/com.apple.ResearchKit\/documentation\/ResearchKit\/ORKConsentReviewStep\/init(identifier:signature:in:)",
-        "doc:\/\/com.apple.ResearchKit\/documentation\/ResearchKit\/ORKConsentReviewStep\/init(identifier:signature:inDocument:)"
+        "doc:\/\/com.apple.ResearchKit\/documentation\/ResearchKit\/ORKConsentReviewStep\/init(identifier:signature:in:)"
       ],
       "title" : "Initializers"
     },
     {
+      "anchor" : "Instance-Properties",
+      "generated" : true,
       "identifiers" : [
         "doc:\/\/com.apple.ResearchKit\/documentation\/ResearchKit\/ORKConsentReviewStep\/consentDocument",
         "doc:\/\/com.apple.ResearchKit\/documentation\/ResearchKit\/ORKConsentReviewStep\/reasonForConsent",
@@ -341,78 +345,6 @@
   "title" : "init(identifier:signature:in:)",
   "type" : "topic",
   "url" : "\/documentation\/researchkit\/orkconsentreviewstep\/init(identifier:signature:in:)"
-},
-"doc://com.apple.ResearchKit/documentation/ResearchKit/ORKConsentReviewStep/init(identifier:signature:inDocument:)": {
-  "abstract" : [
-
-  ],
-  "fragments" : [
-    {
-      "kind" : "identifier",
-      "text" : "init"
-    },
-    {
-      "kind" : "text",
-      "text" : "("
-    },
-    {
-      "kind" : "externalParam",
-      "text" : "identifier"
-    },
-    {
-      "kind" : "text",
-      "text" : ": "
-    },
-    {
-      "kind" : "typeIdentifier",
-      "preciseIdentifier" : "s:SS",
-      "text" : "String"
-    },
-    {
-      "kind" : "text",
-      "text" : ", "
-    },
-    {
-      "kind" : "externalParam",
-      "text" : "signature"
-    },
-    {
-      "kind" : "text",
-      "text" : ": "
-    },
-    {
-      "kind" : "typeIdentifier",
-      "preciseIdentifier" : "c:objc(cs)ORKConsentSignature",
-      "text" : "ORKConsentSignature"
-    },
-    {
-      "kind" : "text",
-      "text" : "?, "
-    },
-    {
-      "kind" : "externalParam",
-      "text" : "inDocument"
-    },
-    {
-      "kind" : "text",
-      "text" : ": "
-    },
-    {
-      "kind" : "typeIdentifier",
-      "preciseIdentifier" : "c:objc(cs)ORKConsentDocument",
-      "text" : "ORKConsentDocument"
-    },
-    {
-      "kind" : "text",
-      "text" : ")"
-    }
-  ],
-  "identifier" : "doc:\/\/com.apple.ResearchKit\/documentation\/ResearchKit\/ORKConsentReviewStep\/init(identifier:signature:inDocument:)",
-  "kind" : "symbol",
-  "role" : "symbol",
-  "title" : "init(identifier:signature:inDocument:)",
-  "type" : "topic",
-  "url" : "\/documentation\/researchkit\/orkconsentreviewstep\/init(identifier:signature:indocument:)"
 },
 "doc://com.apple.ResearchKit/documentation/ResearchKit/ORKConsentReviewStep/reasonForConsent": {
   "abstract" : [

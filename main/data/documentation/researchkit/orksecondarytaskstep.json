@@ -110,6 +110,7 @@
   ],
   "seeAlsoSections" : [
     {
+      "anchor" : "Other-steps",
       "generated" : true,
       "identifiers" : [
         "doc:\/\/com.apple.ResearchKit\/documentation\/ResearchKit\/ORKSkipStepNavigationRule"
@@ -119,6 +120,8 @@
   ],
   "topicSections" : [
     {
+      "anchor" : "Instance-Properties",
+      "generated" : true,
       "identifiers" : [
         "doc:\/\/com.apple.ResearchKit\/documentation\/ResearchKit\/ORKSecondaryTaskStep\/nextButtonTitle",
         "doc:\/\/com.apple.ResearchKit\/documentation\/ResearchKit\/ORKSecondaryTaskStep\/requiredAttempts",

@@ -111,6 +111,7 @@
   ],
   "seeAlsoSections" : [
     {
+      "anchor" : "HealthKit",
       "generated" : true,
       "identifiers" : [
         "doc:\/\/com.apple.ResearchKit\/documentation\/ResearchKit\/ORKHealthKitQuantityTypeAnswerFormat"
@@ -120,12 +121,16 @@
   ],
   "topicSections" : [
     {
+      "anchor" : "Initializers",
+      "generated" : true,
       "identifiers" : [
         "doc:\/\/com.apple.ResearchKit\/documentation\/ResearchKit\/ORKHealthKitCharacteristicTypeAnswerFormat\/init(characteristicType:)"
       ],
       "title" : "Initializers"
     },
     {
+      "anchor" : "Instance-Properties",
+      "generated" : true,
       "identifiers" : [
         "doc:\/\/com.apple.ResearchKit\/documentation\/ResearchKit\/ORKHealthKitCharacteristicTypeAnswerFormat\/calendar",
         "doc:\/\/com.apple.ResearchKit\/documentation\/ResearchKit\/ORKHealthKitCharacteristicTypeAnswerFormat\/characteristicType",

@@ -109,6 +109,7 @@
   ],
   "seeAlsoSections" : [
     {
+      "anchor" : "Consent-presentation",
       "generated" : true,
       "identifiers" : [
         "doc:\/\/com.apple.ResearchKit\/documentation\/ResearchKit\/ORKConsentDocument",
@@ -122,13 +123,16 @@
   ],
   "topicSections" : [
     {
+      "anchor" : "Initializers",
+      "generated" : true,
       "identifiers" : [
-        "doc:\/\/com.apple.ResearchKit\/documentation\/ResearchKit\/ORKConsentSection\/init(coder:)",
         "doc:\/\/com.apple.ResearchKit\/documentation\/ResearchKit\/ORKConsentSection\/init(type:)"
       ],
       "title" : "Initializers"
     },
     {
+      "anchor" : "Instance-Properties",
+      "generated" : true,
       "identifiers" : [
         "doc:\/\/com.apple.ResearchKit\/documentation\/ResearchKit\/ORKConsentSection\/content",
         "doc:\/\/com.apple.ResearchKit\/documentation\/ResearchKit\/ORKConsentSection\/contentURL",
@@ -524,44 +528,6 @@
   "title" : "htmlContent",
   "type" : "topic",
   "url" : "\/documentation\/researchkit\/orkconsentsection\/htmlcontent"
-},
-"doc://com.apple.ResearchKit/documentation/ResearchKit/ORKConsentSection/init(coder:)": {
-  "abstract" : [
-
-  ],
-  "fragments" : [
-    {
-      "kind" : "identifier",
-      "text" : "init"
-    },
-    {
-      "kind" : "text",
-      "text" : "?("
-    },
-    {
-      "kind" : "externalParam",
-      "text" : "coder"
-    },
-    {
-      "kind" : "text",
-      "text" : ": "
-    },
-    {
-      "kind" : "typeIdentifier",
-      "preciseIdentifier" : "c:objc(cs)NSCoder",
-      "text" : "NSCoder"
-    },
-    {
-      "kind" : "text",
-      "text" : ")"
-    }
-  ],
-  "identifier" : "doc:\/\/com.apple.ResearchKit\/documentation\/ResearchKit\/ORKConsentSection\/init(coder:)",
-  "kind" : "symbol",
-  "role" : "symbol",
-  "title" : "init(coder:)",
-  "type" : "topic",
-  "url" : "\/documentation\/researchkit\/orkconsentsection\/init(coder:)"
 },
 "doc://com.apple.ResearchKit/documentation/ResearchKit/ORKConsentSection/init(type:)": {
   "abstract" : [

@@ -97,6 +97,7 @@
   ],
   "seeAlsoSections" : [
     {
+      "anchor" : "Essentials",
       "generated" : true,
       "identifiers" : [
         "doc:\/\/com.apple.ResearchKit\/documentation\/ResearchKit\/Setting-up-Your-Project-to-Use-ResearchKit",
@@ -108,6 +109,7 @@
   ],
   "topicSections" : [
     {
+      "anchor" : "Data-collection-and-analysis",
       "identifiers" : [
         "doc:\/\/com.apple.ResearchKit\/documentation\/ResearchKit\/Steps",
         "doc:\/\/com.apple.ResearchKit\/documentation\/ResearchKit\/Tasks",

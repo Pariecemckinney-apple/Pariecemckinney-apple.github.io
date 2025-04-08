@@ -111,6 +111,7 @@
   ],
   "seeAlsoSections" : [
     {
+      "anchor" : "Other-formats",
       "generated" : true,
       "identifiers" : [
         "doc:\/\/com.apple.ResearchKit\/documentation\/ResearchKit\/ORKBooleanAnswerFormat",
@@ -124,6 +125,8 @@
   ],
   "topicSections" : [
     {
+      "anchor" : "Initializers",
+      "generated" : true,
       "identifiers" : [
         "doc:\/\/com.apple.ResearchKit\/documentation\/ResearchKit\/ORKMultipleValuePickerAnswerFormat\/init(valuePickers:)",
         "doc:\/\/com.apple.ResearchKit\/documentation\/ResearchKit\/ORKMultipleValuePickerAnswerFormat\/init(valuePickers:separator:)"
@@ -131,6 +134,8 @@
       "title" : "Initializers"
     },
     {
+      "anchor" : "Instance-Properties",
+      "generated" : true,
       "identifiers" : [
         "doc:\/\/com.apple.ResearchKit\/documentation\/ResearchKit\/ORKMultipleValuePickerAnswerFormat\/separator",
         "doc:\/\/com.apple.ResearchKit\/documentation\/ResearchKit\/ORKMultipleValuePickerAnswerFormat\/valuePickers"

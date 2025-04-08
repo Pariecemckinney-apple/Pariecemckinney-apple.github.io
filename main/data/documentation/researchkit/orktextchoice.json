@@ -119,6 +119,7 @@
   ],
   "seeAlsoSections" : [
     {
+      "anchor" : "Text",
       "generated" : true,
       "identifiers" : [
         "doc:\/\/com.apple.ResearchKit\/documentation\/ResearchKit\/ORKTextAnswerFormat",
@@ -133,8 +134,9 @@
   ],
   "topicSections" : [
     {
+      "anchor" : "Initializers",
+      "generated" : true,
       "identifiers" : [
-        "doc:\/\/com.apple.ResearchKit\/documentation\/ResearchKit\/ORKTextChoice\/init(coder:)",
         "doc:\/\/com.apple.ResearchKit\/documentation\/ResearchKit\/ORKTextChoice\/init(text:detailText:value:exclusive:)",
         "doc:\/\/com.apple.ResearchKit\/documentation\/ResearchKit\/ORKTextChoice\/init(text:image:value:)",
         "doc:\/\/com.apple.ResearchKit\/documentation\/ResearchKit\/ORKTextChoice\/init(text:primaryTextAttributedString:detailText:detailTextAttributedString:value:exclusive:)",
@@ -143,6 +145,8 @@
       "title" : "Initializers"
     },
     {
+      "anchor" : "Instance-Properties",
+      "generated" : true,
       "identifiers" : [
         "doc:\/\/com.apple.ResearchKit\/documentation\/ResearchKit\/ORKTextChoice\/detailText",
         "doc:\/\/com.apple.ResearchKit\/documentation\/ResearchKit\/ORKTextChoice\/detailTextAttributedString",
@@ -478,44 +482,6 @@
   "title" : "image",
   "type" : "topic",
   "url" : "\/documentation\/researchkit\/orktextchoice\/image"
-},
-"doc://com.apple.ResearchKit/documentation/ResearchKit/ORKTextChoice/init(coder:)": {
-  "abstract" : [
-
-  ],
-  "fragments" : [
-    {
-      "kind" : "identifier",
-      "text" : "init"
-    },
-    {
-      "kind" : "text",
-      "text" : "?("
-    },
-    {
-      "kind" : "externalParam",
-      "text" : "coder"
-    },
-    {
-      "kind" : "text",
-      "text" : ": "
-    },
-    {
-      "kind" : "typeIdentifier",
-      "preciseIdentifier" : "c:objc(cs)NSCoder",
-      "text" : "NSCoder"
-    },
-    {
-      "kind" : "text",
-      "text" : ")"
-    }
-  ],
-  "identifier" : "doc:\/\/com.apple.ResearchKit\/documentation\/ResearchKit\/ORKTextChoice\/init(coder:)",
-  "kind" : "symbol",
-  "role" : "symbol",
-  "title" : "init(coder:)",
-  "type" : "topic",
-  "url" : "\/documentation\/researchkit\/orktextchoice\/init(coder:)"
 },
 "doc://com.apple.ResearchKit/documentation/ResearchKit/ORKTextChoice/init(text:detailText:value:exclusive:)": {
   "abstract" : [

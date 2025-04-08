@@ -102,6 +102,7 @@
   ],
   "seeAlsoSections" : [
     {
+      "anchor" : "Consent-presentation",
       "generated" : true,
       "identifiers" : [
         "doc:\/\/com.apple.ResearchKit\/documentation\/ResearchKit\/ORKConsentDocument",
@@ -115,6 +116,8 @@
   ],
   "topicSections" : [
     {
+      "anchor" : "Instance-Methods",
+      "generated" : true,
       "identifiers" : [
         "doc:\/\/com.apple.ResearchKit\/documentation\/ResearchKit\/ORKCustomSignatureAccessoryViewProvider\/customFooterViewForSignatureContent()",
         "doc:\/\/com.apple.ResearchKit\/documentation\/ResearchKit\/ORKCustomSignatureAccessoryViewProvider\/customHeaderViewForSignatureContent()",
@@ -440,6 +443,7 @@
   ],
   "identifier" : "doc:\/\/com.apple.ResearchKit\/documentation\/ResearchKit\/ORKCustomSignatureAccessoryViewProvider\/customHeaderViewForSignatureContent()",
   "kind" : "symbol",
+  "required" : true,
   "role" : "symbol",
   "title" : "customHeaderViewForSignatureContent()",
   "type" : "topic",
@@ -483,6 +487,7 @@
   ],
   "identifier" : "doc:\/\/com.apple.ResearchKit\/documentation\/ResearchKit\/ORKCustomSignatureAccessoryViewProvider\/keyboardDismissModeForCustomView()",
   "kind" : "symbol",
+  "required" : true,
   "role" : "symbol",
   "title" : "keyboardDismissModeForCustomView()",
   "type" : "topic",

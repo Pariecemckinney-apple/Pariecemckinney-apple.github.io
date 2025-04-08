@@ -47,6 +47,20 @@
         "introducedAt" : "11.0",
         "name" : "iOS",
         "unavailable" : false
+      },
+      {
+        "beta" : false,
+        "deprecated" : false,
+        "introducedAt" : "11.0",
+        "name" : "iPadOS",
+        "unavailable" : false
+      },
+      {
+        "beta" : false,
+        "deprecated" : false,
+        "introducedAt" : "11.0",
+        "name" : "Mac Catalyst",
+        "unavailable" : false
       }
     ],
     "role" : "symbol",
@@ -145,6 +159,8 @@
   ],
   "topicSections" : [
     {
+      "anchor" : "Initializers",
+      "generated" : true,
       "identifiers" : [
         "doc:\/\/com.apple.ResearchKit\/documentation\/ResearchKit\/ORKStep\/init(coder:)",
         "doc:\/\/com.apple.ResearchKit\/documentation\/ResearchKit\/ORKStep\/init(identifier:)"
@@ -152,6 +168,8 @@
       "title" : "Initializers"
     },
     {
+      "anchor" : "Instance-Properties",
+      "generated" : true,
       "identifiers" : [
         "doc:\/\/com.apple.ResearchKit\/documentation\/ResearchKit\/ORKStep\/auxiliaryImage",
         "doc:\/\/com.apple.ResearchKit\/documentation\/ResearchKit\/ORKStep\/bodyItemTextAlignment",
@@ -179,6 +197,8 @@
       "title" : "Instance Properties"
     },
     {
+      "anchor" : "Instance-Methods",
+      "generated" : true,
       "identifiers" : [
         "doc:\/\/com.apple.ResearchKit\/documentation\/ResearchKit\/ORKStep\/copy(withIdentifier:)",
         "doc:\/\/com.apple.ResearchKit\/documentation\/ResearchKit\/ORKStep\/validateParameters()"

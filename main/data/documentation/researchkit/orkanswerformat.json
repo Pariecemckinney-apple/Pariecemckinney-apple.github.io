@@ -140,6 +140,7 @@
   ],
   "seeAlsoSections" : [
     {
+      "anchor" : "Essentials",
       "generated" : true,
       "identifiers" : [
         "doc:\/\/com.apple.ResearchKit\/documentation\/ResearchKit\/ORKNumericPrecision"
@@ -149,12 +150,8 @@
   ],
   "topicSections" : [
     {
-      "identifiers" : [
-        "doc:\/\/com.apple.ResearchKit\/documentation\/ResearchKit\/ORKAnswerFormat\/init(coder:)"
-      ],
-      "title" : "Initializers"
-    },
-    {
+      "anchor" : "Instance-Properties",
+      "generated" : true,
       "identifiers" : [
         "doc:\/\/com.apple.ResearchKit\/documentation\/ResearchKit\/ORKAnswerFormat\/customDontKnowButtonText",
         "doc:\/\/com.apple.ResearchKit\/documentation\/ResearchKit\/ORKAnswerFormat\/dontKnowButtonStyle",
@@ -164,6 +161,8 @@
       "title" : "Instance Properties"
     },
     {
+      "anchor" : "Instance-Methods",
+      "generated" : true,
       "identifiers" : [
         "doc:\/\/com.apple.ResearchKit\/documentation\/ResearchKit\/ORKAnswerFormat\/implied()",
         "doc:\/\/com.apple.ResearchKit\/documentation\/ResearchKit\/ORKAnswerFormat\/validateParameters()"
@@ -171,6 +170,8 @@
       "title" : "Instance Methods"
     },
     {
+      "anchor" : "Type-Methods",
+      "generated" : true,
       "identifiers" : [
         "doc:\/\/com.apple.ResearchKit\/documentation\/ResearchKit\/ORKAnswerFormat\/booleanAnswerFormat()",
         "doc:\/\/com.apple.ResearchKit\/documentation\/ResearchKit\/ORKAnswerFormat\/booleanAnswerFormat(withYesString:noString:)",
@@ -1705,44 +1706,6 @@
   "title" : "implied()",
   "type" : "topic",
   "url" : "\/documentation\/researchkit\/orkanswerformat\/implied()"
-},
-"doc://com.apple.ResearchKit/documentation/ResearchKit/ORKAnswerFormat/init(coder:)": {
-  "abstract" : [
-
-  ],
-  "fragments" : [
-    {
-      "kind" : "identifier",
-      "text" : "init"
-    },
-    {
-      "kind" : "text",
-      "text" : "?("
-    },
-    {
-      "kind" : "externalParam",
-      "text" : "coder"
-    },
-    {
-      "kind" : "text",
-      "text" : ": "
-    },
-    {
-      "kind" : "typeIdentifier",
-      "preciseIdentifier" : "c:objc(cs)NSCoder",
-      "text" : "NSCoder"
-    },
-    {
-      "kind" : "text",
-      "text" : ")"
-    }
-  ],
-  "identifier" : "doc:\/\/com.apple.ResearchKit\/documentation\/ResearchKit\/ORKAnswerFormat\/init(coder:)",
-  "kind" : "symbol",
-  "role" : "symbol",
-  "title" : "init(coder:)",
-  "type" : "topic",
-  "url" : "\/documentation\/researchkit\/orkanswerformat\/init(coder:)"
 },
 "doc://com.apple.ResearchKit/documentation/ResearchKit/ORKAnswerFormat/integerAnswerFormat(withUnit:)": {
   "abstract" : [

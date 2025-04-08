@@ -96,6 +96,7 @@
   ],
   "seeAlsoSections" : [
     {
+      "anchor" : "Registration-steps",
       "generated" : true,
       "identifiers" : [
         "doc:\/\/com.apple.ResearchKit\/documentation\/ResearchKit\/ORKRegistrationStep",

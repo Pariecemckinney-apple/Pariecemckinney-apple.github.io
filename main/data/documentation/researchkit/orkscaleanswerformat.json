@@ -112,6 +112,7 @@
   ],
   "seeAlsoSections" : [
     {
+      "anchor" : "Scale",
       "generated" : true,
       "identifiers" : [
         "doc:\/\/com.apple.ResearchKit\/documentation\/ResearchKit\/ORKContinuousScaleAnswerFormat",
@@ -122,6 +123,8 @@
   ],
   "topicSections" : [
     {
+      "anchor" : "Initializers",
+      "generated" : true,
       "identifiers" : [
         "doc:\/\/com.apple.ResearchKit\/documentation\/ResearchKit\/ORKScaleAnswerFormat\/init(maximumValue:minimumValue:defaultValue:step:)",
         "doc:\/\/com.apple.ResearchKit\/documentation\/ResearchKit\/ORKScaleAnswerFormat\/init(maximumValue:minimumValue:defaultValue:step:vertical:)",
@@ -130,6 +133,8 @@
       "title" : "Initializers"
     },
     {
+      "anchor" : "Instance-Properties",
+      "generated" : true,
       "identifiers" : [
         "doc:\/\/com.apple.ResearchKit\/documentation\/ResearchKit\/ORKScaleAnswerFormat\/defaultValue",
         "doc:\/\/com.apple.ResearchKit\/documentation\/ResearchKit\/ORKScaleAnswerFormat\/gradientColors",

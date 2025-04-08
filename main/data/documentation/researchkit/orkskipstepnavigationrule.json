@@ -118,6 +118,7 @@
   ],
   "seeAlsoSections" : [
     {
+      "anchor" : "Other-steps",
       "generated" : true,
       "identifiers" : [
         "doc:\/\/com.apple.ResearchKit\/documentation\/ResearchKit\/ORKSecondaryTaskStep"
@@ -127,6 +128,8 @@
   ],
   "topicSections" : [
     {
+      "anchor" : "Initializers",
+      "generated" : true,
       "identifiers" : [
         "doc:\/\/com.apple.ResearchKit\/documentation\/ResearchKit\/ORKSkipStepNavigationRule\/init()",
         "doc:\/\/com.apple.ResearchKit\/documentation\/ResearchKit\/ORKSkipStepNavigationRule\/init(coder:)"
@@ -134,6 +137,8 @@
       "title" : "Initializers"
     },
     {
+      "anchor" : "Instance-Methods",
+      "generated" : true,
       "identifiers" : [
         "doc:\/\/com.apple.ResearchKit\/documentation\/ResearchKit\/ORKSkipStepNavigationRule\/stepShouldSkip(with:)"
       ],

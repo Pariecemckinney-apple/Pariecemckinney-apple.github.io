@@ -1097,6 +1097,7 @@
   ],
   "seeAlsoSections" : [
     {
+      "anchor" : "Articles",
       "generated" : true,
       "identifiers" : [
         "doc:\/\/com.apple.ResearchKit\/documentation\/ResearchKit\/Conditional-Logic-in-ResearchKit",
@@ -1132,7 +1133,7 @@
         "3x",
         "light"
       ],
-      "url" : "\/images\/creating-surveys-age@3x.png"
+      "url" : "\/images\/com.apple.ResearchKit\/creating-surveys-age@3x.png"
     }
   ]
 },
@@ -1146,7 +1147,7 @@
         "3x",
         "light"
       ],
-      "url" : "\/images\/creating-surveys-background-check@3x.png"
+      "url" : "\/images\/com.apple.ResearchKit\/creating-surveys-background-check@3x.png"
     }
   ]
 },
@@ -1160,7 +1161,7 @@
         "3x",
         "light"
       ],
-      "url" : "\/images\/creating-surveys-blood-type@3x.png"
+      "url" : "\/images\/com.apple.ResearchKit\/creating-surveys-blood-type@3x.png"
     }
   ]
 },
@@ -1174,7 +1175,7 @@
         "3x",
         "light"
       ],
-      "url" : "\/images\/creating-surveys-email@3x.png"
+      "url" : "\/images\/com.apple.ResearchKit\/creating-surveys-email@3x.png"
     }
   ]
 },
@@ -1188,7 +1189,7 @@
         "3x",
         "light"
       ],
-      "url" : "\/images\/creating-surveys-feeling-text-entry@3x.png"
+      "url" : "\/images\/com.apple.ResearchKit\/creating-surveys-feeling-text-entry@3x.png"
     }
   ]
 },
@@ -1202,7 +1203,7 @@
         "3x",
         "light"
       ],
-      "url" : "\/images\/creating-surveys-form-step@3x.png"
+      "url" : "\/images\/com.apple.ResearchKit\/creating-surveys-form-step@3x.png"
     }
   ]
 },
@@ -1216,7 +1217,7 @@
         "3x",
         "light"
       ],
-      "url" : "\/images\/creating-surveys-instruction-step@3x.png"
+      "url" : "\/images\/com.apple.ResearchKit\/creating-surveys-instruction-step@3x.png"
     }
   ]
 },
@@ -1230,7 +1231,7 @@
         "3x",
         "light"
       ],
-      "url" : "\/images\/creating-surveys-location@3x.png"
+      "url" : "\/images\/com.apple.ResearchKit\/creating-surveys-location@3x.png"
     }
   ]
 },
@@ -1244,7 +1245,7 @@
         "2x",
         "light"
       ],
-      "url" : "\/images\/creating-surveys-navigable-ordered-tasks@2x.png"
+      "url" : "\/images\/com.apple.ResearchKit\/creating-surveys-navigable-ordered-tasks@2x.png"
     }
   ]
 },
@@ -1258,7 +1259,7 @@
         "3x",
         "light"
       ],
-      "url" : "\/images\/creating-surveys-next-meeting@3x.png"
+      "url" : "\/images\/com.apple.ResearchKit\/creating-surveys-next-meeting@3x.png"
     }
   ]
 },
@@ -1272,7 +1273,7 @@
         "1x",
         "light"
       ],
-      "url" : "\/images\/creating-surveys-ordered-tasks@1x.png"
+      "url" : "\/images\/com.apple.ResearchKit\/creating-surveys-ordered-tasks@1x.png"
     }
   ]
 },
@@ -1286,7 +1287,7 @@
         "1x",
         "light"
       ],
-      "url" : "\/images\/creating-surveys-results-hierarchy@1x.png"
+      "url" : "\/images\/com.apple.ResearchKit\/creating-surveys-results-hierarchy@1x.png"
     }
   ]
 },
@@ -1300,7 +1301,7 @@
         "3x",
         "light"
       ],
-      "url" : "\/images\/creating-surveys-slider@3x.png"
+      "url" : "\/images\/com.apple.ResearchKit\/creating-surveys-slider@3x.png"
     }
   ]
 },
@@ -1314,7 +1315,7 @@
         "3x",
         "light"
       ],
-      "url" : "\/images\/creating-surveys-symptom-choice@3x.png"
+      "url" : "\/images\/com.apple.ResearchKit\/creating-surveys-symptom-choice@3x.png"
     }
   ]
 },
@@ -1328,7 +1329,7 @@
         "3x",
         "light"
       ],
-      "url" : "\/images\/creating-surveys-time-of-day@3x.png"
+      "url" : "\/images\/com.apple.ResearchKit\/creating-surveys-time-of-day@3x.png"
     }
   ]
 },

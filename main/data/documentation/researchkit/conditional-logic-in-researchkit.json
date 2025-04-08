@@ -590,6 +590,7 @@
   ],
   "seeAlsoSections" : [
     {
+      "anchor" : "Articles",
       "generated" : true,
       "identifiers" : [
         "doc:\/\/com.apple.ResearchKit\/documentation\/ResearchKit\/Creating-Surveys",
@@ -626,7 +627,7 @@
         "1x",
         "light"
       ],
-      "url" : "\/videos\/conditional-logic-in-researchKit-formItem-yes-no.mov"
+      "url" : "\/videos\/com.apple.ResearchKit\/conditional-logic-in-researchKit-formItem-yes-no.mov"
     }
   ]
 },
@@ -641,7 +642,7 @@
         "1x",
         "light"
       ],
-      "url" : "\/videos\/conditional-logic-in-researchKit-step-no.mov"
+      "url" : "\/videos\/com.apple.ResearchKit\/conditional-logic-in-researchKit-step-no.mov"
     }
   ]
 },
@@ -656,7 +657,7 @@
         "1x",
         "light"
       ],
-      "url" : "\/videos\/conditional-logic-in-researchKit-step-yes.mov"
+      "url" : "\/videos\/com.apple.ResearchKit\/conditional-logic-in-researchKit-step-yes.mov"
     }
   ]
 },
@@ -670,7 +671,7 @@
         "3x",
         "light"
       ],
-      "url" : "\/images\/conditional-logic-in-researchKit-step1@3x.png"
+      "url" : "\/images\/com.apple.ResearchKit\/conditional-logic-in-researchKit-step1@3x.png"
     }
   ]
 },
@@ -684,7 +685,7 @@
         "3x",
         "light"
       ],
-      "url" : "\/images\/conditional-logic-in-researchKit-step2@3x.png"
+      "url" : "\/images\/com.apple.ResearchKit\/conditional-logic-in-researchKit-step2@3x.png"
     }
   ]
 },
@@ -698,7 +699,7 @@
         "3x",
         "light"
       ],
-      "url" : "\/images\/conditional-logic-in-researchKit-step3@3x.png"
+      "url" : "\/images\/com.apple.ResearchKit\/conditional-logic-in-researchKit-step3@3x.png"
     }
   ]
 },

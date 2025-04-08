@@ -107,6 +107,7 @@
   ],
   "seeAlsoSections" : [
     {
+      "anchor" : "Authentication-and-consent-steps",
       "generated" : true,
       "identifiers" : [
         "doc:\/\/com.apple.ResearchKit\/documentation\/ResearchKit\/ORKLoginStep",
@@ -120,6 +121,8 @@
   ],
   "topicSections" : [
     {
+      "anchor" : "Type-Methods",
+      "generated" : true,
       "identifiers" : [
         "doc:\/\/com.apple.ResearchKit\/documentation\/ResearchKit\/ORKKeychainWrapper\/object(forKey:)",
         "doc:\/\/com.apple.ResearchKit\/documentation\/ResearchKit\/ORKKeychainWrapper\/removeObject(forKey:)",

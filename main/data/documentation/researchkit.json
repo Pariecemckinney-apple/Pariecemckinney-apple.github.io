@@ -224,6 +224,7 @@
   ],
   "topicSections" : [
     {
+      "anchor" : "Essentials",
       "identifiers" : [
         "doc:\/\/com.apple.ResearchKit\/documentation\/ResearchKit\/Setting-up-Your-Project-to-Use-ResearchKit",
         "doc:\/\/com.apple.ResearchKit\/documentation\/ResearchKit\/Obtaining-Consent",
@@ -233,6 +234,7 @@
       "title" : "Essentials"
     },
     {
+      "anchor" : "Research-components",
       "identifiers" : [
         "doc:\/\/com.apple.ResearchKit\/documentation\/ResearchKit\/Consent",
         "doc:\/\/com.apple.ResearchKit\/documentation\/ResearchKit\/Surveys",
@@ -241,6 +243,7 @@
       "title" : "Research components"
     },
     {
+      "anchor" : "Articles",
       "identifiers" : [
         "doc:\/\/com.apple.ResearchKit\/documentation\/ResearchKit\/Conditional-Logic-in-ResearchKit",
         "doc:\/\/com.apple.ResearchKit\/documentation\/ResearchKit\/Creating-Surveys",
@@ -252,6 +255,7 @@
       "title" : "Articles"
     },
     {
+      "anchor" : "Other",
       "identifiers" : [
         "doc:\/\/com.apple.ResearchKit\/documentation\/ResearchKit\/Constants",
         "doc:\/\/com.apple.ResearchKit\/documentation\/ResearchKit\/Enumerations",
@@ -260,6 +264,8 @@
       "title" : "Other"
     },
     {
+      "anchor" : "Functions",
+      "generated" : true,
       "identifiers" : [
         "doc:\/\/com.apple.ResearchKit\/documentation\/ResearchKit\/ORKCardLeftRightMarginForWindow(_:)",
         "doc:\/\/com.apple.ResearchKit\/documentation\/ResearchKit\/ORKColor(_:)",

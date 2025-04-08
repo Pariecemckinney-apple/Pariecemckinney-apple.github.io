@@ -111,6 +111,7 @@
   ],
   "seeAlsoSections" : [
     {
+      "anchor" : "Essentials",
       "generated" : true,
       "identifiers" : [
         "doc:\/\/com.apple.ResearchKit\/documentation\/ResearchKit\/ORKResult",
@@ -122,14 +123,17 @@
   ],
   "topicSections" : [
     {
+      "anchor" : "Initializers",
+      "generated" : true,
       "identifiers" : [
         "doc:\/\/com.apple.ResearchKit\/documentation\/ResearchKit\/ORKTaskResult\/init(coder:)",
-        "doc:\/\/com.apple.ResearchKit\/documentation\/ResearchKit\/ORKTaskResult\/init(taskIdentifier:taskRun:outputDirectory:)",
-        "doc:\/\/com.apple.ResearchKit\/documentation\/ResearchKit\/ORKTaskResult\/init(taskIdentifier:taskRunUUID:outputDirectory:)"
+        "doc:\/\/com.apple.ResearchKit\/documentation\/ResearchKit\/ORKTaskResult\/init(taskIdentifier:taskRun:outputDirectory:)"
       ],
       "title" : "Initializers"
     },
     {
+      "anchor" : "Instance-Properties",
+      "generated" : true,
       "identifiers" : [
         "doc:\/\/com.apple.ResearchKit\/documentation\/ResearchKit\/ORKTaskResult\/outputDirectory",
         "doc:\/\/com.apple.ResearchKit\/documentation\/ResearchKit\/ORKTaskResult\/taskRunUUID"
@@ -408,78 +412,6 @@
   "title" : "init(taskIdentifier:taskRun:outputDirectory:)",
   "type" : "topic",
   "url" : "\/documentation\/researchkit\/orktaskresult\/init(taskidentifier:taskrun:outputdirectory:)"
-},
-"doc://com.apple.ResearchKit/documentation/ResearchKit/ORKTaskResult/init(taskIdentifier:taskRunUUID:outputDirectory:)": {
-  "abstract" : [
-
-  ],
-  "fragments" : [
-    {
-      "kind" : "identifier",
-      "text" : "init"
-    },
-    {
-      "kind" : "text",
-      "text" : "("
-    },
-    {
-      "kind" : "externalParam",
-      "text" : "taskIdentifier"
-    },
-    {
-      "kind" : "text",
-      "text" : ": "
-    },
-    {
-      "kind" : "typeIdentifier",
-      "preciseIdentifier" : "s:SS",
-      "text" : "String"
-    },
-    {
-      "kind" : "text",
-      "text" : ", "
-    },
-    {
-      "kind" : "externalParam",
-      "text" : "taskRunUUID"
-    },
-    {
-      "kind" : "text",
-      "text" : ": "
-    },
-    {
-      "kind" : "typeIdentifier",
-      "preciseIdentifier" : "s:10Foundation4UUIDV",
-      "text" : "UUID"
-    },
-    {
-      "kind" : "text",
-      "text" : ", "
-    },
-    {
-      "kind" : "externalParam",
-      "text" : "outputDirectory"
-    },
-    {
-      "kind" : "text",
-      "text" : ": "
-    },
-    {
-      "kind" : "typeIdentifier",
-      "preciseIdentifier" : "s:10Foundation3URLV",
-      "text" : "URL"
-    },
-    {
-      "kind" : "text",
-      "text" : "?)"
-    }
-  ],
-  "identifier" : "doc:\/\/com.apple.ResearchKit\/documentation\/ResearchKit\/ORKTaskResult\/init(taskIdentifier:taskRunUUID:outputDirectory:)",
-  "kind" : "symbol",
-  "role" : "symbol",
-  "title" : "init(taskIdentifier:taskRunUUID:outputDirectory:)",
-  "type" : "topic",
-  "url" : "\/documentation\/researchkit\/orktaskresult\/init(taskidentifier:taskrunuuid:outputdirectory:)"
 },
 "doc://com.apple.ResearchKit/documentation/ResearchKit/ORKTaskResult/outputDirectory": {
   "abstract" : [

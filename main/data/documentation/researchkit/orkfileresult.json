@@ -118,6 +118,8 @@
   ],
   "topicSections" : [
     {
+      "anchor" : "Instance-Properties",
+      "generated" : true,
       "identifiers" : [
         "doc:\/\/com.apple.ResearchKit\/documentation\/ResearchKit\/ORKFileResult\/contentType",
         "doc:\/\/com.apple.ResearchKit\/documentation\/ResearchKit\/ORKFileResult\/fileName",

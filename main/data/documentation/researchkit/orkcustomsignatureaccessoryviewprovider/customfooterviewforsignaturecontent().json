@@ -63,6 +63,20 @@
         "introducedAt" : "2.0",
         "name" : "iOS",
         "unavailable" : false
+      },
+      {
+        "beta" : false,
+        "deprecated" : false,
+        "introducedAt" : "2.0",
+        "name" : "iPadOS",
+        "unavailable" : false
+      },
+      {
+        "beta" : false,
+        "deprecated" : false,
+        "introducedAt" : "2.0",
+        "name" : "Mac Catalyst",
+        "unavailable" : false
       }
     ],
     "role" : "symbol",

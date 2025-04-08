@@ -121,6 +121,7 @@
   ],
   "seeAlsoSections" : [
     {
+      "anchor" : "Question-and-instruction-steps",
       "generated" : true,
       "identifiers" : [
         "doc:\/\/com.apple.ResearchKit\/documentation\/ResearchKit\/ORKQuestionStep",
@@ -132,6 +133,8 @@
   ],
   "topicSections" : [
     {
+      "anchor" : "Instance-Properties",
+      "generated" : true,
       "identifiers" : [
         "doc:\/\/com.apple.ResearchKit\/documentation\/ResearchKit\/ORKInstructionStep\/attributedDetailText",
         "doc:\/\/com.apple.ResearchKit\/documentation\/ResearchKit\/ORKInstructionStep\/centerImageVertically",

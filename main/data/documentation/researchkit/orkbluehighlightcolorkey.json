@@ -95,6 +95,7 @@
   ],
   "seeAlsoSections" : [
     {
+      "anchor" : "Constants",
       "generated" : true,
       "identifiers" : [
         "doc:\/\/com.apple.ResearchKit\/documentation\/ResearchKit\/CheckmarkViewDimension",
