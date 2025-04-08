@@ -105,6 +105,7 @@
         "unavailable" : false
       }
     ],
+    "required" : true,
     "role" : "symbol",
     "roleHeading" : "Instance Method",
     "symbolKind" : "method",
@@ -336,6 +337,7 @@
   ],
   "identifier" : "doc:\/\/com.apple.ResearchKit\/documentation\/ResearchKit\/ORKTableStepSource\/viewForHeader(inSection:tableView:)",
   "kind" : "symbol",
+  "required" : true,
   "role" : "symbol",
   "title" : "viewForHeader(inSection:tableView:)",
   "type" : "topic",

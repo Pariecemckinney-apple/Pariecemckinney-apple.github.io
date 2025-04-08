@@ -79,6 +79,7 @@
         "unavailable" : false
       }
     ],
+    "required" : true,
     "role" : "symbol",
     "roleHeading" : "Instance Method",
     "symbolKind" : "method",
@@ -258,6 +259,7 @@
   ],
   "identifier" : "doc:\/\/com.apple.ResearchKit\/documentation\/ResearchKit\/ORKTableStepSource\/registerCells(for:)",
   "kind" : "symbol",
+  "required" : true,
   "role" : "symbol",
   "title" : "registerCells(for:)",
   "type" : "topic",
