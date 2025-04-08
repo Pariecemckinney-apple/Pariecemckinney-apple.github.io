@@ -44,7 +44,6 @@
         "name" : "ResearchKit"
       }
     ],
-    "required" : true,
     "role" : "symbol",
     "roleHeading" : "Instance Property",
     "symbolKind" : "property",
@@ -236,7 +235,6 @@
   ],
   "identifier" : "doc:\/\/com.apple.ResearchKit\/documentation\/ResearchKit\/ORKTask\/requestedPermissions",
   "kind" : "symbol",
-  "required" : true,
   "role" : "symbol",
   "title" : "requestedPermissions",
   "type" : "topic",

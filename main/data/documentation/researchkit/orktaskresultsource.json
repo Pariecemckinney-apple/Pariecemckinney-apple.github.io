@@ -239,7 +239,6 @@
   ],
   "identifier" : "doc:\/\/com.apple.ResearchKit\/documentation\/ResearchKit\/ORKTaskResultSource\/alwaysCheckForDefaultResult()",
   "kind" : "symbol",
-  "required" : true,
   "role" : "symbol",
   "title" : "alwaysCheckForDefaultResult()",
   "type" : "topic",
