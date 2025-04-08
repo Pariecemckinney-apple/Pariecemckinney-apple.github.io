@@ -79,7 +79,6 @@
         "unavailable" : false
       }
     ],
-    "required" : true,
     "role" : "symbol",
     "roleHeading" : "Instance Method",
     "symbolKind" : "method",
@@ -299,7 +298,6 @@
   ],
   "identifier" : "doc:\/\/com.apple.ResearchKit\/documentation\/ResearchKit\/ORKCustomSignatureAccessoryViewProvider\/customFooterViewForSignatureContent()",
   "kind" : "symbol",
-  "required" : true,
   "role" : "symbol",
   "title" : "customFooterViewForSignatureContent()",
   "type" : "topic",

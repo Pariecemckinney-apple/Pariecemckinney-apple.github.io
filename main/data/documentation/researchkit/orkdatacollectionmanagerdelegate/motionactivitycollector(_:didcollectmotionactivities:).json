@@ -93,6 +93,7 @@
         "unavailable" : false
       }
     ],
+    "required" : true,
     "role" : "symbol",
     "roleHeading" : "Instance Method",
     "symbolKind" : "method",
@@ -317,6 +318,7 @@
   ],
   "identifier" : "doc:\/\/com.apple.ResearchKit\/documentation\/ResearchKit\/ORKDataCollectionManagerDelegate\/motionActivityCollector(_:didCollectMotionActivities:)",
   "kind" : "symbol",
+  "required" : true,
   "role" : "symbol",
   "title" : "motionActivityCollector(_:didCollectMotionActivities:)",
   "type" : "topic",
