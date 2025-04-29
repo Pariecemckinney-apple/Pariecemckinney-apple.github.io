@@ -44,7 +44,6 @@
         "name" : "ResearchKit"
       }
     ],
-    "required" : true,
     "role" : "symbol",
     "roleHeading" : "Instance Property",
     "symbolKind" : "property",
@@ -204,7 +203,6 @@
   ],
   "identifier" : "doc:\/\/com.apple.ResearchKit\/documentation\/ResearchKit\/ORKTask\/providesBackgroundAudioPrompts",
   "kind" : "symbol",
-  "required" : true,
   "role" : "symbol",
   "title" : "providesBackgroundAudioPrompts",
   "type" : "topic",

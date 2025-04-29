@@ -65,7 +65,6 @@
         "name" : "ResearchKit"
       }
     ],
-    "required" : true,
     "role" : "symbol",
     "roleHeading" : "Instance Method",
     "symbolKind" : "method",
@@ -311,7 +310,6 @@
   ],
   "identifier" : "doc:\/\/com.apple.ResearchKit\/documentation\/ResearchKit\/ORKDataCollectionManagerDelegate\/collector(_:didDetectError:)",
   "kind" : "symbol",
-  "required" : true,
   "role" : "symbol",
   "title" : "collector(_:didDetectError:)",
   "type" : "topic",

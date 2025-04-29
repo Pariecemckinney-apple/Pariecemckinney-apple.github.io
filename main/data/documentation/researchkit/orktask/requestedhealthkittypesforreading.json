@@ -80,6 +80,7 @@
         "unavailable" : false
       }
     ],
+    "required" : true,
     "role" : "symbol",
     "roleHeading" : "Instance Property",
     "symbolKind" : "property",
@@ -261,6 +262,7 @@
   ],
   "identifier" : "doc:\/\/com.apple.ResearchKit\/documentation\/ResearchKit\/ORKTask\/requestedHealthKitTypesForReading",
   "kind" : "symbol",
+  "required" : true,
   "role" : "symbol",
   "title" : "requestedHealthKitTypesForReading",
   "type" : "topic",
