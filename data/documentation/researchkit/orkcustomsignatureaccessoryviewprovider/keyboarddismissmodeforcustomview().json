@@ -75,7 +75,6 @@
         "unavailable" : false
       }
     ],
-    "required" : true,
     "role" : "symbol",
     "roleHeading" : "Instance Method",
     "symbolKind" : "method",
@@ -255,7 +254,6 @@
   ],
   "identifier" : "doc:\/\/com.apple.ResearchKit\/documentation\/ResearchKit\/ORKCustomSignatureAccessoryViewProvider\/keyboardDismissModeForCustomView()",
   "kind" : "symbol",
-  "required" : true,
   "role" : "symbol",
   "title" : "keyboardDismissModeForCustomView()",
   "type" : "topic",

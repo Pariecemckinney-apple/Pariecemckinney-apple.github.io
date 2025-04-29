@@ -39,7 +39,6 @@
         "name" : "ResearchKit"
       }
     ],
-    "required" : true,
     "role" : "symbol",
     "roleHeading" : "Instance Method",
     "symbolKind" : "method",
@@ -177,7 +176,6 @@
   ],
   "identifier" : "doc:\/\/com.apple.ResearchKit\/documentation\/ResearchKit\/ORKTask\/validateParameters()",
   "kind" : "symbol",
-  "required" : true,
   "role" : "symbol",
   "title" : "validateParameters()",
   "type" : "topic",
