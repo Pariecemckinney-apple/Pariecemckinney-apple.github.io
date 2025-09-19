@@ -17,10 +17,7 @@
     "paths" : [
       [
         "doc:\/\/com.apple.ResearchKit\/documentation\/ResearchKit",
-        "doc:\/\/com.apple.ResearchKit\/documentation\/ResearchKit\/Steps-Tasks-Results",
-        "doc:\/\/com.apple.ResearchKit\/documentation\/ResearchKit\/Steps",
-        "doc:\/\/com.apple.ResearchKit\/documentation\/ResearchKit\/ORKPermissionMask",
-        "doc:\/\/com.apple.ResearchKit\/documentation\/ResearchKit\/ORKPermissionMask\/OptionSet-Implementations"
+        "doc:\/\/com.apple.ResearchKit\/documentation\/ResearchKit\/ORKPermissionMask"
       ]
     ]
   },
@@ -235,17 +232,6 @@
   "type" : "topic",
   "url" : "\/documentation\/researchkit\/orkpermissionmask"
 },
-"doc://com.apple.ResearchKit/documentation/ResearchKit/ORKPermissionMask/OptionSet-Implementations": {
-  "abstract" : [
-
-  ],
-  "identifier" : "doc:\/\/com.apple.ResearchKit\/documentation\/ResearchKit\/ORKPermissionMask\/OptionSet-Implementations",
-  "kind" : "article",
-  "role" : "collectionGroup",
-  "title" : "OptionSet Implementations",
-  "type" : "topic",
-  "url" : "\/documentation\/researchkit\/orkpermissionmask\/optionset-implementations"
-},
 "doc://com.apple.ResearchKit/documentation/ResearchKit/ORKPermissionMask/formUnion(_:)": {
   "abstract" : [
 
@@ -314,34 +300,6 @@
   "title" : "formUnion(_:)",
   "type" : "topic",
   "url" : "\/documentation\/researchkit\/orkpermissionmask\/formunion(_:)"
-},
-"doc://com.apple.ResearchKit/documentation/ResearchKit/Steps": {
-  "abstract" : [
-    {
-      "text" : "Create tasks for participants to perform.",
-      "type" : "text"
-    }
-  ],
-  "identifier" : "doc:\/\/com.apple.ResearchKit\/documentation\/ResearchKit\/Steps",
-  "kind" : "article",
-  "role" : "collectionGroup",
-  "title" : "Steps",
-  "type" : "topic",
-  "url" : "\/documentation\/researchkit\/steps"
-},
-"doc://com.apple.ResearchKit/documentation/ResearchKit/Steps-Tasks-Results": {
-  "abstract" : [
-    {
-      "text" : "Design and create research-centered apps that guide the participant.",
-      "type" : "text"
-    }
-  ],
-  "identifier" : "doc:\/\/com.apple.ResearchKit\/documentation\/ResearchKit\/Steps-Tasks-Results",
-  "kind" : "article",
-  "role" : "collectionGroup",
-  "title" : "Steps, tasks, and results",
-  "type" : "topic",
-  "url" : "\/documentation\/researchkit\/steps-tasks-results"
 }
 }
 }

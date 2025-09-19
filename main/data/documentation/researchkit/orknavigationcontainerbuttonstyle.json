@@ -2,8 +2,7 @@
   "hierarchy" : {
     "paths" : [
       [
-        "doc:\/\/com.apple.ResearchKit\/documentation\/ResearchKit",
-        "doc:\/\/com.apple.ResearchKit\/documentation\/ResearchKit\/Configurations"
+        "doc:\/\/com.apple.ResearchKit\/documentation\/ResearchKit"
       ]
     ]
   },
@@ -80,7 +79,8 @@
         "doc:\/\/com.apple.ResearchKit\/SQ",
         "doc:\/\/com.apple.ResearchKit\/SH",
         "doc:\/\/com.apple.ResearchKit\/SY",
-        "doc:\/\/com.apple.ResearchKit\/s8SendableP"
+        "doc:\/\/com.apple.ResearchKit\/s8SendableP",
+        "doc:\/\/com.apple.ResearchKit\/s16SendableMetatypeP"
       ],
       "kind" : "relationships",
       "title" : "Conforms To",
@@ -166,20 +166,6 @@
   "title" : "ResearchKit",
   "type" : "topic",
   "url" : "\/documentation\/researchkit"
-},
-"doc://com.apple.ResearchKit/documentation/ResearchKit/Configurations": {
-  "abstract" : [
-    {
-      "text" : "Provide collection and presentation information to a step.",
-      "type" : "text"
-    }
-  ],
-  "identifier" : "doc:\/\/com.apple.ResearchKit\/documentation\/ResearchKit\/Configurations",
-  "kind" : "article",
-  "role" : "collectionGroup",
-  "title" : "Configurations",
-  "type" : "topic",
-  "url" : "\/documentation\/researchkit\/configurations"
 },
 "doc://com.apple.ResearchKit/documentation/ResearchKit/ORKNavigationContainerButtonStyle": {
   "abstract" : [
@@ -350,6 +336,11 @@
 "doc://com.apple.ResearchKit/s15BitwiseCopyableP": {
   "identifier" : "doc:\/\/com.apple.ResearchKit\/s15BitwiseCopyableP",
   "title" : "Swift.BitwiseCopyable",
+  "type" : "unresolvable"
+},
+"doc://com.apple.ResearchKit/s16SendableMetatypeP": {
+  "identifier" : "doc:\/\/com.apple.ResearchKit\/s16SendableMetatypeP",
+  "title" : "Swift.SendableMetatype",
   "type" : "unresolvable"
 },
 "doc://com.apple.ResearchKit/s8SendableP": {

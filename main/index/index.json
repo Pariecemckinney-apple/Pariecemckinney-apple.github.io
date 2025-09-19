@@ -570,31 +570,6 @@
                         "path" : "\/documentation\/researchkit\/srsensor\/equatable-implementations",
                         "title" : "Equatable Implementations",
                         "type" : "symbol"
-                      },
-                      {
-                        "children" : [
-                          {
-                            "title" : "Instance Properties",
-                            "type" : "groupMarker"
-                          },
-                          {
-                            "path" : "\/documentation\/researchkit\/srsensor\/hashvalue",
-                            "title" : "var hashValue: Int",
-                            "type" : "property"
-                          },
-                          {
-                            "title" : "Instance Methods",
-                            "type" : "groupMarker"
-                          },
-                          {
-                            "path" : "\/documentation\/researchkit\/srsensor\/hash(into:)",
-                            "title" : "func hash(into: inout Hasher)",
-                            "type" : "method"
-                          }
-                        ],
-                        "path" : "\/documentation\/researchkit\/srsensor\/_swiftnewtypewrapper-implementations",
-                        "title" : "_SwiftNewtypeWrapper Implementations",
-                        "type" : "symbol"
                       }
                     ],
                     "path" : "\/documentation\/researchkit\/srsensor",
@@ -904,31 +879,6 @@
                         "path" : "\/documentation\/researchkit\/orkbiologicalsexidentifier\/equatable-implementations",
                         "title" : "Equatable Implementations",
                         "type" : "symbol"
-                      },
-                      {
-                        "children" : [
-                          {
-                            "title" : "Instance Properties",
-                            "type" : "groupMarker"
-                          },
-                          {
-                            "path" : "\/documentation\/researchkit\/orkbiologicalsexidentifier\/hashvalue",
-                            "title" : "var hashValue: Int",
-                            "type" : "property"
-                          },
-                          {
-                            "title" : "Instance Methods",
-                            "type" : "groupMarker"
-                          },
-                          {
-                            "path" : "\/documentation\/researchkit\/orkbiologicalsexidentifier\/hash(into:)",
-                            "title" : "func hash(into: inout Hasher)",
-                            "type" : "method"
-                          }
-                        ],
-                        "path" : "\/documentation\/researchkit\/orkbiologicalsexidentifier\/_swiftnewtypewrapper-implementations",
-                        "title" : "_SwiftNewtypeWrapper Implementations",
-                        "type" : "symbol"
                       }
                     ],
                     "path" : "\/documentation\/researchkit\/orkbiologicalsexidentifier",
@@ -1008,31 +958,6 @@
                         ],
                         "path" : "\/documentation\/researchkit\/orkbloodtypeidentifier\/equatable-implementations",
                         "title" : "Equatable Implementations",
-                        "type" : "symbol"
-                      },
-                      {
-                        "children" : [
-                          {
-                            "title" : "Instance Properties",
-                            "type" : "groupMarker"
-                          },
-                          {
-                            "path" : "\/documentation\/researchkit\/orkbloodtypeidentifier\/hashvalue",
-                            "title" : "var hashValue: Int",
-                            "type" : "property"
-                          },
-                          {
-                            "title" : "Instance Methods",
-                            "type" : "groupMarker"
-                          },
-                          {
-                            "path" : "\/documentation\/researchkit\/orkbloodtypeidentifier\/hash(into:)",
-                            "title" : "func hash(into: inout Hasher)",
-                            "type" : "method"
-                          }
-                        ],
-                        "path" : "\/documentation\/researchkit\/orkbloodtypeidentifier\/_swiftnewtypewrapper-implementations",
-                        "title" : "_SwiftNewtypeWrapper Implementations",
                         "type" : "symbol"
                       }
                     ],
@@ -3063,7 +2988,7 @@
                       },
                       {
                         "path" : "\/documentation\/researchkit\/orkrecorder\/configuration",
-                        "title" : "var configuration: ORKRecorderConfiguration?",
+                        "title" : "var configuration: ORKRecorderConfiguration",
                         "type" : "property"
                       },
                       {
@@ -3073,7 +2998,7 @@
                       },
                       {
                         "path" : "\/documentation\/researchkit\/orkrecorder\/identifier",
-                        "title" : "var identifier: String",
+                        "title" : "var identifier: String?",
                         "type" : "property"
                       },
                       {
@@ -3084,6 +3009,11 @@
                       {
                         "path" : "\/documentation\/researchkit\/orkrecorder\/outputdirectory",
                         "title" : "var outputDirectory: URL?",
+                        "type" : "property"
+                      },
+                      {
+                        "path" : "\/documentation\/researchkit\/orkrecorder\/rollingfilesizethreshold",
+                        "title" : "var rollingFileSizeThreshold: Int",
                         "type" : "property"
                       },
                       {
@@ -3123,7 +3053,7 @@
                       },
                       {
                         "path" : "\/documentation\/researchkit\/orkrecorderdelegate\/recorder(_:didcompletewith:)",
-                        "title" : "func recorder(ORKRecorder, didCompleteWith: ORKResult?)",
+                        "title" : "func recorder(ORKRecorder, didCompleteWith: [ORKFileResult])",
                         "type" : "method"
                       },
                       {
@@ -3917,7 +3847,17 @@
                       },
                       {
                         "path" : "\/documentation\/researchkit\/orkaudiorecorderconfiguration\/init(identifier:recordersettings:)",
-                        "title" : "init(identifier: String, recorderSettings: [AnyHashable : Any])",
+                        "title" : "convenience init(identifier: String, recorderSettings: [AnyHashable : Any])",
+                        "type" : "init"
+                      },
+                      {
+                        "path" : "\/documentation\/researchkit\/orkaudiorecorderconfiguration\/init(identifier:recordersettings:outputdirectory:)",
+                        "title" : "convenience init(identifier: String, recorderSettings: [AnyHashable : Any], outputDirectory: URL?)",
+                        "type" : "init"
+                      },
+                      {
+                        "path" : "\/documentation\/researchkit\/orkaudiorecorderconfiguration\/init(identifier:recordersettings:outputdirectory:rollingfilesizethreshold:)",
+                        "title" : "init(identifier: String, recorderSettings: [AnyHashable : Any], outputDirectory: URL?, rollingFileSizeThreshold: Int)",
                         "type" : "init"
                       },
                       {
@@ -4777,31 +4717,6 @@
                         ],
                         "path" : "\/documentation\/researchkit\/orktrailmakingtypeidentifier\/equatable-implementations",
                         "title" : "Equatable Implementations",
-                        "type" : "symbol"
-                      },
-                      {
-                        "children" : [
-                          {
-                            "title" : "Instance Properties",
-                            "type" : "groupMarker"
-                          },
-                          {
-                            "path" : "\/documentation\/researchkit\/orktrailmakingtypeidentifier\/hashvalue",
-                            "title" : "var hashValue: Int",
-                            "type" : "property"
-                          },
-                          {
-                            "title" : "Instance Methods",
-                            "type" : "groupMarker"
-                          },
-                          {
-                            "path" : "\/documentation\/researchkit\/orktrailmakingtypeidentifier\/hash(into:)",
-                            "title" : "func hash(into: inout Hasher)",
-                            "type" : "method"
-                          }
-                        ],
-                        "path" : "\/documentation\/researchkit\/orktrailmakingtypeidentifier\/_swiftnewtypewrapper-implementations",
-                        "title" : "_SwiftNewtypeWrapper Implementations",
                         "type" : "symbol"
                       }
                     ],
@@ -6556,7 +6471,17 @@
                   },
                   {
                     "path" : "\/documentation\/researchkit\/orkaccelerometerrecorderconfiguration\/init(identifier:frequency:)",
-                    "title" : "init(identifier: String, frequency: Double)",
+                    "title" : "convenience init(identifier: String, frequency: Double)",
+                    "type" : "init"
+                  },
+                  {
+                    "path" : "\/documentation\/researchkit\/orkaccelerometerrecorderconfiguration\/init(identifier:frequency:outputdirectory:)",
+                    "title" : "convenience init(identifier: String, frequency: Double, outputDirectory: URL?)",
+                    "type" : "init"
+                  },
+                  {
+                    "path" : "\/documentation\/researchkit\/orkaccelerometerrecorderconfiguration\/init(identifier:frequency:outputdirectory:rollingfilesizethreshold:)",
+                    "title" : "init(identifier: String, frequency: Double, outputDirectory: URL?, rollingFileSizeThreshold: Int)",
                     "type" : "init"
                   },
                   {
@@ -6586,7 +6511,17 @@
                   },
                   {
                     "path" : "\/documentation\/researchkit\/orkdevicemotionrecorderconfiguration\/init(identifier:frequency:)",
-                    "title" : "init(identifier: String, frequency: Double)",
+                    "title" : "convenience init(identifier: String, frequency: Double)",
+                    "type" : "init"
+                  },
+                  {
+                    "path" : "\/documentation\/researchkit\/orkdevicemotionrecorderconfiguration\/init(identifier:frequency:outputdirectory:)",
+                    "title" : "convenience init(identifier: String, frequency: Double, outputDirectory: URL?)",
+                    "type" : "init"
+                  },
+                  {
+                    "path" : "\/documentation\/researchkit\/orkdevicemotionrecorderconfiguration\/init(identifier:frequency:outputdirectory:rollingfilesizethreshold:)",
+                    "title" : "init(identifier: String, frequency: Double, outputDirectory: URL?, rollingFileSizeThreshold: Int)",
                     "type" : "init"
                   },
                   {
@@ -6616,7 +6551,17 @@
                   },
                   {
                     "path" : "\/documentation\/researchkit\/orklocationrecorderconfiguration\/init(identifier:)",
-                    "title" : "init(identifier: String)",
+                    "title" : "convenience init(identifier: String)",
+                    "type" : "init"
+                  },
+                  {
+                    "path" : "\/documentation\/researchkit\/orklocationrecorderconfiguration\/init(identifier:outputdirectory:)",
+                    "title" : "convenience init(identifier: String, outputDirectory: URL?)",
+                    "type" : "init"
+                  },
+                  {
+                    "path" : "\/documentation\/researchkit\/orklocationrecorderconfiguration\/init(identifier:outputdirectory:rollingfilesizethreshold:)",
+                    "title" : "init(identifier: String, outputDirectory: URL?, rollingFileSizeThreshold: Int)",
                     "type" : "init"
                   }
                 ],
@@ -6637,7 +6582,17 @@
                   },
                   {
                     "path" : "\/documentation\/researchkit\/orkpedometerrecorderconfiguration\/init(identifier:)",
-                    "title" : "init(identifier: String)",
+                    "title" : "convenience init(identifier: String)",
+                    "type" : "init"
+                  },
+                  {
+                    "path" : "\/documentation\/researchkit\/orkpedometerrecorderconfiguration\/init(identifier:outputdirectory:)",
+                    "title" : "convenience init(identifier: String, outputDirectory: URL?)",
+                    "type" : "init"
+                  },
+                  {
+                    "path" : "\/documentation\/researchkit\/orkpedometerrecorderconfiguration\/init(identifier:outputdirectory:rollingfilesizethreshold:)",
+                    "title" : "init(identifier: String, outputDirectory: URL?, rollingFileSizeThreshold: Int)",
                     "type" : "init"
                   }
                 ],
@@ -6657,12 +6612,27 @@
                     "type" : "property"
                   },
                   {
+                    "path" : "\/documentation\/researchkit\/orkrecorderconfiguration\/outputdirectory",
+                    "title" : "var outputDirectory: URL?",
+                    "type" : "property"
+                  },
+                  {
+                    "path" : "\/documentation\/researchkit\/orkrecorderconfiguration\/rollingfilesizethreshold",
+                    "title" : "var rollingFileSizeThreshold: Int",
+                    "type" : "property"
+                  },
+                  {
                     "title" : "Instance Methods",
                     "type" : "groupMarker"
                   },
                   {
+                    "path" : "\/documentation\/researchkit\/orkrecorderconfiguration\/recorder(for:)",
+                    "title" : "func recorder(for: ORKStep?) -> ORKRecorder?",
+                    "type" : "method"
+                  },
+                  {
                     "path" : "\/documentation\/researchkit\/orkrecorderconfiguration\/recorder(for:outputdirectory:)",
-                    "title" : "func recorder(for: ORKStep?, outputDirectory: URL?) -> ORKRecorder?",
+                    "title" : "func recorder(for: ORKStep, outputDirectory: URL?) -> ORKRecorder?",
                     "type" : "method"
                   },
                   {
@@ -6688,7 +6658,17 @@
                   },
                   {
                     "path" : "\/documentation\/researchkit\/orkstreamingaudiorecorderconfiguration\/init(identifier:)",
-                    "title" : "init(identifier: String)",
+                    "title" : "convenience init(identifier: String)",
+                    "type" : "init"
+                  },
+                  {
+                    "path" : "\/documentation\/researchkit\/orkstreamingaudiorecorderconfiguration\/init(identifier:outputdirectory:)",
+                    "title" : "convenience init(identifier: String, outputDirectory: URL?)",
+                    "type" : "init"
+                  },
+                  {
+                    "path" : "\/documentation\/researchkit\/orkstreamingaudiorecorderconfiguration\/init(identifier:outputdirectory:rollingfilesizethreshold:)",
+                    "title" : "init(identifier: String, outputDirectory: URL?, rollingFileSizeThreshold: Int)",
                     "type" : "init"
                   }
                 ],
@@ -10183,31 +10163,6 @@
                     "path" : "\/documentation\/researchkit\/orkheadphonetypeidentifier\/equatable-implementations",
                     "title" : "Equatable Implementations",
                     "type" : "symbol"
-                  },
-                  {
-                    "children" : [
-                      {
-                        "title" : "Instance Properties",
-                        "type" : "groupMarker"
-                      },
-                      {
-                        "path" : "\/documentation\/researchkit\/orkheadphonetypeidentifier\/hashvalue",
-                        "title" : "var hashValue: Int",
-                        "type" : "property"
-                      },
-                      {
-                        "title" : "Instance Methods",
-                        "type" : "groupMarker"
-                      },
-                      {
-                        "path" : "\/documentation\/researchkit\/orkheadphonetypeidentifier\/hash(into:)",
-                        "title" : "func hash(into: inout Hasher)",
-                        "type" : "method"
-                      }
-                    ],
-                    "path" : "\/documentation\/researchkit\/orkheadphonetypeidentifier\/_swiftnewtypewrapper-implementations",
-                    "title" : "_SwiftNewtypeWrapper Implementations",
-                    "type" : "symbol"
                   }
                 ],
                 "path" : "\/documentation\/researchkit\/orkheadphonetypeidentifier",
@@ -11211,31 +11166,6 @@
                     ],
                     "path" : "\/documentation\/researchkit\/orkspeechrecognizerlocale\/equatable-implementations",
                     "title" : "Equatable Implementations",
-                    "type" : "symbol"
-                  },
-                  {
-                    "children" : [
-                      {
-                        "title" : "Instance Properties",
-                        "type" : "groupMarker"
-                      },
-                      {
-                        "path" : "\/documentation\/researchkit\/orkspeechrecognizerlocale\/hashvalue",
-                        "title" : "var hashValue: Int",
-                        "type" : "property"
-                      },
-                      {
-                        "title" : "Instance Methods",
-                        "type" : "groupMarker"
-                      },
-                      {
-                        "path" : "\/documentation\/researchkit\/orkspeechrecognizerlocale\/hash(into:)",
-                        "title" : "func hash(into: inout Hasher)",
-                        "type" : "method"
-                      }
-                    ],
-                    "path" : "\/documentation\/researchkit\/orkspeechrecognizerlocale\/_swiftnewtypewrapper-implementations",
-                    "title" : "_SwiftNewtypeWrapper Implementations",
                     "type" : "symbol"
                   }
                 ],

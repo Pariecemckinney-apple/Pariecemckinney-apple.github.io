@@ -17,9 +17,7 @@
     "paths" : [
       [
         "doc:\/\/com.apple.ResearchKit\/documentation\/ResearchKit",
-        "doc:\/\/com.apple.ResearchKit\/documentation\/ResearchKit\/Enumerations",
-        "doc:\/\/com.apple.ResearchKit\/documentation\/ResearchKit\/ORKScreenType",
-        "doc:\/\/com.apple.ResearchKit\/documentation\/ResearchKit\/ORKScreenType\/RawRepresentable-Implementations"
+        "doc:\/\/com.apple.ResearchKit\/documentation\/ResearchKit\/ORKScreenType"
       ]
     ]
   },
@@ -237,20 +235,6 @@
   "type" : "topic",
   "url" : "\/documentation\/researchkit"
 },
-"doc://com.apple.ResearchKit/documentation/ResearchKit/Enumerations": {
-  "abstract" : [
-    {
-      "text" : "Enumerations utilized throughout ResearchKit.",
-      "type" : "text"
-    }
-  ],
-  "identifier" : "doc:\/\/com.apple.ResearchKit\/documentation\/ResearchKit\/Enumerations",
-  "kind" : "article",
-  "role" : "collectionGroup",
-  "title" : "Enumerations",
-  "type" : "topic",
-  "url" : "\/documentation\/researchkit\/enumerations"
-},
 "doc://com.apple.ResearchKit/documentation/ResearchKit/ORKScreenType": {
   "abstract" : [
 
@@ -281,17 +265,6 @@
   "title" : "ORKScreenType",
   "type" : "topic",
   "url" : "\/documentation\/researchkit\/orkscreentype"
-},
-"doc://com.apple.ResearchKit/documentation/ResearchKit/ORKScreenType/RawRepresentable-Implementations": {
-  "abstract" : [
-
-  ],
-  "identifier" : "doc:\/\/com.apple.ResearchKit\/documentation\/ResearchKit\/ORKScreenType\/RawRepresentable-Implementations",
-  "kind" : "article",
-  "role" : "collectionGroup",
-  "title" : "RawRepresentable Implementations",
-  "type" : "topic",
-  "url" : "\/documentation\/researchkit\/orkscreentype\/rawrepresentable-implementations"
 },
 "doc://com.apple.ResearchKit/documentation/ResearchKit/ORKScreenType/hash(into:)": {
   "abstract" : [

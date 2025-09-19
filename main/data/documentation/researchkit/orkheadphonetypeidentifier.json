@@ -2,8 +2,7 @@
   "hierarchy" : {
     "paths" : [
       [
-        "doc:\/\/com.apple.ResearchKit\/documentation\/ResearchKit",
-        "doc:\/\/com.apple.ResearchKit\/documentation\/ResearchKit\/Enumerations"
+        "doc:\/\/com.apple.ResearchKit\/documentation\/ResearchKit"
       ]
     ]
   },
@@ -79,7 +78,8 @@
         "doc:\/\/com.apple.ResearchKit\/SQ",
         "doc:\/\/com.apple.ResearchKit\/SH",
         "doc:\/\/com.apple.ResearchKit\/SY",
-        "doc:\/\/com.apple.ResearchKit\/s8SendableP"
+        "doc:\/\/com.apple.ResearchKit\/s8SendableP",
+        "doc:\/\/com.apple.ResearchKit\/s16SendableMetatypeP"
       ],
       "kind" : "relationships",
       "title" : "Conforms To",
@@ -140,8 +140,7 @@
       "anchor" : "Default-Implementations",
       "generated" : true,
       "identifiers" : [
-        "doc:\/\/com.apple.ResearchKit\/documentation\/ResearchKit\/ORKHeadphoneTypeIdentifier\/Equatable-Implementations",
-        "doc:\/\/com.apple.ResearchKit\/documentation\/ResearchKit\/ORKHeadphoneTypeIdentifier\/_SwiftNewtypeWrapper-Implementations"
+        "doc:\/\/com.apple.ResearchKit\/documentation\/ResearchKit\/ORKHeadphoneTypeIdentifier\/Equatable-Implementations"
       ],
       "title" : "Default Implementations"
     }
@@ -188,20 +187,6 @@
   "title" : "ResearchKit",
   "type" : "topic",
   "url" : "\/documentation\/researchkit"
-},
-"doc://com.apple.ResearchKit/documentation/ResearchKit/Enumerations": {
-  "abstract" : [
-    {
-      "text" : "Enumerations utilized throughout ResearchKit.",
-      "type" : "text"
-    }
-  ],
-  "identifier" : "doc:\/\/com.apple.ResearchKit\/documentation\/ResearchKit\/Enumerations",
-  "kind" : "article",
-  "role" : "collectionGroup",
-  "title" : "Enumerations",
-  "type" : "topic",
-  "url" : "\/documentation\/researchkit\/enumerations"
 },
 "doc://com.apple.ResearchKit/documentation/ResearchKit/ORKAudioChannel": {
   "abstract" : [
@@ -306,17 +291,6 @@
   "title" : "Equatable Implementations",
   "type" : "topic",
   "url" : "\/documentation\/researchkit\/orkheadphonetypeidentifier\/equatable-implementations"
-},
-"doc://com.apple.ResearchKit/documentation/ResearchKit/ORKHeadphoneTypeIdentifier/_SwiftNewtypeWrapper-Implementations": {
-  "abstract" : [
-
-  ],
-  "identifier" : "doc:\/\/com.apple.ResearchKit\/documentation\/ResearchKit\/ORKHeadphoneTypeIdentifier\/_SwiftNewtypeWrapper-Implementations",
-  "kind" : "article",
-  "role" : "collectionGroup",
-  "title" : "_SwiftNewtypeWrapper Implementations",
-  "type" : "topic",
-  "url" : "\/documentation\/researchkit\/orkheadphonetypeidentifier\/_swiftnewtypewrapper-implementations"
 },
 "doc://com.apple.ResearchKit/documentation/ResearchKit/ORKHeadphoneTypeIdentifier/airPods": {
   "abstract" : [
@@ -919,6 +893,11 @@
   "title" : "ORKTaskFinishReason",
   "type" : "topic",
   "url" : "\/documentation\/researchkit\/orktaskfinishreason"
+},
+"doc://com.apple.ResearchKit/s16SendableMetatypeP": {
+  "identifier" : "doc:\/\/com.apple.ResearchKit\/s16SendableMetatypeP",
+  "title" : "Swift.SendableMetatype",
+  "type" : "unresolvable"
 },
 "doc://com.apple.ResearchKit/s8SendableP": {
   "identifier" : "doc:\/\/com.apple.ResearchKit\/s8SendableP",

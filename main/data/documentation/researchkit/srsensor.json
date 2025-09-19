@@ -2,9 +2,7 @@
   "hierarchy" : {
     "paths" : [
       [
-        "doc:\/\/com.apple.ResearchKit\/documentation\/ResearchKit",
-        "doc:\/\/com.apple.ResearchKit\/documentation\/ResearchKit\/Steps-Tasks-Results",
-        "doc:\/\/com.apple.ResearchKit\/documentation\/ResearchKit\/Steps"
+        "doc:\/\/com.apple.ResearchKit\/documentation\/ResearchKit"
       ]
     ]
   },
@@ -103,7 +101,8 @@
         "doc:\/\/com.apple.ResearchKit\/SQ",
         "doc:\/\/com.apple.ResearchKit\/SH",
         "doc:\/\/com.apple.ResearchKit\/SY",
-        "doc:\/\/com.apple.ResearchKit\/s8SendableP"
+        "doc:\/\/com.apple.ResearchKit\/s8SendableP",
+        "doc:\/\/com.apple.ResearchKit\/s16SendableMetatypeP"
       ],
       "kind" : "relationships",
       "title" : "Conforms To",
@@ -148,8 +147,7 @@
       "anchor" : "Default-Implementations",
       "generated" : true,
       "identifiers" : [
-        "doc:\/\/com.apple.ResearchKit\/documentation\/ResearchKit\/SRSensor\/Equatable-Implementations",
-        "doc:\/\/com.apple.ResearchKit\/documentation\/ResearchKit\/SRSensor\/_SwiftNewtypeWrapper-Implementations"
+        "doc:\/\/com.apple.ResearchKit\/documentation\/ResearchKit\/SRSensor\/Equatable-Implementations"
       ],
       "title" : "Default Implementations"
     }
@@ -487,17 +485,6 @@
   "type" : "topic",
   "url" : "\/documentation\/researchkit\/srsensor\/equatable-implementations"
 },
-"doc://com.apple.ResearchKit/documentation/ResearchKit/SRSensor/_SwiftNewtypeWrapper-Implementations": {
-  "abstract" : [
-
-  ],
-  "identifier" : "doc:\/\/com.apple.ResearchKit\/documentation\/ResearchKit\/SRSensor\/_SwiftNewtypeWrapper-Implementations",
-  "kind" : "article",
-  "role" : "collectionGroup",
-  "title" : "_SwiftNewtypeWrapper Implementations",
-  "type" : "topic",
-  "url" : "\/documentation\/researchkit\/srsensor\/_swiftnewtypewrapper-implementations"
-},
 "doc://com.apple.ResearchKit/documentation/ResearchKit/SRSensor/init(rawValue:)": {
   "abstract" : [
 
@@ -536,33 +523,10 @@
   "type" : "topic",
   "url" : "\/documentation\/researchkit\/srsensor\/init(rawvalue:)"
 },
-"doc://com.apple.ResearchKit/documentation/ResearchKit/Steps": {
-  "abstract" : [
-    {
-      "text" : "Create tasks for participants to perform.",
-      "type" : "text"
-    }
-  ],
-  "identifier" : "doc:\/\/com.apple.ResearchKit\/documentation\/ResearchKit\/Steps",
-  "kind" : "article",
-  "role" : "collectionGroup",
-  "title" : "Steps",
-  "type" : "topic",
-  "url" : "\/documentation\/researchkit\/steps"
-},
-"doc://com.apple.ResearchKit/documentation/ResearchKit/Steps-Tasks-Results": {
-  "abstract" : [
-    {
-      "text" : "Design and create research-centered apps that guide the participant.",
-      "type" : "text"
-    }
-  ],
-  "identifier" : "doc:\/\/com.apple.ResearchKit\/documentation\/ResearchKit\/Steps-Tasks-Results",
-  "kind" : "article",
-  "role" : "collectionGroup",
-  "title" : "Steps, tasks, and results",
-  "type" : "topic",
-  "url" : "\/documentation\/researchkit\/steps-tasks-results"
+"doc://com.apple.ResearchKit/s16SendableMetatypeP": {
+  "identifier" : "doc:\/\/com.apple.ResearchKit\/s16SendableMetatypeP",
+  "title" : "Swift.SendableMetatype",
+  "type" : "unresolvable"
 },
 "doc://com.apple.ResearchKit/s8SendableP": {
   "identifier" : "doc:\/\/com.apple.ResearchKit\/s8SendableP",

@@ -2,9 +2,7 @@
   "hierarchy" : {
     "paths" : [
       [
-        "doc:\/\/com.apple.ResearchKit\/documentation\/ResearchKit",
-        "doc:\/\/com.apple.ResearchKit\/documentation\/ResearchKit\/Steps-Tasks-Results",
-        "doc:\/\/com.apple.ResearchKit\/documentation\/ResearchKit\/Steps"
+        "doc:\/\/com.apple.ResearchKit\/documentation\/ResearchKit"
       ]
     ]
   },
@@ -126,6 +124,7 @@
         "doc:\/\/com.apple.ResearchKit\/documentation\/ResearchKit\/ORKRecorder\/identifier",
         "doc:\/\/com.apple.ResearchKit\/documentation\/ResearchKit\/ORKRecorder\/isRecording",
         "doc:\/\/com.apple.ResearchKit\/documentation\/ResearchKit\/ORKRecorder\/outputDirectory",
+        "doc:\/\/com.apple.ResearchKit\/documentation\/ResearchKit\/ORKRecorder\/rollingFileSizeThreshold",
         "doc:\/\/com.apple.ResearchKit\/documentation\/ResearchKit\/ORKRecorder\/step"
       ],
       "title" : "Instance Properties"
@@ -266,10 +265,6 @@
       "kind" : "typeIdentifier",
       "preciseIdentifier" : "c:objc(cs)ORKRecorderConfiguration",
       "text" : "ORKRecorderConfiguration"
-    },
-    {
-      "kind" : "text",
-      "text" : "?"
     }
   ],
   "identifier" : "doc:\/\/com.apple.ResearchKit\/documentation\/ResearchKit\/ORKRecorder\/configuration",
@@ -319,7 +314,10 @@
 },
 "doc://com.apple.ResearchKit/documentation/ResearchKit/ORKRecorder/identifier": {
   "abstract" : [
-
+    {
+      "text" : "A short string that uniquely identifies the recorder (usually assigned by the recorder configuration).",
+      "type" : "text"
+    }
   ],
   "fragments" : [
     {
@@ -342,6 +340,10 @@
       "kind" : "typeIdentifier",
       "preciseIdentifier" : "s:SS",
       "text" : "String"
+    },
+    {
+      "kind" : "text",
+      "text" : "?"
     }
   ],
   "identifier" : "doc:\/\/com.apple.ResearchKit\/documentation\/ResearchKit\/ORKRecorder\/identifier",
@@ -425,7 +427,10 @@
 },
 "doc://com.apple.ResearchKit/documentation/ResearchKit/ORKRecorder/outputDirectory": {
   "abstract" : [
-
+    {
+      "text" : "The file URL of the output directory configured during initialization.",
+      "type" : "text"
+    }
   ],
   "fragments" : [
     {
@@ -460,6 +465,51 @@
   "title" : "outputDirectory",
   "type" : "topic",
   "url" : "\/documentation\/researchkit\/orkrecorder\/outputdirectory"
+},
+"doc://com.apple.ResearchKit/documentation/ResearchKit/ORKRecorder/rollingFileSizeThreshold": {
+  "abstract" : [
+    {
+      "text" : "The file-size threshold in bytes used to determine when data is rolled over to multiple files as data is being written.",
+      "type" : "text"
+    },
+    {
+      "text" : " ",
+      "type" : "text"
+    },
+    {
+      "text" : "If the value is 0, data is written to only one file and not rolled over to multiple files.",
+      "type" : "text"
+    }
+  ],
+  "fragments" : [
+    {
+      "kind" : "keyword",
+      "text" : "var"
+    },
+    {
+      "kind" : "text",
+      "text" : " "
+    },
+    {
+      "kind" : "identifier",
+      "text" : "rollingFileSizeThreshold"
+    },
+    {
+      "kind" : "text",
+      "text" : ": "
+    },
+    {
+      "kind" : "typeIdentifier",
+      "preciseIdentifier" : "s:Si",
+      "text" : "Int"
+    }
+  ],
+  "identifier" : "doc:\/\/com.apple.ResearchKit\/documentation\/ResearchKit\/ORKRecorder\/rollingFileSizeThreshold",
+  "kind" : "symbol",
+  "role" : "symbol",
+  "title" : "rollingFileSizeThreshold",
+  "type" : "topic",
+  "url" : "\/documentation\/researchkit\/orkrecorder\/rollingfilesizethreshold"
 },
 "doc://com.apple.ResearchKit/documentation/ResearchKit/ORKRecorder/start()": {
   "abstract" : [
@@ -587,34 +637,6 @@
   "title" : "ORKRecorderDelegate",
   "type" : "topic",
   "url" : "\/documentation\/researchkit\/orkrecorderdelegate"
-},
-"doc://com.apple.ResearchKit/documentation/ResearchKit/Steps": {
-  "abstract" : [
-    {
-      "text" : "Create tasks for participants to perform.",
-      "type" : "text"
-    }
-  ],
-  "identifier" : "doc:\/\/com.apple.ResearchKit\/documentation\/ResearchKit\/Steps",
-  "kind" : "article",
-  "role" : "collectionGroup",
-  "title" : "Steps",
-  "type" : "topic",
-  "url" : "\/documentation\/researchkit\/steps"
-},
-"doc://com.apple.ResearchKit/documentation/ResearchKit/Steps-Tasks-Results": {
-  "abstract" : [
-    {
-      "text" : "Design and create research-centered apps that guide the participant.",
-      "type" : "text"
-    }
-  ],
-  "identifier" : "doc:\/\/com.apple.ResearchKit\/documentation\/ResearchKit\/Steps-Tasks-Results",
-  "kind" : "article",
-  "role" : "collectionGroup",
-  "title" : "Steps, tasks, and results",
-  "type" : "topic",
-  "url" : "\/documentation\/researchkit\/steps-tasks-results"
 },
 "doc://com.apple.ResearchKit/objc(cs)NSObject": {
   "identifier" : "doc:\/\/com.apple.ResearchKit\/objc(cs)NSObject",

@@ -2,8 +2,7 @@
   "hierarchy" : {
     "paths" : [
       [
-        "doc:\/\/com.apple.ResearchKit\/documentation\/ResearchKit",
-        "doc:\/\/com.apple.ResearchKit\/documentation\/ResearchKit\/Enumerations"
+        "doc:\/\/com.apple.ResearchKit\/documentation\/ResearchKit"
       ]
     ]
   },
@@ -82,6 +81,7 @@
         "doc:\/\/com.apple.ResearchKit\/s9OptionSetP",
         "doc:\/\/com.apple.ResearchKit\/SY",
         "doc:\/\/com.apple.ResearchKit\/s8SendableP",
+        "doc:\/\/com.apple.ResearchKit\/s16SendableMetatypeP",
         "doc:\/\/com.apple.ResearchKit\/s10SetAlgebraP"
       ],
       "kind" : "relationships",
@@ -181,20 +181,6 @@
   "title" : "ResearchKit",
   "type" : "topic",
   "url" : "\/documentation\/researchkit"
-},
-"doc://com.apple.ResearchKit/documentation/ResearchKit/Enumerations": {
-  "abstract" : [
-    {
-      "text" : "Enumerations utilized throughout ResearchKit.",
-      "type" : "text"
-    }
-  ],
-  "identifier" : "doc:\/\/com.apple.ResearchKit\/documentation\/ResearchKit\/Enumerations",
-  "kind" : "article",
-  "role" : "collectionGroup",
-  "title" : "Enumerations",
-  "type" : "topic",
-  "url" : "\/documentation\/researchkit\/enumerations"
 },
 "doc://com.apple.ResearchKit/documentation/ResearchKit/ORKAudioChannel": {
   "abstract" : [
@@ -680,6 +666,11 @@
 "doc://com.apple.ResearchKit/s15BitwiseCopyableP": {
   "identifier" : "doc:\/\/com.apple.ResearchKit\/s15BitwiseCopyableP",
   "title" : "Swift.BitwiseCopyable",
+  "type" : "unresolvable"
+},
+"doc://com.apple.ResearchKit/s16SendableMetatypeP": {
+  "identifier" : "doc:\/\/com.apple.ResearchKit\/s16SendableMetatypeP",
+  "title" : "Swift.SendableMetatype",
   "type" : "unresolvable"
 },
 "doc://com.apple.ResearchKit/s25ExpressibleByArrayLiteralP": {

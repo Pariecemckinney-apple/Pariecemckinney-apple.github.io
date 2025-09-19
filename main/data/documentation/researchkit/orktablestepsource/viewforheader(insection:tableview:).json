@@ -3,8 +3,6 @@
     "paths" : [
       [
         "doc:\/\/com.apple.ResearchKit\/documentation\/ResearchKit",
-        "doc:\/\/com.apple.ResearchKit\/documentation\/ResearchKit\/Steps-Tasks-Results",
-        "doc:\/\/com.apple.ResearchKit\/documentation\/ResearchKit\/Steps",
         "doc:\/\/com.apple.ResearchKit\/documentation\/ResearchKit\/ORKTableStepSource"
       ]
     ]
@@ -105,7 +103,6 @@
         "unavailable" : false
       }
     ],
-    "required" : true,
     "role" : "symbol",
     "roleHeading" : "Instance Method",
     "symbolKind" : "method",
@@ -337,39 +334,10 @@
   ],
   "identifier" : "doc:\/\/com.apple.ResearchKit\/documentation\/ResearchKit\/ORKTableStepSource\/viewForHeader(inSection:tableView:)",
   "kind" : "symbol",
-  "required" : true,
   "role" : "symbol",
   "title" : "viewForHeader(inSection:tableView:)",
   "type" : "topic",
   "url" : "\/documentation\/researchkit\/orktablestepsource\/viewforheader(insection:tableview:)"
-},
-"doc://com.apple.ResearchKit/documentation/ResearchKit/Steps": {
-  "abstract" : [
-    {
-      "text" : "Create tasks for participants to perform.",
-      "type" : "text"
-    }
-  ],
-  "identifier" : "doc:\/\/com.apple.ResearchKit\/documentation\/ResearchKit\/Steps",
-  "kind" : "article",
-  "role" : "collectionGroup",
-  "title" : "Steps",
-  "type" : "topic",
-  "url" : "\/documentation\/researchkit\/steps"
-},
-"doc://com.apple.ResearchKit/documentation/ResearchKit/Steps-Tasks-Results": {
-  "abstract" : [
-    {
-      "text" : "Design and create research-centered apps that guide the participant.",
-      "type" : "text"
-    }
-  ],
-  "identifier" : "doc:\/\/com.apple.ResearchKit\/documentation\/ResearchKit\/Steps-Tasks-Results",
-  "kind" : "article",
-  "role" : "collectionGroup",
-  "title" : "Steps, tasks, and results",
-  "type" : "topic",
-  "url" : "\/documentation\/researchkit\/steps-tasks-results"
 }
 }
 }

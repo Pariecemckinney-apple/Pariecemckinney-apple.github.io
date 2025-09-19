@@ -17,9 +17,7 @@
     "paths" : [
       [
         "doc:\/\/com.apple.ResearchKit\/documentation\/ResearchKit",
-        "doc:\/\/com.apple.ResearchKit\/documentation\/ResearchKit\/Enumerations",
-        "doc:\/\/com.apple.ResearchKit\/documentation\/ResearchKit\/ORKRequestPermissionsState",
-        "doc:\/\/com.apple.ResearchKit\/documentation\/ResearchKit\/ORKRequestPermissionsState\/RawRepresentable-Implementations"
+        "doc:\/\/com.apple.ResearchKit\/documentation\/ResearchKit\/ORKRequestPermissionsState"
       ]
     ]
   },
@@ -201,20 +199,6 @@
   "type" : "topic",
   "url" : "\/documentation\/researchkit"
 },
-"doc://com.apple.ResearchKit/documentation/ResearchKit/Enumerations": {
-  "abstract" : [
-    {
-      "text" : "Enumerations utilized throughout ResearchKit.",
-      "type" : "text"
-    }
-  ],
-  "identifier" : "doc:\/\/com.apple.ResearchKit\/documentation\/ResearchKit\/Enumerations",
-  "kind" : "article",
-  "role" : "collectionGroup",
-  "title" : "Enumerations",
-  "type" : "topic",
-  "url" : "\/documentation\/researchkit\/enumerations"
-},
 "doc://com.apple.ResearchKit/documentation/ResearchKit/ORKRequestPermissionsState": {
   "abstract" : [
 
@@ -245,17 +229,6 @@
   "title" : "ORKRequestPermissionsState",
   "type" : "topic",
   "url" : "\/documentation\/researchkit\/orkrequestpermissionsstate"
-},
-"doc://com.apple.ResearchKit/documentation/ResearchKit/ORKRequestPermissionsState/RawRepresentable-Implementations": {
-  "abstract" : [
-
-  ],
-  "identifier" : "doc:\/\/com.apple.ResearchKit\/documentation\/ResearchKit\/ORKRequestPermissionsState\/RawRepresentable-Implementations",
-  "kind" : "article",
-  "role" : "collectionGroup",
-  "title" : "RawRepresentable Implementations",
-  "type" : "topic",
-  "url" : "\/documentation\/researchkit\/orkrequestpermissionsstate\/rawrepresentable-implementations"
 },
 "doc://com.apple.ResearchKit/documentation/ResearchKit/ORKRequestPermissionsState/hashValue": {
   "abstract" : [

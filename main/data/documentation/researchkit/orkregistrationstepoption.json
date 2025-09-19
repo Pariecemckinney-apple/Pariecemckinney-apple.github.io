@@ -2,9 +2,7 @@
   "hierarchy" : {
     "paths" : [
       [
-        "doc:\/\/com.apple.ResearchKit\/documentation\/ResearchKit",
-        "doc:\/\/com.apple.ResearchKit\/documentation\/ResearchKit\/Steps-Tasks-Results",
-        "doc:\/\/com.apple.ResearchKit\/documentation\/ResearchKit\/Steps"
+        "doc:\/\/com.apple.ResearchKit\/documentation\/ResearchKit"
       ]
     ]
   },
@@ -83,6 +81,7 @@
         "doc:\/\/com.apple.ResearchKit\/s9OptionSetP",
         "doc:\/\/com.apple.ResearchKit\/SY",
         "doc:\/\/com.apple.ResearchKit\/s8SendableP",
+        "doc:\/\/com.apple.ResearchKit\/s16SendableMetatypeP",
         "doc:\/\/com.apple.ResearchKit\/s10SetAlgebraP"
       ],
       "kind" : "relationships",
@@ -766,34 +765,6 @@
   "type" : "topic",
   "url" : "\/documentation\/researchkit\/orkregistrationstepoption\/init(rawvalue:)"
 },
-"doc://com.apple.ResearchKit/documentation/ResearchKit/Steps": {
-  "abstract" : [
-    {
-      "text" : "Create tasks for participants to perform.",
-      "type" : "text"
-    }
-  ],
-  "identifier" : "doc:\/\/com.apple.ResearchKit\/documentation\/ResearchKit\/Steps",
-  "kind" : "article",
-  "role" : "collectionGroup",
-  "title" : "Steps",
-  "type" : "topic",
-  "url" : "\/documentation\/researchkit\/steps"
-},
-"doc://com.apple.ResearchKit/documentation/ResearchKit/Steps-Tasks-Results": {
-  "abstract" : [
-    {
-      "text" : "Design and create research-centered apps that guide the participant.",
-      "type" : "text"
-    }
-  ],
-  "identifier" : "doc:\/\/com.apple.ResearchKit\/documentation\/ResearchKit\/Steps-Tasks-Results",
-  "kind" : "article",
-  "role" : "collectionGroup",
-  "title" : "Steps, tasks, and results",
-  "type" : "topic",
-  "url" : "\/documentation\/researchkit\/steps-tasks-results"
-},
 "doc://com.apple.ResearchKit/s10SetAlgebraP": {
   "identifier" : "doc:\/\/com.apple.ResearchKit\/s10SetAlgebraP",
   "title" : "Swift.SetAlgebra",
@@ -802,6 +773,11 @@
 "doc://com.apple.ResearchKit/s15BitwiseCopyableP": {
   "identifier" : "doc:\/\/com.apple.ResearchKit\/s15BitwiseCopyableP",
   "title" : "Swift.BitwiseCopyable",
+  "type" : "unresolvable"
+},
+"doc://com.apple.ResearchKit/s16SendableMetatypeP": {
+  "identifier" : "doc:\/\/com.apple.ResearchKit\/s16SendableMetatypeP",
+  "title" : "Swift.SendableMetatype",
   "type" : "unresolvable"
 },
 "doc://com.apple.ResearchKit/s25ExpressibleByArrayLiteralP": {

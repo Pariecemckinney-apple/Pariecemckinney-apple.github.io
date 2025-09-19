@@ -3,8 +3,6 @@
     "paths" : [
       [
         "doc:\/\/com.apple.ResearchKit\/documentation\/ResearchKit",
-        "doc:\/\/com.apple.ResearchKit\/documentation\/ResearchKit\/Steps-Tasks-Results",
-        "doc:\/\/com.apple.ResearchKit\/documentation\/ResearchKit\/Steps",
         "doc:\/\/com.apple.ResearchKit\/documentation\/ResearchKit\/ORKRecorderDelegate"
       ]
     ]
@@ -15,7 +13,7 @@
   },
   "kind" : "symbol",
   "metadata" : {
-    "externalID" : "c:objc(pl)ORKRecorderDelegate(im)recorder:didCompleteWithResult:",
+    "externalID" : "c:objc(pl)ORKRecorderDelegate(im)recorder:didCompleteWithResults:",
     "fragments" : [
       {
         "kind" : "keyword",
@@ -48,16 +46,16 @@
       },
       {
         "kind" : "text",
-        "text" : ": "
+        "text" : ": ["
       },
       {
         "kind" : "typeIdentifier",
-        "preciseIdentifier" : "c:objc(cs)ORKResult",
-        "text" : "ORKResult"
+        "preciseIdentifier" : "c:objc(cs)ORKFileResult",
+        "text" : "ORKFileResult"
       },
       {
         "kind" : "text",
-        "text" : "?)"
+        "text" : "])"
       }
     ],
     "modules" : [
@@ -134,21 +132,21 @@
             },
             {
               "kind" : "internalParam",
-              "text" : "result"
+              "text" : "results"
             },
             {
               "kind" : "text",
-              "text" : ": "
+              "text" : ": ["
             },
             {
-              "identifier" : "doc:\/\/com.apple.ResearchKit\/documentation\/ResearchKit\/ORKResult",
+              "identifier" : "doc:\/\/com.apple.ResearchKit\/documentation\/ResearchKit\/ORKFileResult",
               "kind" : "typeIdentifier",
-              "preciseIdentifier" : "c:objc(cs)ORKResult",
-              "text" : "ORKResult"
+              "preciseIdentifier" : "c:objc(cs)ORKFileResult",
+              "text" : "ORKFileResult"
             },
             {
               "kind" : "text",
-              "text" : "?)"
+              "text" : "])"
             }
           ]
         }
@@ -191,6 +189,37 @@
   "title" : "ResearchKit",
   "type" : "topic",
   "url" : "\/documentation\/researchkit"
+},
+"doc://com.apple.ResearchKit/documentation/ResearchKit/ORKFileResult": {
+  "abstract" : [
+
+  ],
+  "fragments" : [
+    {
+      "kind" : "keyword",
+      "text" : "class"
+    },
+    {
+      "kind" : "text",
+      "text" : " "
+    },
+    {
+      "kind" : "identifier",
+      "text" : "ORKFileResult"
+    }
+  ],
+  "identifier" : "doc:\/\/com.apple.ResearchKit\/documentation\/ResearchKit\/ORKFileResult",
+  "kind" : "symbol",
+  "navigatorTitle" : [
+    {
+      "kind" : "identifier",
+      "text" : "ORKFileResult"
+    }
+  ],
+  "role" : "symbol",
+  "title" : "ORKFileResult",
+  "type" : "topic",
+  "url" : "\/documentation\/researchkit\/orkfileresult"
 },
 "doc://com.apple.ResearchKit/documentation/ResearchKit/ORKRecorder": {
   "abstract" : [
@@ -290,16 +319,16 @@
     },
     {
       "kind" : "text",
-      "text" : ": "
+      "text" : ": ["
     },
     {
       "kind" : "typeIdentifier",
-      "preciseIdentifier" : "c:objc(cs)ORKResult",
-      "text" : "ORKResult"
+      "preciseIdentifier" : "c:objc(cs)ORKFileResult",
+      "text" : "ORKFileResult"
     },
     {
       "kind" : "text",
-      "text" : "?)"
+      "text" : "])"
     }
   ],
   "identifier" : "doc:\/\/com.apple.ResearchKit\/documentation\/ResearchKit\/ORKRecorderDelegate\/recorder(_:didCompleteWith:)",
@@ -309,65 +338,6 @@
   "title" : "recorder(_:didCompleteWith:)",
   "type" : "topic",
   "url" : "\/documentation\/researchkit\/orkrecorderdelegate\/recorder(_:didcompletewith:)"
-},
-"doc://com.apple.ResearchKit/documentation/ResearchKit/ORKResult": {
-  "abstract" : [
-
-  ],
-  "fragments" : [
-    {
-      "kind" : "keyword",
-      "text" : "class"
-    },
-    {
-      "kind" : "text",
-      "text" : " "
-    },
-    {
-      "kind" : "identifier",
-      "text" : "ORKResult"
-    }
-  ],
-  "identifier" : "doc:\/\/com.apple.ResearchKit\/documentation\/ResearchKit\/ORKResult",
-  "kind" : "symbol",
-  "navigatorTitle" : [
-    {
-      "kind" : "identifier",
-      "text" : "ORKResult"
-    }
-  ],
-  "role" : "symbol",
-  "title" : "ORKResult",
-  "type" : "topic",
-  "url" : "\/documentation\/researchkit\/orkresult"
-},
-"doc://com.apple.ResearchKit/documentation/ResearchKit/Steps": {
-  "abstract" : [
-    {
-      "text" : "Create tasks for participants to perform.",
-      "type" : "text"
-    }
-  ],
-  "identifier" : "doc:\/\/com.apple.ResearchKit\/documentation\/ResearchKit\/Steps",
-  "kind" : "article",
-  "role" : "collectionGroup",
-  "title" : "Steps",
-  "type" : "topic",
-  "url" : "\/documentation\/researchkit\/steps"
-},
-"doc://com.apple.ResearchKit/documentation/ResearchKit/Steps-Tasks-Results": {
-  "abstract" : [
-    {
-      "text" : "Design and create research-centered apps that guide the participant.",
-      "type" : "text"
-    }
-  ],
-  "identifier" : "doc:\/\/com.apple.ResearchKit\/documentation\/ResearchKit\/Steps-Tasks-Results",
-  "kind" : "article",
-  "role" : "collectionGroup",
-  "title" : "Steps, tasks, and results",
-  "type" : "topic",
-  "url" : "\/documentation\/researchkit\/steps-tasks-results"
 }
 }
 }

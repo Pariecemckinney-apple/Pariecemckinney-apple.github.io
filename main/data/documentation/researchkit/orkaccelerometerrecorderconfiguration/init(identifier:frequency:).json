@@ -3,7 +3,6 @@
     "paths" : [
       [
         "doc:\/\/com.apple.ResearchKit\/documentation\/ResearchKit",
-        "doc:\/\/com.apple.ResearchKit\/documentation\/ResearchKit\/Configurations",
         "doc:\/\/com.apple.ResearchKit\/documentation\/ResearchKit\/ORKAccelerometerRecorderConfiguration"
       ]
     ]
@@ -16,6 +15,14 @@
   "metadata" : {
     "externalID" : "c:objc(cs)ORKAccelerometerRecorderConfiguration(im)initWithIdentifier:frequency:",
     "fragments" : [
+      {
+        "kind" : "keyword",
+        "text" : "convenience"
+      },
+      {
+        "kind" : "text",
+        "text" : " "
+      },
       {
         "kind" : "identifier",
         "text" : "init"
@@ -80,6 +87,14 @@
             "iOS"
           ],
           "tokens" : [
+            {
+              "kind" : "keyword",
+              "text" : "convenience"
+            },
+            {
+              "kind" : "text",
+              "text" : " "
+            },
             {
               "kind" : "keyword",
               "text" : "init"
@@ -164,20 +179,6 @@
   "type" : "topic",
   "url" : "\/documentation\/researchkit"
 },
-"doc://com.apple.ResearchKit/documentation/ResearchKit/Configurations": {
-  "abstract" : [
-    {
-      "text" : "Provide collection and presentation information to a step.",
-      "type" : "text"
-    }
-  ],
-  "identifier" : "doc:\/\/com.apple.ResearchKit\/documentation\/ResearchKit\/Configurations",
-  "kind" : "article",
-  "role" : "collectionGroup",
-  "title" : "Configurations",
-  "type" : "topic",
-  "url" : "\/documentation\/researchkit\/configurations"
-},
 "doc://com.apple.ResearchKit/documentation/ResearchKit/ORKAccelerometerRecorderConfiguration": {
   "abstract" : [
 
@@ -214,6 +215,14 @@
 
   ],
   "fragments" : [
+    {
+      "kind" : "keyword",
+      "text" : "convenience"
+    },
+    {
+      "kind" : "text",
+      "text" : " "
+    },
     {
       "kind" : "identifier",
       "text" : "init"

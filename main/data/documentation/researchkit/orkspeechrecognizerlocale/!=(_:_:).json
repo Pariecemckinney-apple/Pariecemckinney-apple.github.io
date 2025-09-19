@@ -17,9 +17,7 @@
     "paths" : [
       [
         "doc:\/\/com.apple.ResearchKit\/documentation\/ResearchKit",
-        "doc:\/\/com.apple.ResearchKit\/documentation\/ResearchKit\/Enumerations",
-        "doc:\/\/com.apple.ResearchKit\/documentation\/ResearchKit\/ORKSpeechRecognizerLocale",
-        "doc:\/\/com.apple.ResearchKit\/documentation\/ResearchKit\/ORKSpeechRecognizerLocale\/Equatable-Implementations"
+        "doc:\/\/com.apple.ResearchKit\/documentation\/ResearchKit\/ORKSpeechRecognizerLocale"
       ]
     ]
   },
@@ -213,20 +211,6 @@
   "type" : "topic",
   "url" : "\/documentation\/researchkit"
 },
-"doc://com.apple.ResearchKit/documentation/ResearchKit/Enumerations": {
-  "abstract" : [
-    {
-      "text" : "Enumerations utilized throughout ResearchKit.",
-      "type" : "text"
-    }
-  ],
-  "identifier" : "doc:\/\/com.apple.ResearchKit\/documentation\/ResearchKit\/Enumerations",
-  "kind" : "article",
-  "role" : "collectionGroup",
-  "title" : "Enumerations",
-  "type" : "topic",
-  "url" : "\/documentation\/researchkit\/enumerations"
-},
 "doc://com.apple.ResearchKit/documentation/ResearchKit/ORKSpeechRecognizerLocale": {
   "abstract" : [
 
@@ -319,17 +303,6 @@
   "title" : "!=(_:_:)",
   "type" : "topic",
   "url" : "\/documentation\/researchkit\/orkspeechrecognizerlocale\/!=(_:_:)"
-},
-"doc://com.apple.ResearchKit/documentation/ResearchKit/ORKSpeechRecognizerLocale/Equatable-Implementations": {
-  "abstract" : [
-
-  ],
-  "identifier" : "doc:\/\/com.apple.ResearchKit\/documentation\/ResearchKit\/ORKSpeechRecognizerLocale\/Equatable-Implementations",
-  "kind" : "article",
-  "role" : "collectionGroup",
-  "title" : "Equatable Implementations",
-  "type" : "topic",
-  "url" : "\/documentation\/researchkit\/orkspeechrecognizerlocale\/equatable-implementations"
 }
 }
 }

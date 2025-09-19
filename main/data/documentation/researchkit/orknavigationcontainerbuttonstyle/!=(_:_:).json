@@ -17,9 +17,7 @@
     "paths" : [
       [
         "doc:\/\/com.apple.ResearchKit\/documentation\/ResearchKit",
-        "doc:\/\/com.apple.ResearchKit\/documentation\/ResearchKit\/Configurations",
-        "doc:\/\/com.apple.ResearchKit\/documentation\/ResearchKit\/ORKNavigationContainerButtonStyle",
-        "doc:\/\/com.apple.ResearchKit\/documentation\/ResearchKit\/ORKNavigationContainerButtonStyle\/Equatable-Implementations"
+        "doc:\/\/com.apple.ResearchKit\/documentation\/ResearchKit\/ORKNavigationContainerButtonStyle"
       ]
     ]
   },
@@ -213,20 +211,6 @@
   "type" : "topic",
   "url" : "\/documentation\/researchkit"
 },
-"doc://com.apple.ResearchKit/documentation/ResearchKit/Configurations": {
-  "abstract" : [
-    {
-      "text" : "Provide collection and presentation information to a step.",
-      "type" : "text"
-    }
-  ],
-  "identifier" : "doc:\/\/com.apple.ResearchKit\/documentation\/ResearchKit\/Configurations",
-  "kind" : "article",
-  "role" : "collectionGroup",
-  "title" : "Configurations",
-  "type" : "topic",
-  "url" : "\/documentation\/researchkit\/configurations"
-},
 "doc://com.apple.ResearchKit/documentation/ResearchKit/ORKNavigationContainerButtonStyle": {
   "abstract" : [
 
@@ -319,17 +303,6 @@
   "title" : "!=(_:_:)",
   "type" : "topic",
   "url" : "\/documentation\/researchkit\/orknavigationcontainerbuttonstyle\/!=(_:_:)"
-},
-"doc://com.apple.ResearchKit/documentation/ResearchKit/ORKNavigationContainerButtonStyle/Equatable-Implementations": {
-  "abstract" : [
-
-  ],
-  "identifier" : "doc:\/\/com.apple.ResearchKit\/documentation\/ResearchKit\/ORKNavigationContainerButtonStyle\/Equatable-Implementations",
-  "kind" : "article",
-  "role" : "collectionGroup",
-  "title" : "Equatable Implementations",
-  "type" : "topic",
-  "url" : "\/documentation\/researchkit\/orknavigationcontainerbuttonstyle\/equatable-implementations"
 }
 }
 }

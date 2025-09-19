@@ -2,8 +2,7 @@
   "hierarchy" : {
     "paths" : [
       [
-        "doc:\/\/com.apple.ResearchKit\/documentation\/ResearchKit",
-        "doc:\/\/com.apple.ResearchKit\/documentation\/ResearchKit\/Consent"
+        "doc:\/\/com.apple.ResearchKit\/documentation\/ResearchKit"
       ]
     ]
   },
@@ -71,6 +70,12 @@
         }
       ],
       "kind" : "declarations"
+    },
+    {
+      "kind" : "mentions",
+      "mentions" : [
+        "doc:\/\/com.apple.ResearchKit\/documentation\/ResearchKit\/Obtaining-Consent"
+      ]
     }
   ],
   "relationshipsSections" : [
@@ -162,20 +167,6 @@
   "title" : "ResearchKit",
   "type" : "topic",
   "url" : "\/documentation\/researchkit"
-},
-"doc://com.apple.ResearchKit/documentation/ResearchKit/Consent": {
-  "abstract" : [
-    {
-      "text" : "Obtain a participant’s consent to collect research data.",
-      "type" : "text"
-    }
-  ],
-  "identifier" : "doc:\/\/com.apple.ResearchKit\/documentation\/ResearchKit\/Consent",
-  "kind" : "article",
-  "role" : "collectionGroup",
-  "title" : "Consent",
-  "type" : "topic",
-  "url" : "\/documentation\/researchkit\/consent"
 },
 "doc://com.apple.ResearchKit/documentation/ResearchKit/ORKConsentSignature": {
   "abstract" : [
@@ -350,6 +341,20 @@
   "title" : "ORKSignatureFormatter",
   "type" : "topic",
   "url" : "\/documentation\/researchkit\/orksignatureformatter"
+},
+"doc://com.apple.ResearchKit/documentation/ResearchKit/Obtaining-Consent": {
+  "abstract" : [
+    {
+      "text" : "Guide your participants through the Informed Consent process.",
+      "type" : "text"
+    }
+  ],
+  "identifier" : "doc:\/\/com.apple.ResearchKit\/documentation\/ResearchKit\/Obtaining-Consent",
+  "kind" : "article",
+  "role" : "article",
+  "title" : "Obtaining Consent",
+  "type" : "topic",
+  "url" : "\/documentation\/researchkit\/obtaining-consent"
 },
 "doc://com.apple.ResearchKit/objc(cs)NSObject": {
   "identifier" : "doc:\/\/com.apple.ResearchKit\/objc(cs)NSObject",

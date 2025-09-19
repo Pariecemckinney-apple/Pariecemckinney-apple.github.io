@@ -2,9 +2,7 @@
   "hierarchy" : {
     "paths" : [
       [
-        "doc:\/\/com.apple.ResearchKit\/documentation\/ResearchKit",
-        "doc:\/\/com.apple.ResearchKit\/documentation\/ResearchKit\/Steps-Tasks-Results",
-        "doc:\/\/com.apple.ResearchKit\/documentation\/ResearchKit\/Tasks"
+        "doc:\/\/com.apple.ResearchKit\/documentation\/ResearchKit"
       ]
     ]
   },
@@ -81,6 +79,12 @@
         }
       ],
       "kind" : "declarations"
+    },
+    {
+      "kind" : "mentions",
+      "mentions" : [
+        "doc:\/\/com.apple.ResearchKit\/documentation\/ResearchKit\/Obtaining-Consent"
+      ]
     }
   ],
   "relationshipsSections" : [
@@ -449,7 +453,6 @@
   ],
   "identifier" : "doc:\/\/com.apple.ResearchKit\/documentation\/ResearchKit\/ORKTask\/requestedHealthKitTypesForReading",
   "kind" : "symbol",
-  "required" : true,
   "role" : "symbol",
   "title" : "requestedHealthKitTypesForReading",
   "type" : "topic",
@@ -497,7 +500,6 @@
   ],
   "identifier" : "doc:\/\/com.apple.ResearchKit\/documentation\/ResearchKit\/ORKTask\/requestedHealthKitTypesForWriting",
   "kind" : "symbol",
-  "required" : true,
   "role" : "symbol",
   "title" : "requestedHealthKitTypesForWriting",
   "type" : "topic",
@@ -532,7 +534,6 @@
   ],
   "identifier" : "doc:\/\/com.apple.ResearchKit\/documentation\/ResearchKit\/ORKTask\/requestedPermissions",
   "kind" : "symbol",
-  "required" : true,
   "role" : "symbol",
   "title" : "requestedPermissions",
   "type" : "topic",
@@ -785,7 +786,6 @@
   ],
   "identifier" : "doc:\/\/com.apple.ResearchKit\/documentation\/ResearchKit\/ORKTask\/step(withIdentifier:)",
   "kind" : "symbol",
-  "required" : true,
   "role" : "symbol",
   "title" : "step(withIdentifier:)",
   "type" : "topic",
@@ -837,7 +837,6 @@
   ],
   "identifier" : "doc:\/\/com.apple.ResearchKit\/documentation\/ResearchKit\/ORKTask\/totalProgress(ofCurrentStep:)",
   "kind" : "symbol",
-  "required" : true,
   "role" : "symbol",
   "title" : "totalProgress(ofCurrentStep:)",
   "type" : "topic",
@@ -867,39 +866,24 @@
   ],
   "identifier" : "doc:\/\/com.apple.ResearchKit\/documentation\/ResearchKit\/ORKTask\/validateParameters()",
   "kind" : "symbol",
-  "required" : true,
   "role" : "symbol",
   "title" : "validateParameters()",
   "type" : "topic",
   "url" : "\/documentation\/researchkit\/orktask\/validateparameters()"
 },
-"doc://com.apple.ResearchKit/documentation/ResearchKit/Steps-Tasks-Results": {
+"doc://com.apple.ResearchKit/documentation/ResearchKit/Obtaining-Consent": {
   "abstract" : [
     {
-      "text" : "Design and create research-centered apps that guide the participant.",
+      "text" : "Guide your participants through the Informed Consent process.",
       "type" : "text"
     }
   ],
-  "identifier" : "doc:\/\/com.apple.ResearchKit\/documentation\/ResearchKit\/Steps-Tasks-Results",
+  "identifier" : "doc:\/\/com.apple.ResearchKit\/documentation\/ResearchKit\/Obtaining-Consent",
   "kind" : "article",
-  "role" : "collectionGroup",
-  "title" : "Steps, tasks, and results",
+  "role" : "article",
+  "title" : "Obtaining Consent",
   "type" : "topic",
-  "url" : "\/documentation\/researchkit\/steps-tasks-results"
-},
-"doc://com.apple.ResearchKit/documentation/ResearchKit/Tasks": {
-  "abstract" : [
-    {
-      "text" : "Build research apps to collect information.",
-      "type" : "text"
-    }
-  ],
-  "identifier" : "doc:\/\/com.apple.ResearchKit\/documentation\/ResearchKit\/Tasks",
-  "kind" : "article",
-  "role" : "collectionGroup",
-  "title" : "Tasks",
-  "type" : "topic",
-  "url" : "\/documentation\/researchkit\/tasks"
+  "url" : "\/documentation\/researchkit\/obtaining-consent"
 },
 "doc://com.apple.ResearchKit/objc(pl)NSObject": {
   "identifier" : "doc:\/\/com.apple.ResearchKit\/objc(pl)NSObject",

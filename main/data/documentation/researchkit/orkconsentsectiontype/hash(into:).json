@@ -17,9 +17,7 @@
     "paths" : [
       [
         "doc:\/\/com.apple.ResearchKit\/documentation\/ResearchKit",
-        "doc:\/\/com.apple.ResearchKit\/documentation\/ResearchKit\/Consent",
-        "doc:\/\/com.apple.ResearchKit\/documentation\/ResearchKit\/ORKConsentSectionType",
-        "doc:\/\/com.apple.ResearchKit\/documentation\/ResearchKit\/ORKConsentSectionType\/RawRepresentable-Implementations"
+        "doc:\/\/com.apple.ResearchKit\/documentation\/ResearchKit\/ORKConsentSectionType"
       ]
     ]
   },
@@ -237,20 +235,6 @@
   "type" : "topic",
   "url" : "\/documentation\/researchkit"
 },
-"doc://com.apple.ResearchKit/documentation/ResearchKit/Consent": {
-  "abstract" : [
-    {
-      "text" : "Obtain a participant’s consent to collect research data.",
-      "type" : "text"
-    }
-  ],
-  "identifier" : "doc:\/\/com.apple.ResearchKit\/documentation\/ResearchKit\/Consent",
-  "kind" : "article",
-  "role" : "collectionGroup",
-  "title" : "Consent",
-  "type" : "topic",
-  "url" : "\/documentation\/researchkit\/consent"
-},
 "doc://com.apple.ResearchKit/documentation/ResearchKit/ORKConsentSectionType": {
   "abstract" : [
 
@@ -281,17 +265,6 @@
   "title" : "ORKConsentSectionType",
   "type" : "topic",
   "url" : "\/documentation\/researchkit\/orkconsentsectiontype"
-},
-"doc://com.apple.ResearchKit/documentation/ResearchKit/ORKConsentSectionType/RawRepresentable-Implementations": {
-  "abstract" : [
-
-  ],
-  "identifier" : "doc:\/\/com.apple.ResearchKit\/documentation\/ResearchKit\/ORKConsentSectionType\/RawRepresentable-Implementations",
-  "kind" : "article",
-  "role" : "collectionGroup",
-  "title" : "RawRepresentable Implementations",
-  "type" : "topic",
-  "url" : "\/documentation\/researchkit\/orkconsentsectiontype\/rawrepresentable-implementations"
 },
 "doc://com.apple.ResearchKit/documentation/ResearchKit/ORKConsentSectionType/hash(into:)": {
   "abstract" : [
