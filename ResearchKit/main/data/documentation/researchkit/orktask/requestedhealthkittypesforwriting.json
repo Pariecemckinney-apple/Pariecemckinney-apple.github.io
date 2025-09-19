@@ -64,8 +64,23 @@
         "introducedAt" : "8.0",
         "name" : "iOS",
         "unavailable" : false
+      },
+      {
+        "beta" : false,
+        "deprecated" : false,
+        "introducedAt" : "8.0",
+        "name" : "iPadOS",
+        "unavailable" : false
+      },
+      {
+        "beta" : false,
+        "deprecated" : false,
+        "introducedAt" : "8.0",
+        "name" : "Mac Catalyst",
+        "unavailable" : false
       }
     ],
+    "required" : true,
     "role" : "symbol",
     "roleHeading" : "Instance Property",
     "symbolKind" : "property",
@@ -247,6 +262,7 @@
   ],
   "identifier" : "doc:\/\/com.apple.ResearchKit\/documentation\/ResearchKit\/ORKTask\/requestedHealthKitTypesForWriting",
   "kind" : "symbol",
+  "required" : true,
   "role" : "symbol",
   "title" : "requestedHealthKitTypesForWriting",
   "type" : "topic",

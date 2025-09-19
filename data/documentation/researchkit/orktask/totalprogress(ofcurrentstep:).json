@@ -84,7 +84,6 @@
         "unavailable" : false
       }
     ],
-    "required" : true,
     "role" : "symbol",
     "roleHeading" : "Instance Method",
     "symbolKind" : "method",
@@ -307,7 +306,6 @@
   ],
   "identifier" : "doc:\/\/com.apple.ResearchKit\/documentation\/ResearchKit\/ORKTask\/totalProgress(ofCurrentStep:)",
   "kind" : "symbol",
-  "required" : true,
   "role" : "symbol",
   "title" : "totalProgress(ofCurrentStep:)",
   "type" : "topic",
