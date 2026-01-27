@@ -1,13 +1,14 @@
 <!doctype html><html lang="en-US" class="no-js"><head><meta charset="utf-8"><meta http-equiv="X-UA-Compatible" content="IE=edge"><meta name="viewport" content="width=device-width,initial-scale=1,viewport-fit=cover"><link rel="icon" href="/favicon.ico"><link rel="mask-icon" href="/favicon.svg" color="#333333"><title>Documentation</title><script>var baseUrl = "/"</script><script defer="defer" src="/js/chunk-vendors.bdb7cbba.js"></script><script defer="defer" src="/js/index.a08b31d0.js"></script><link href="/css/index.3a335429.css" rel="stylesheet"><script>
     (function () {
-      const basePath = "/documentation/researchkit";
+      const stableBasePath = "/ResearchKit/stable/documentation/researchkit";
+      const mainBasePath = "/ResearchKit/main/documentation/researchkit";
 
       const currentPath = window.location.pathname;
 
       // If the path doesn't start with the base path, redirect
-      if (!currentPath.startsWith(basePath)) {
+      if (!currentPath.startsWith(stableBasePath) || !currentPath.startsWith(mainBasePath)) {
         // Redirect to the base path (keeping query and hash if present)
-        const newUrl = basePath + window.location.search + window.location.hash;
+        const newUrl = stableBasePath + window.location.search + window.location.hash;
         window.location.replace(newUrl);
       }
     })();
