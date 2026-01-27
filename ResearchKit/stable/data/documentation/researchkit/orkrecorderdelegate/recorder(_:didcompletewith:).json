@@ -1,0 +1,343 @@
+{
+  "hierarchy" : {
+    "paths" : [
+      [
+        "doc:\/\/com.apple.ResearchKit\/documentation\/ResearchKit",
+        "doc:\/\/com.apple.ResearchKit\/documentation\/ResearchKit\/ORKRecorderDelegate"
+      ]
+    ]
+  },
+  "identifier" : {
+    "interfaceLanguage" : "swift",
+    "url" : "doc:\/\/com.apple.ResearchKit\/documentation\/ResearchKit\/ORKRecorderDelegate\/recorder(_:didCompleteWith:)"
+  },
+  "kind" : "symbol",
+  "metadata" : {
+    "externalID" : "c:objc(pl)ORKRecorderDelegate(im)recorder:didCompleteWithResults:",
+    "fragments" : [
+      {
+        "kind" : "keyword",
+        "text" : "func"
+      },
+      {
+        "kind" : "text",
+        "text" : " "
+      },
+      {
+        "kind" : "identifier",
+        "text" : "recorder"
+      },
+      {
+        "kind" : "text",
+        "text" : "("
+      },
+      {
+        "kind" : "typeIdentifier",
+        "preciseIdentifier" : "c:objc(cs)ORKRecorder",
+        "text" : "ORKRecorder"
+      },
+      {
+        "kind" : "text",
+        "text" : ", "
+      },
+      {
+        "kind" : "externalParam",
+        "text" : "didCompleteWith"
+      },
+      {
+        "kind" : "text",
+        "text" : ": ["
+      },
+      {
+        "kind" : "typeIdentifier",
+        "preciseIdentifier" : "c:objc(cs)ORKFileResult",
+        "text" : "ORKFileResult"
+      },
+      {
+        "kind" : "text",
+        "text" : "])"
+      }
+    ],
+    "modules" : [
+      {
+        "name" : "ResearchKit"
+      }
+    ],
+    "required" : true,
+    "role" : "symbol",
+    "roleHeading" : "Instance Method",
+    "symbolKind" : "method",
+    "title" : "recorder(_:didCompleteWith:)"
+  },
+  "primaryContentSections" : [
+    {
+      "declarations" : [
+        {
+          "languages" : [
+            "swift"
+          ],
+          "platforms" : [
+            "iOS"
+          ],
+          "tokens" : [
+            {
+              "kind" : "keyword",
+              "text" : "func"
+            },
+            {
+              "kind" : "text",
+              "text" : " "
+            },
+            {
+              "kind" : "identifier",
+              "text" : "recorder"
+            },
+            {
+              "kind" : "text",
+              "text" : "("
+            },
+            {
+              "kind" : "externalParam",
+              "text" : "_"
+            },
+            {
+              "kind" : "text",
+              "text" : " "
+            },
+            {
+              "kind" : "internalParam",
+              "text" : "recorder"
+            },
+            {
+              "kind" : "text",
+              "text" : ": "
+            },
+            {
+              "identifier" : "doc:\/\/com.apple.ResearchKit\/documentation\/ResearchKit\/ORKRecorder",
+              "kind" : "typeIdentifier",
+              "preciseIdentifier" : "c:objc(cs)ORKRecorder",
+              "text" : "ORKRecorder"
+            },
+            {
+              "kind" : "text",
+              "text" : ", "
+            },
+            {
+              "kind" : "externalParam",
+              "text" : "didCompleteWith"
+            },
+            {
+              "kind" : "text",
+              "text" : " "
+            },
+            {
+              "kind" : "internalParam",
+              "text" : "results"
+            },
+            {
+              "kind" : "text",
+              "text" : ": ["
+            },
+            {
+              "identifier" : "doc:\/\/com.apple.ResearchKit\/documentation\/ResearchKit\/ORKFileResult",
+              "kind" : "typeIdentifier",
+              "preciseIdentifier" : "c:objc(cs)ORKFileResult",
+              "text" : "ORKFileResult"
+            },
+            {
+              "kind" : "text",
+              "text" : "])"
+            }
+          ]
+        }
+      ],
+      "kind" : "declarations"
+    }
+  ],
+  "schemaVersion" : {
+    "major" : 0,
+    "minor" : 3,
+    "patch" : 0
+  },
+  "sections" : [
+
+  ],
+  "variants" : [
+    {
+      "paths" : [
+        "\/documentation\/researchkit\/orkrecorderdelegate\/recorder(_:didcompletewith:)"
+      ],
+      "traits" : [
+        {
+          "interfaceLanguage" : "swift"
+        }
+      ]
+    }
+  ]
+, 
+"references": {
+"doc://com.apple.ResearchKit/documentation/ResearchKit": {
+  "abstract" : [
+    {
+      "text" : "Create apps that securely collect information for research.",
+      "type" : "text"
+    }
+  ],
+  "identifier" : "doc:\/\/com.apple.ResearchKit\/documentation\/ResearchKit",
+  "kind" : "symbol",
+  "role" : "collection",
+  "title" : "ResearchKit",
+  "type" : "topic",
+  "url" : "\/documentation\/researchkit"
+},
+"doc://com.apple.ResearchKit/documentation/ResearchKit/ORKFileResult": {
+  "abstract" : [
+
+  ],
+  "fragments" : [
+    {
+      "kind" : "keyword",
+      "text" : "class"
+    },
+    {
+      "kind" : "text",
+      "text" : " "
+    },
+    {
+      "kind" : "identifier",
+      "text" : "ORKFileResult"
+    }
+  ],
+  "identifier" : "doc:\/\/com.apple.ResearchKit\/documentation\/ResearchKit\/ORKFileResult",
+  "kind" : "symbol",
+  "navigatorTitle" : [
+    {
+      "kind" : "identifier",
+      "text" : "ORKFileResult"
+    }
+  ],
+  "role" : "symbol",
+  "title" : "ORKFileResult",
+  "type" : "topic",
+  "url" : "\/documentation\/researchkit\/orkfileresult"
+},
+"doc://com.apple.ResearchKit/documentation/ResearchKit/ORKRecorder": {
+  "abstract" : [
+
+  ],
+  "fragments" : [
+    {
+      "kind" : "keyword",
+      "text" : "class"
+    },
+    {
+      "kind" : "text",
+      "text" : " "
+    },
+    {
+      "kind" : "identifier",
+      "text" : "ORKRecorder"
+    }
+  ],
+  "identifier" : "doc:\/\/com.apple.ResearchKit\/documentation\/ResearchKit\/ORKRecorder",
+  "kind" : "symbol",
+  "navigatorTitle" : [
+    {
+      "kind" : "identifier",
+      "text" : "ORKRecorder"
+    }
+  ],
+  "role" : "symbol",
+  "title" : "ORKRecorder",
+  "type" : "topic",
+  "url" : "\/documentation\/researchkit\/orkrecorder"
+},
+"doc://com.apple.ResearchKit/documentation/ResearchKit/ORKRecorderDelegate": {
+  "abstract" : [
+
+  ],
+  "fragments" : [
+    {
+      "kind" : "keyword",
+      "text" : "protocol"
+    },
+    {
+      "kind" : "text",
+      "text" : " "
+    },
+    {
+      "kind" : "identifier",
+      "text" : "ORKRecorderDelegate"
+    }
+  ],
+  "identifier" : "doc:\/\/com.apple.ResearchKit\/documentation\/ResearchKit\/ORKRecorderDelegate",
+  "kind" : "symbol",
+  "navigatorTitle" : [
+    {
+      "kind" : "identifier",
+      "text" : "ORKRecorderDelegate"
+    }
+  ],
+  "role" : "symbol",
+  "title" : "ORKRecorderDelegate",
+  "type" : "topic",
+  "url" : "\/documentation\/researchkit\/orkrecorderdelegate"
+},
+"doc://com.apple.ResearchKit/documentation/ResearchKit/ORKRecorderDelegate/recorder(_:didCompleteWith:)": {
+  "abstract" : [
+
+  ],
+  "fragments" : [
+    {
+      "kind" : "keyword",
+      "text" : "func"
+    },
+    {
+      "kind" : "text",
+      "text" : " "
+    },
+    {
+      "kind" : "identifier",
+      "text" : "recorder"
+    },
+    {
+      "kind" : "text",
+      "text" : "("
+    },
+    {
+      "kind" : "typeIdentifier",
+      "preciseIdentifier" : "c:objc(cs)ORKRecorder",
+      "text" : "ORKRecorder"
+    },
+    {
+      "kind" : "text",
+      "text" : ", "
+    },
+    {
+      "kind" : "externalParam",
+      "text" : "didCompleteWith"
+    },
+    {
+      "kind" : "text",
+      "text" : ": ["
+    },
+    {
+      "kind" : "typeIdentifier",
+      "preciseIdentifier" : "c:objc(cs)ORKFileResult",
+      "text" : "ORKFileResult"
+    },
+    {
+      "kind" : "text",
+      "text" : "])"
+    }
+  ],
+  "identifier" : "doc:\/\/com.apple.ResearchKit\/documentation\/ResearchKit\/ORKRecorderDelegate\/recorder(_:didCompleteWith:)",
+  "kind" : "symbol",
+  "required" : true,
+  "role" : "symbol",
+  "title" : "recorder(_:didCompleteWith:)",
+  "type" : "topic",
+  "url" : "\/documentation\/researchkit\/orkrecorderdelegate\/recorder(_:didcompletewith:)"
+}
+}
+}

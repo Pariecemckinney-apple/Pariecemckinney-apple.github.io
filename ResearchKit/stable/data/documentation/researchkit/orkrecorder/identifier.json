@@ -1,0 +1,301 @@
+{
+  "abstract" : [
+    {
+      "text" : "A short string that uniquely identifies the recorder (usually assigned by the recorder configuration).",
+      "type" : "text"
+    }
+  ],
+  "hierarchy" : {
+    "paths" : [
+      [
+        "doc:\/\/com.apple.ResearchKit\/documentation\/ResearchKit",
+        "doc:\/\/com.apple.ResearchKit\/documentation\/ResearchKit\/ORKRecorder"
+      ]
+    ]
+  },
+  "identifier" : {
+    "interfaceLanguage" : "swift",
+    "url" : "doc:\/\/com.apple.ResearchKit\/documentation\/ResearchKit\/ORKRecorder\/identifier"
+  },
+  "kind" : "symbol",
+  "metadata" : {
+    "extendedModule" : "ResearchKit",
+    "externalID" : "c:@CM@ResearchKit@@objc(cs)ORKRecorder(py)identifier",
+    "fragments" : [
+      {
+        "kind" : "keyword",
+        "text" : "var"
+      },
+      {
+        "kind" : "text",
+        "text" : " "
+      },
+      {
+        "kind" : "identifier",
+        "text" : "identifier"
+      },
+      {
+        "kind" : "text",
+        "text" : ": "
+      },
+      {
+        "kind" : "typeIdentifier",
+        "preciseIdentifier" : "s:SS",
+        "text" : "String"
+      },
+      {
+        "kind" : "text",
+        "text" : "?"
+      }
+    ],
+    "modules" : [
+      {
+        "name" : "ResearchKit"
+      }
+    ],
+    "role" : "symbol",
+    "roleHeading" : "Instance Property",
+    "symbolKind" : "property",
+    "title" : "identifier"
+  },
+  "primaryContentSections" : [
+    {
+      "declarations" : [
+        {
+          "languages" : [
+            "swift"
+          ],
+          "platforms" : [
+            "iOS"
+          ],
+          "tokens" : [
+            {
+              "kind" : "keyword",
+              "text" : "var"
+            },
+            {
+              "kind" : "text",
+              "text" : " "
+            },
+            {
+              "kind" : "identifier",
+              "text" : "identifier"
+            },
+            {
+              "kind" : "text",
+              "text" : ": "
+            },
+            {
+              "kind" : "typeIdentifier",
+              "preciseIdentifier" : "s:SS",
+              "text" : "String"
+            },
+            {
+              "kind" : "text",
+              "text" : "? { "
+            },
+            {
+              "kind" : "keyword",
+              "text" : "get"
+            },
+            {
+              "kind" : "text",
+              "text" : " }"
+            }
+          ]
+        }
+      ],
+      "kind" : "declarations"
+    },
+    {
+      "content" : [
+        {
+          "anchor" : "discussion",
+          "level" : 2,
+          "text" : "Discussion",
+          "type" : "heading"
+        },
+        {
+          "inlineContent" : [
+            {
+              "text" : "The identifier is reproduced in the results of a recorder created from this configuration. In fact, the only way to link a result",
+              "type" : "text"
+            },
+            {
+              "text" : " ",
+              "type" : "text"
+            },
+            {
+              "text" : "(an ",
+              "type" : "text"
+            },
+            {
+              "code" : "ORKFileResult",
+              "type" : "codeVoice"
+            },
+            {
+              "text" : " object) to the recorder that generated it is to look at the value of",
+              "type" : "text"
+            },
+            {
+              "text" : " ",
+              "type" : "text"
+            },
+            {
+              "code" : "identifier",
+              "type" : "codeVoice"
+            },
+            {
+              "text" : ". To accurately identify recorder results, you need to ensure that recorder identifiers",
+              "type" : "text"
+            },
+            {
+              "text" : " ",
+              "type" : "text"
+            },
+            {
+              "text" : "are unique within each step.",
+              "type" : "text"
+            }
+          ],
+          "type" : "paragraph"
+        },
+        {
+          "inlineContent" : [
+            {
+              "text" : "In some cases, it can be useful to link the recorder identifier to a unique identifier in a",
+              "type" : "text"
+            },
+            {
+              "text" : " ",
+              "type" : "text"
+            },
+            {
+              "text" : "database; in other cases, it can make sense to make the identifier human",
+              "type" : "text"
+            },
+            {
+              "text" : " ",
+              "type" : "text"
+            },
+            {
+              "text" : "readable.",
+              "type" : "text"
+            }
+          ],
+          "type" : "paragraph"
+        }
+      ],
+      "kind" : "content"
+    }
+  ],
+  "schemaVersion" : {
+    "major" : 0,
+    "minor" : 3,
+    "patch" : 0
+  },
+  "sections" : [
+
+  ],
+  "variants" : [
+    {
+      "paths" : [
+        "\/documentation\/researchkit\/orkrecorder\/identifier"
+      ],
+      "traits" : [
+        {
+          "interfaceLanguage" : "swift"
+        }
+      ]
+    }
+  ]
+, 
+"references": {
+"doc://com.apple.ResearchKit/documentation/ResearchKit": {
+  "abstract" : [
+    {
+      "text" : "Create apps that securely collect information for research.",
+      "type" : "text"
+    }
+  ],
+  "identifier" : "doc:\/\/com.apple.ResearchKit\/documentation\/ResearchKit",
+  "kind" : "symbol",
+  "role" : "collection",
+  "title" : "ResearchKit",
+  "type" : "topic",
+  "url" : "\/documentation\/researchkit"
+},
+"doc://com.apple.ResearchKit/documentation/ResearchKit/ORKRecorder": {
+  "abstract" : [
+
+  ],
+  "fragments" : [
+    {
+      "kind" : "keyword",
+      "text" : "class"
+    },
+    {
+      "kind" : "text",
+      "text" : " "
+    },
+    {
+      "kind" : "identifier",
+      "text" : "ORKRecorder"
+    }
+  ],
+  "identifier" : "doc:\/\/com.apple.ResearchKit\/documentation\/ResearchKit\/ORKRecorder",
+  "kind" : "symbol",
+  "navigatorTitle" : [
+    {
+      "kind" : "identifier",
+      "text" : "ORKRecorder"
+    }
+  ],
+  "role" : "symbol",
+  "title" : "ORKRecorder",
+  "type" : "topic",
+  "url" : "\/documentation\/researchkit\/orkrecorder"
+},
+"doc://com.apple.ResearchKit/documentation/ResearchKit/ORKRecorder/identifier": {
+  "abstract" : [
+    {
+      "text" : "A short string that uniquely identifies the recorder (usually assigned by the recorder configuration).",
+      "type" : "text"
+    }
+  ],
+  "fragments" : [
+    {
+      "kind" : "keyword",
+      "text" : "var"
+    },
+    {
+      "kind" : "text",
+      "text" : " "
+    },
+    {
+      "kind" : "identifier",
+      "text" : "identifier"
+    },
+    {
+      "kind" : "text",
+      "text" : ": "
+    },
+    {
+      "kind" : "typeIdentifier",
+      "preciseIdentifier" : "s:SS",
+      "text" : "String"
+    },
+    {
+      "kind" : "text",
+      "text" : "?"
+    }
+  ],
+  "identifier" : "doc:\/\/com.apple.ResearchKit\/documentation\/ResearchKit\/ORKRecorder\/identifier",
+  "kind" : "symbol",
+  "role" : "symbol",
+  "title" : "identifier",
+  "type" : "topic",
+  "url" : "\/documentation\/researchkit\/orkrecorder\/identifier"
+}
+}
+}
