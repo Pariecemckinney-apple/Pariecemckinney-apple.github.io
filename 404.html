@@ -11,7 +11,7 @@
         const currentPath = window.location.pathname;
 
         // If the path doesn't start with the base path, redirect
-        if (!currentPath.startsWith(stableBasePath) || !currentPath.startsWith(mainBasePath)) {
+        if (!currentPath.startsWith(stableBasePath) && !currentPath.startsWith(mainBasePath)) {
           // Redirect to the base path (keeping query and hash if present)
           const newUrl = stableBasePath + window.location.search + window.location.hash;
           window.location.replace(newUrl);
