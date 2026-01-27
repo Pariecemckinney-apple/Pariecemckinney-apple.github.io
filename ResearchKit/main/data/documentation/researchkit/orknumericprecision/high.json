@@ -3,8 +3,6 @@
     "paths" : [
       [
         "doc:\/\/com.apple.ResearchKit\/documentation\/ResearchKit",
-        "doc:\/\/com.apple.ResearchKit\/documentation\/ResearchKit\/Surveys",
-        "doc:\/\/com.apple.ResearchKit\/documentation\/ResearchKit\/AnswerFormats",
         "doc:\/\/com.apple.ResearchKit\/documentation\/ResearchKit\/ORKNumericPrecision"
       ]
     ]
@@ -105,20 +103,6 @@
   "type" : "topic",
   "url" : "\/documentation\/researchkit"
 },
-"doc://com.apple.ResearchKit/documentation/ResearchKit/AnswerFormats": {
-  "abstract" : [
-    {
-      "text" : "Present a specific question and collect an answer.",
-      "type" : "text"
-    }
-  ],
-  "identifier" : "doc:\/\/com.apple.ResearchKit\/documentation\/ResearchKit\/AnswerFormats",
-  "kind" : "article",
-  "role" : "collectionGroup",
-  "title" : "Answer formats",
-  "type" : "topic",
-  "url" : "\/documentation\/researchkit\/answerformats"
-},
 "doc://com.apple.ResearchKit/documentation/ResearchKit/ORKNumericPrecision": {
   "abstract" : [
 
@@ -174,20 +158,6 @@
   "title" : "ORKNumericPrecision.high",
   "type" : "topic",
   "url" : "\/documentation\/researchkit\/orknumericprecision\/high"
-},
-"doc://com.apple.ResearchKit/documentation/ResearchKit/Surveys": {
-  "abstract" : [
-    {
-      "text" : "Construct surveys that ask a wide range of questions.",
-      "type" : "text"
-    }
-  ],
-  "identifier" : "doc:\/\/com.apple.ResearchKit\/documentation\/ResearchKit\/Surveys",
-  "kind" : "article",
-  "role" : "collectionGroup",
-  "title" : "Surveys",
-  "type" : "topic",
-  "url" : "\/documentation\/researchkit\/surveys"
 }
 }
 }

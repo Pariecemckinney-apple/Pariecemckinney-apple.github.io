@@ -2,9 +2,7 @@
   "hierarchy" : {
     "paths" : [
       [
-        "doc:\/\/com.apple.ResearchKit\/documentation\/ResearchKit",
-        "doc:\/\/com.apple.ResearchKit\/documentation\/ResearchKit\/Surveys",
-        "doc:\/\/com.apple.ResearchKit\/documentation\/ResearchKit\/AnswerFormats"
+        "doc:\/\/com.apple.ResearchKit\/documentation\/ResearchKit"
       ]
     ]
   },
@@ -72,6 +70,12 @@
         }
       ],
       "kind" : "declarations"
+    },
+    {
+      "kind" : "mentions",
+      "mentions" : [
+        "doc:\/\/com.apple.ResearchKit\/documentation\/ResearchKit\/Creating-Surveys"
+      ]
     }
   ],
   "relationshipsSections" : [
@@ -194,19 +198,19 @@
   "type" : "topic",
   "url" : "\/documentation\/researchkit"
 },
-"doc://com.apple.ResearchKit/documentation/ResearchKit/AnswerFormats": {
+"doc://com.apple.ResearchKit/documentation/ResearchKit/Creating-Surveys": {
   "abstract" : [
     {
-      "text" : "Present a specific question and collect an answer.",
+      "text" : "Configure and present surveys with ResearchKit.",
       "type" : "text"
     }
   ],
-  "identifier" : "doc:\/\/com.apple.ResearchKit\/documentation\/ResearchKit\/AnswerFormats",
+  "identifier" : "doc:\/\/com.apple.ResearchKit\/documentation\/ResearchKit\/Creating-Surveys",
   "kind" : "article",
-  "role" : "collectionGroup",
-  "title" : "Answer formats",
+  "role" : "article",
+  "title" : "Creating surveys",
   "type" : "topic",
-  "url" : "\/documentation\/researchkit\/answerformats"
+  "url" : "\/documentation\/researchkit\/creating-surveys"
 },
 "doc://com.apple.ResearchKit/documentation/ResearchKit/ORKAnswerFormat": {
   "abstract" : [
@@ -1250,20 +1254,6 @@
   "title" : "step",
   "type" : "topic",
   "url" : "\/documentation\/researchkit\/orkscaleanswerformat\/step"
-},
-"doc://com.apple.ResearchKit/documentation/ResearchKit/Surveys": {
-  "abstract" : [
-    {
-      "text" : "Construct surveys that ask a wide range of questions.",
-      "type" : "text"
-    }
-  ],
-  "identifier" : "doc:\/\/com.apple.ResearchKit\/documentation\/ResearchKit\/Surveys",
-  "kind" : "article",
-  "role" : "collectionGroup",
-  "title" : "Surveys",
-  "type" : "topic",
-  "url" : "\/documentation\/researchkit\/surveys"
 },
 "doc://com.apple.ResearchKit/objc(pl)NSCoding": {
   "identifier" : "doc:\/\/com.apple.ResearchKit\/objc(pl)NSCoding",

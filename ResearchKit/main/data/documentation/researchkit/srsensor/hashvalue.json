@@ -1,26 +1,9 @@
 {
-  "abstract" : [
-    {
-      "text" : "Inherited from ",
-      "type" : "text"
-    },
-    {
-      "code" : "_SwiftNewtypeWrapper.hashValue",
-      "type" : "codeVoice"
-    },
-    {
-      "text" : ".",
-      "type" : "text"
-    }
-  ],
   "hierarchy" : {
     "paths" : [
       [
         "doc:\/\/com.apple.ResearchKit\/documentation\/ResearchKit",
-        "doc:\/\/com.apple.ResearchKit\/documentation\/ResearchKit\/Steps-Tasks-Results",
-        "doc:\/\/com.apple.ResearchKit\/documentation\/ResearchKit\/Steps",
-        "doc:\/\/com.apple.ResearchKit\/documentation\/ResearchKit\/SRSensor",
-        "doc:\/\/com.apple.ResearchKit\/documentation\/ResearchKit\/SRSensor\/_SwiftNewtypeWrapper-Implementations"
+        "doc:\/\/com.apple.ResearchKit\/documentation\/ResearchKit\/SRSensor"
       ]
     ]
   },
@@ -233,17 +216,6 @@
   "type" : "topic",
   "url" : "\/documentation\/researchkit\/srsensor"
 },
-"doc://com.apple.ResearchKit/documentation/ResearchKit/SRSensor/_SwiftNewtypeWrapper-Implementations": {
-  "abstract" : [
-
-  ],
-  "identifier" : "doc:\/\/com.apple.ResearchKit\/documentation\/ResearchKit\/SRSensor\/_SwiftNewtypeWrapper-Implementations",
-  "kind" : "article",
-  "role" : "collectionGroup",
-  "title" : "_SwiftNewtypeWrapper Implementations",
-  "type" : "topic",
-  "url" : "\/documentation\/researchkit\/srsensor\/_swiftnewtypewrapper-implementations"
-},
 "doc://com.apple.ResearchKit/documentation/ResearchKit/SRSensor/hashValue": {
   "abstract" : [
 
@@ -325,34 +297,6 @@
   "title" : "hashValue",
   "type" : "topic",
   "url" : "\/documentation\/researchkit\/srsensor\/hashvalue"
-},
-"doc://com.apple.ResearchKit/documentation/ResearchKit/Steps": {
-  "abstract" : [
-    {
-      "text" : "Create tasks for participants to perform.",
-      "type" : "text"
-    }
-  ],
-  "identifier" : "doc:\/\/com.apple.ResearchKit\/documentation\/ResearchKit\/Steps",
-  "kind" : "article",
-  "role" : "collectionGroup",
-  "title" : "Steps",
-  "type" : "topic",
-  "url" : "\/documentation\/researchkit\/steps"
-},
-"doc://com.apple.ResearchKit/documentation/ResearchKit/Steps-Tasks-Results": {
-  "abstract" : [
-    {
-      "text" : "Design and create research-centered apps that guide the participant.",
-      "type" : "text"
-    }
-  ],
-  "identifier" : "doc:\/\/com.apple.ResearchKit\/documentation\/ResearchKit\/Steps-Tasks-Results",
-  "kind" : "article",
-  "role" : "collectionGroup",
-  "title" : "Steps, tasks, and results",
-  "type" : "topic",
-  "url" : "\/documentation\/researchkit\/steps-tasks-results"
 }
 }
 }

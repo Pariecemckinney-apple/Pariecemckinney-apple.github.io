@@ -17,10 +17,7 @@
     "paths" : [
       [
         "doc:\/\/com.apple.ResearchKit\/documentation\/ResearchKit",
-        "doc:\/\/com.apple.ResearchKit\/documentation\/ResearchKit\/Steps-Tasks-Results",
-        "doc:\/\/com.apple.ResearchKit\/documentation\/ResearchKit\/Steps",
-        "doc:\/\/com.apple.ResearchKit\/documentation\/ResearchKit\/ORKPDFViewerActionBarOption",
-        "doc:\/\/com.apple.ResearchKit\/documentation\/ResearchKit\/ORKPDFViewerActionBarOption\/OptionSet-Implementations"
+        "doc:\/\/com.apple.ResearchKit\/documentation\/ResearchKit\/ORKPDFViewerActionBarOption"
       ]
     ]
   },
@@ -237,17 +234,6 @@
   "type" : "topic",
   "url" : "\/documentation\/researchkit\/orkpdfvieweractionbaroption"
 },
-"doc://com.apple.ResearchKit/documentation/ResearchKit/ORKPDFViewerActionBarOption/OptionSet-Implementations": {
-  "abstract" : [
-
-  ],
-  "identifier" : "doc:\/\/com.apple.ResearchKit\/documentation\/ResearchKit\/ORKPDFViewerActionBarOption\/OptionSet-Implementations",
-  "kind" : "article",
-  "role" : "collectionGroup",
-  "title" : "OptionSet Implementations",
-  "type" : "topic",
-  "url" : "\/documentation\/researchkit\/orkpdfvieweractionbaroption\/optionset-implementations"
-},
 "doc://com.apple.ResearchKit/documentation/ResearchKit/ORKPDFViewerActionBarOption/contains(_:)": {
   "abstract" : [
 
@@ -321,34 +307,6 @@
   "title" : "contains(_:)",
   "type" : "topic",
   "url" : "\/documentation\/researchkit\/orkpdfvieweractionbaroption\/contains(_:)"
-},
-"doc://com.apple.ResearchKit/documentation/ResearchKit/Steps": {
-  "abstract" : [
-    {
-      "text" : "Create tasks for participants to perform.",
-      "type" : "text"
-    }
-  ],
-  "identifier" : "doc:\/\/com.apple.ResearchKit\/documentation\/ResearchKit\/Steps",
-  "kind" : "article",
-  "role" : "collectionGroup",
-  "title" : "Steps",
-  "type" : "topic",
-  "url" : "\/documentation\/researchkit\/steps"
-},
-"doc://com.apple.ResearchKit/documentation/ResearchKit/Steps-Tasks-Results": {
-  "abstract" : [
-    {
-      "text" : "Design and create research-centered apps that guide the participant.",
-      "type" : "text"
-    }
-  ],
-  "identifier" : "doc:\/\/com.apple.ResearchKit\/documentation\/ResearchKit\/Steps-Tasks-Results",
-  "kind" : "article",
-  "role" : "collectionGroup",
-  "title" : "Steps, tasks, and results",
-  "type" : "topic",
-  "url" : "\/documentation\/researchkit\/steps-tasks-results"
 }
 }
 }

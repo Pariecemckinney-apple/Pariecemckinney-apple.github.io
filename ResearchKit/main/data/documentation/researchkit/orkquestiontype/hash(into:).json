@@ -17,10 +17,7 @@
     "paths" : [
       [
         "doc:\/\/com.apple.ResearchKit\/documentation\/ResearchKit",
-        "doc:\/\/com.apple.ResearchKit\/documentation\/ResearchKit\/Surveys",
-        "doc:\/\/com.apple.ResearchKit\/documentation\/ResearchKit\/AnswerFormats",
-        "doc:\/\/com.apple.ResearchKit\/documentation\/ResearchKit\/ORKQuestionType",
-        "doc:\/\/com.apple.ResearchKit\/documentation\/ResearchKit\/ORKQuestionType\/RawRepresentable-Implementations"
+        "doc:\/\/com.apple.ResearchKit\/documentation\/ResearchKit\/ORKQuestionType"
       ]
     ]
   },
@@ -238,20 +235,6 @@
   "type" : "topic",
   "url" : "\/documentation\/researchkit"
 },
-"doc://com.apple.ResearchKit/documentation/ResearchKit/AnswerFormats": {
-  "abstract" : [
-    {
-      "text" : "Present a specific question and collect an answer.",
-      "type" : "text"
-    }
-  ],
-  "identifier" : "doc:\/\/com.apple.ResearchKit\/documentation\/ResearchKit\/AnswerFormats",
-  "kind" : "article",
-  "role" : "collectionGroup",
-  "title" : "Answer formats",
-  "type" : "topic",
-  "url" : "\/documentation\/researchkit\/answerformats"
-},
 "doc://com.apple.ResearchKit/documentation/ResearchKit/ORKQuestionType": {
   "abstract" : [
 
@@ -282,17 +265,6 @@
   "title" : "ORKQuestionType",
   "type" : "topic",
   "url" : "\/documentation\/researchkit\/orkquestiontype"
-},
-"doc://com.apple.ResearchKit/documentation/ResearchKit/ORKQuestionType/RawRepresentable-Implementations": {
-  "abstract" : [
-
-  ],
-  "identifier" : "doc:\/\/com.apple.ResearchKit\/documentation\/ResearchKit\/ORKQuestionType\/RawRepresentable-Implementations",
-  "kind" : "article",
-  "role" : "collectionGroup",
-  "title" : "RawRepresentable Implementations",
-  "type" : "topic",
-  "url" : "\/documentation\/researchkit\/orkquestiontype\/rawrepresentable-implementations"
 },
 "doc://com.apple.ResearchKit/documentation/ResearchKit/ORKQuestionType/hash(into:)": {
   "abstract" : [
@@ -395,20 +367,6 @@
   "title" : "hash(into:)",
   "type" : "topic",
   "url" : "\/documentation\/researchkit\/orkquestiontype\/hash(into:)"
-},
-"doc://com.apple.ResearchKit/documentation/ResearchKit/Surveys": {
-  "abstract" : [
-    {
-      "text" : "Construct surveys that ask a wide range of questions.",
-      "type" : "text"
-    }
-  ],
-  "identifier" : "doc:\/\/com.apple.ResearchKit\/documentation\/ResearchKit\/Surveys",
-  "kind" : "article",
-  "role" : "collectionGroup",
-  "title" : "Surveys",
-  "type" : "topic",
-  "url" : "\/documentation\/researchkit\/surveys"
 }
 }
 }

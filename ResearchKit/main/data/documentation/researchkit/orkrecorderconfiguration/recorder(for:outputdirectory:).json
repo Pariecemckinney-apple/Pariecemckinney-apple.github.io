@@ -1,9 +1,19 @@
 {
+  "deprecationSummary" : [
+    {
+      "inlineContent" : [
+        {
+          "text" : "This function is being deprecated. Instead, set the `outputDirectory` property when initializing your configuration, then call recorderForStep:.",
+          "type" : "text"
+        }
+      ],
+      "type" : "paragraph"
+    }
+  ],
   "hierarchy" : {
     "paths" : [
       [
         "doc:\/\/com.apple.ResearchKit\/documentation\/ResearchKit",
-        "doc:\/\/com.apple.ResearchKit\/documentation\/ResearchKit\/Configurations",
         "doc:\/\/com.apple.ResearchKit\/documentation\/ResearchKit\/ORKRecorderConfiguration"
       ]
     ]
@@ -47,7 +57,7 @@
       },
       {
         "kind" : "text",
-        "text" : "?, "
+        "text" : ", "
       },
       {
         "kind" : "externalParam",
@@ -79,6 +89,14 @@
     "modules" : [
       {
         "name" : "ResearchKit"
+      }
+    ],
+    "platforms" : [
+      {
+        "beta" : false,
+        "deprecated" : true,
+        "message" : "This function is being deprecated. Instead, set the `outputDirectory` property when initializing your configuration, then call recorderForStep:.",
+        "unavailable" : false
       }
     ],
     "role" : "symbol",
@@ -137,7 +155,7 @@
             },
             {
               "kind" : "text",
-              "text" : "?, "
+              "text" : ", "
             },
             {
               "kind" : "externalParam",
@@ -208,20 +226,6 @@
   "type" : "topic",
   "url" : "\/documentation\/researchkit"
 },
-"doc://com.apple.ResearchKit/documentation/ResearchKit/Configurations": {
-  "abstract" : [
-    {
-      "text" : "Provide collection and presentation information to a step.",
-      "type" : "text"
-    }
-  ],
-  "identifier" : "doc:\/\/com.apple.ResearchKit\/documentation\/ResearchKit\/Configurations",
-  "kind" : "article",
-  "role" : "collectionGroup",
-  "title" : "Configurations",
-  "type" : "topic",
-  "url" : "\/documentation\/researchkit\/configurations"
-},
 "doc://com.apple.ResearchKit/documentation/ResearchKit/ORKRecorder": {
   "abstract" : [
 
@@ -288,6 +292,7 @@
   "abstract" : [
 
   ],
+  "deprecated" : true,
   "fragments" : [
     {
       "kind" : "keyword",
@@ -320,7 +325,7 @@
     },
     {
       "kind" : "text",
-      "text" : "?, "
+      "text" : ", "
     },
     {
       "kind" : "externalParam",

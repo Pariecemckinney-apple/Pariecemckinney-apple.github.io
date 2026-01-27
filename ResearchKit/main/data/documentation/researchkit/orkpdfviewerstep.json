@@ -2,9 +2,7 @@
   "hierarchy" : {
     "paths" : [
       [
-        "doc:\/\/com.apple.ResearchKit\/documentation\/ResearchKit",
-        "doc:\/\/com.apple.ResearchKit\/documentation\/ResearchKit\/Steps-Tasks-Results",
-        "doc:\/\/com.apple.ResearchKit\/documentation\/ResearchKit\/Steps"
+        "doc:\/\/com.apple.ResearchKit\/documentation\/ResearchKit"
       ]
     ]
   },
@@ -72,6 +70,12 @@
         }
       ],
       "kind" : "declarations"
+    },
+    {
+      "kind" : "mentions",
+      "mentions" : [
+        "doc:\/\/com.apple.ResearchKit\/documentation\/ResearchKit\/Obtaining-Consent"
+      ]
     }
   ],
   "relationshipsSections" : [
@@ -427,33 +431,19 @@
   "type" : "topic",
   "url" : "\/documentation\/researchkit\/orkstep"
 },
-"doc://com.apple.ResearchKit/documentation/ResearchKit/Steps": {
+"doc://com.apple.ResearchKit/documentation/ResearchKit/Obtaining-Consent": {
   "abstract" : [
     {
-      "text" : "Create tasks for participants to perform.",
+      "text" : "Guide your participants through the Informed Consent process.",
       "type" : "text"
     }
   ],
-  "identifier" : "doc:\/\/com.apple.ResearchKit\/documentation\/ResearchKit\/Steps",
+  "identifier" : "doc:\/\/com.apple.ResearchKit\/documentation\/ResearchKit\/Obtaining-Consent",
   "kind" : "article",
-  "role" : "collectionGroup",
-  "title" : "Steps",
+  "role" : "article",
+  "title" : "Obtaining Consent",
   "type" : "topic",
-  "url" : "\/documentation\/researchkit\/steps"
-},
-"doc://com.apple.ResearchKit/documentation/ResearchKit/Steps-Tasks-Results": {
-  "abstract" : [
-    {
-      "text" : "Design and create research-centered apps that guide the participant.",
-      "type" : "text"
-    }
-  ],
-  "identifier" : "doc:\/\/com.apple.ResearchKit\/documentation\/ResearchKit\/Steps-Tasks-Results",
-  "kind" : "article",
-  "role" : "collectionGroup",
-  "title" : "Steps, tasks, and results",
-  "type" : "topic",
-  "url" : "\/documentation\/researchkit\/steps-tasks-results"
+  "url" : "\/documentation\/researchkit\/obtaining-consent"
 },
 "doc://com.apple.ResearchKit/objc(pl)NSCoding": {
   "identifier" : "doc:\/\/com.apple.ResearchKit\/objc(pl)NSCoding",

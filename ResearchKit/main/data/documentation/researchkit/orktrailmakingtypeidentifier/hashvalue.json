@@ -1,26 +1,9 @@
 {
-  "abstract" : [
-    {
-      "text" : "Inherited from ",
-      "type" : "text"
-    },
-    {
-      "code" : "_SwiftNewtypeWrapper.hashValue",
-      "type" : "codeVoice"
-    },
-    {
-      "text" : ".",
-      "type" : "text"
-    }
-  ],
   "hierarchy" : {
     "paths" : [
       [
         "doc:\/\/com.apple.ResearchKit\/documentation\/ResearchKit",
-        "doc:\/\/com.apple.ResearchKit\/documentation\/ResearchKit\/Steps-Tasks-Results",
-        "doc:\/\/com.apple.ResearchKit\/documentation\/ResearchKit\/Tasks",
-        "doc:\/\/com.apple.ResearchKit\/documentation\/ResearchKit\/ORKTrailMakingTypeIdentifier",
-        "doc:\/\/com.apple.ResearchKit\/documentation\/ResearchKit\/ORKTrailMakingTypeIdentifier\/_SwiftNewtypeWrapper-Implementations"
+        "doc:\/\/com.apple.ResearchKit\/documentation\/ResearchKit\/ORKTrailMakingTypeIdentifier"
       ]
     ]
   },
@@ -233,17 +216,6 @@
   "type" : "topic",
   "url" : "\/documentation\/researchkit\/orktrailmakingtypeidentifier"
 },
-"doc://com.apple.ResearchKit/documentation/ResearchKit/ORKTrailMakingTypeIdentifier/_SwiftNewtypeWrapper-Implementations": {
-  "abstract" : [
-
-  ],
-  "identifier" : "doc:\/\/com.apple.ResearchKit\/documentation\/ResearchKit\/ORKTrailMakingTypeIdentifier\/_SwiftNewtypeWrapper-Implementations",
-  "kind" : "article",
-  "role" : "collectionGroup",
-  "title" : "_SwiftNewtypeWrapper Implementations",
-  "type" : "topic",
-  "url" : "\/documentation\/researchkit\/orktrailmakingtypeidentifier\/_swiftnewtypewrapper-implementations"
-},
 "doc://com.apple.ResearchKit/documentation/ResearchKit/ORKTrailMakingTypeIdentifier/hashValue": {
   "abstract" : [
 
@@ -325,34 +297,6 @@
   "title" : "hashValue",
   "type" : "topic",
   "url" : "\/documentation\/researchkit\/orktrailmakingtypeidentifier\/hashvalue"
-},
-"doc://com.apple.ResearchKit/documentation/ResearchKit/Steps-Tasks-Results": {
-  "abstract" : [
-    {
-      "text" : "Design and create research-centered apps that guide the participant.",
-      "type" : "text"
-    }
-  ],
-  "identifier" : "doc:\/\/com.apple.ResearchKit\/documentation\/ResearchKit\/Steps-Tasks-Results",
-  "kind" : "article",
-  "role" : "collectionGroup",
-  "title" : "Steps, tasks, and results",
-  "type" : "topic",
-  "url" : "\/documentation\/researchkit\/steps-tasks-results"
-},
-"doc://com.apple.ResearchKit/documentation/ResearchKit/Tasks": {
-  "abstract" : [
-    {
-      "text" : "Build research apps to collect information.",
-      "type" : "text"
-    }
-  ],
-  "identifier" : "doc:\/\/com.apple.ResearchKit\/documentation\/ResearchKit\/Tasks",
-  "kind" : "article",
-  "role" : "collectionGroup",
-  "title" : "Tasks",
-  "type" : "topic",
-  "url" : "\/documentation\/researchkit\/tasks"
 }
 }
 }

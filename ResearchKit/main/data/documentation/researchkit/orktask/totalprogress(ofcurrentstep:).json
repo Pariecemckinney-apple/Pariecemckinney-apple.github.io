@@ -3,8 +3,6 @@
     "paths" : [
       [
         "doc:\/\/com.apple.ResearchKit\/documentation\/ResearchKit",
-        "doc:\/\/com.apple.ResearchKit\/documentation\/ResearchKit\/Steps-Tasks-Results",
-        "doc:\/\/com.apple.ResearchKit\/documentation\/ResearchKit\/Tasks",
         "doc:\/\/com.apple.ResearchKit\/documentation\/ResearchKit\/ORKTask"
       ]
     ]
@@ -84,7 +82,6 @@
         "unavailable" : false
       }
     ],
-    "required" : true,
     "role" : "symbol",
     "roleHeading" : "Instance Method",
     "symbolKind" : "method",
@@ -307,7 +304,6 @@
   ],
   "identifier" : "doc:\/\/com.apple.ResearchKit\/documentation\/ResearchKit\/ORKTask\/totalProgress(ofCurrentStep:)",
   "kind" : "symbol",
-  "required" : true,
   "role" : "symbol",
   "title" : "totalProgress(ofCurrentStep:)",
   "type" : "topic",
@@ -343,34 +339,6 @@
   "title" : "ORKTaskTotalProgress",
   "type" : "topic",
   "url" : "\/documentation\/researchkit\/orktasktotalprogress"
-},
-"doc://com.apple.ResearchKit/documentation/ResearchKit/Steps-Tasks-Results": {
-  "abstract" : [
-    {
-      "text" : "Design and create research-centered apps that guide the participant.",
-      "type" : "text"
-    }
-  ],
-  "identifier" : "doc:\/\/com.apple.ResearchKit\/documentation\/ResearchKit\/Steps-Tasks-Results",
-  "kind" : "article",
-  "role" : "collectionGroup",
-  "title" : "Steps, tasks, and results",
-  "type" : "topic",
-  "url" : "\/documentation\/researchkit\/steps-tasks-results"
-},
-"doc://com.apple.ResearchKit/documentation/ResearchKit/Tasks": {
-  "abstract" : [
-    {
-      "text" : "Build research apps to collect information.",
-      "type" : "text"
-    }
-  ],
-  "identifier" : "doc:\/\/com.apple.ResearchKit\/documentation\/ResearchKit\/Tasks",
-  "kind" : "article",
-  "role" : "collectionGroup",
-  "title" : "Tasks",
-  "type" : "topic",
-  "url" : "\/documentation\/researchkit\/tasks"
 }
 }
 }

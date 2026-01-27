@@ -2,8 +2,7 @@
   "hierarchy" : {
     "paths" : [
       [
-        "doc:\/\/com.apple.ResearchKit\/documentation\/ResearchKit",
-        "doc:\/\/com.apple.ResearchKit\/documentation\/ResearchKit\/Configurations"
+        "doc:\/\/com.apple.ResearchKit\/documentation\/ResearchKit"
       ]
     ]
   },
@@ -138,7 +137,9 @@
       "anchor" : "Instance-Properties",
       "generated" : true,
       "identifiers" : [
-        "doc:\/\/com.apple.ResearchKit\/documentation\/ResearchKit\/ORKRecorderConfiguration\/identifier"
+        "doc:\/\/com.apple.ResearchKit\/documentation\/ResearchKit\/ORKRecorderConfiguration\/identifier",
+        "doc:\/\/com.apple.ResearchKit\/documentation\/ResearchKit\/ORKRecorderConfiguration\/outputDirectory",
+        "doc:\/\/com.apple.ResearchKit\/documentation\/ResearchKit\/ORKRecorderConfiguration\/rollingFileSizeThreshold"
       ],
       "title" : "Instance Properties"
     },
@@ -146,6 +147,7 @@
       "anchor" : "Instance-Methods",
       "generated" : true,
       "identifiers" : [
+        "doc:\/\/com.apple.ResearchKit\/documentation\/ResearchKit\/ORKRecorderConfiguration\/recorder(for:)",
         "doc:\/\/com.apple.ResearchKit\/documentation\/ResearchKit\/ORKRecorderConfiguration\/recorder(for:outputDirectory:)",
         "doc:\/\/com.apple.ResearchKit\/documentation\/ResearchKit\/ORKRecorderConfiguration\/requestedHealthKitTypesForReading()"
       ],
@@ -189,20 +191,6 @@
   "title" : "ResearchKit",
   "type" : "topic",
   "url" : "\/documentation\/researchkit"
-},
-"doc://com.apple.ResearchKit/documentation/ResearchKit/Configurations": {
-  "abstract" : [
-    {
-      "text" : "Provide collection and presentation information to a step.",
-      "type" : "text"
-    }
-  ],
-  "identifier" : "doc:\/\/com.apple.ResearchKit\/documentation\/ResearchKit\/Configurations",
-  "kind" : "article",
-  "role" : "collectionGroup",
-  "title" : "Configurations",
-  "type" : "topic",
-  "url" : "\/documentation\/researchkit\/configurations"
 },
 "doc://com.apple.ResearchKit/documentation/ResearchKit/ORKAccelerometerRecorderConfiguration": {
   "abstract" : [
@@ -424,7 +412,45 @@
   "type" : "topic",
   "url" : "\/documentation\/researchkit\/orkrecorderconfiguration\/identifier"
 },
-"doc://com.apple.ResearchKit/documentation/ResearchKit/ORKRecorderConfiguration/recorder(for:outputDirectory:)": {
+"doc://com.apple.ResearchKit/documentation/ResearchKit/ORKRecorderConfiguration/outputDirectory": {
+  "abstract" : [
+
+  ],
+  "fragments" : [
+    {
+      "kind" : "keyword",
+      "text" : "var"
+    },
+    {
+      "kind" : "text",
+      "text" : " "
+    },
+    {
+      "kind" : "identifier",
+      "text" : "outputDirectory"
+    },
+    {
+      "kind" : "text",
+      "text" : ": "
+    },
+    {
+      "kind" : "typeIdentifier",
+      "preciseIdentifier" : "s:10Foundation3URLV",
+      "text" : "URL"
+    },
+    {
+      "kind" : "text",
+      "text" : "?"
+    }
+  ],
+  "identifier" : "doc:\/\/com.apple.ResearchKit\/documentation\/ResearchKit\/ORKRecorderConfiguration\/outputDirectory",
+  "kind" : "symbol",
+  "role" : "symbol",
+  "title" : "outputDirectory",
+  "type" : "topic",
+  "url" : "\/documentation\/researchkit\/orkrecorderconfiguration\/outputdirectory"
+},
+"doc://com.apple.ResearchKit/documentation/ResearchKit/ORKRecorderConfiguration/recorder(for:)": {
   "abstract" : [
 
   ],
@@ -460,7 +486,63 @@
     },
     {
       "kind" : "text",
-      "text" : "?, "
+      "text" : "?) -> "
+    },
+    {
+      "kind" : "typeIdentifier",
+      "preciseIdentifier" : "c:objc(cs)ORKRecorder",
+      "text" : "ORKRecorder"
+    },
+    {
+      "kind" : "text",
+      "text" : "?"
+    }
+  ],
+  "identifier" : "doc:\/\/com.apple.ResearchKit\/documentation\/ResearchKit\/ORKRecorderConfiguration\/recorder(for:)",
+  "kind" : "symbol",
+  "role" : "symbol",
+  "title" : "recorder(for:)",
+  "type" : "topic",
+  "url" : "\/documentation\/researchkit\/orkrecorderconfiguration\/recorder(for:)"
+},
+"doc://com.apple.ResearchKit/documentation/ResearchKit/ORKRecorderConfiguration/recorder(for:outputDirectory:)": {
+  "abstract" : [
+
+  ],
+  "deprecated" : true,
+  "fragments" : [
+    {
+      "kind" : "keyword",
+      "text" : "func"
+    },
+    {
+      "kind" : "text",
+      "text" : " "
+    },
+    {
+      "kind" : "identifier",
+      "text" : "recorder"
+    },
+    {
+      "kind" : "text",
+      "text" : "("
+    },
+    {
+      "kind" : "externalParam",
+      "text" : "for"
+    },
+    {
+      "kind" : "text",
+      "text" : ": "
+    },
+    {
+      "kind" : "typeIdentifier",
+      "preciseIdentifier" : "c:objc(cs)ORKStep",
+      "text" : "ORKStep"
+    },
+    {
+      "kind" : "text",
+      "text" : ", "
     },
     {
       "kind" : "externalParam",
@@ -542,6 +624,40 @@
   "title" : "requestedHealthKitTypesForReading()",
   "type" : "topic",
   "url" : "\/documentation\/researchkit\/orkrecorderconfiguration\/requestedhealthkittypesforreading()"
+},
+"doc://com.apple.ResearchKit/documentation/ResearchKit/ORKRecorderConfiguration/rollingFileSizeThreshold": {
+  "abstract" : [
+
+  ],
+  "fragments" : [
+    {
+      "kind" : "keyword",
+      "text" : "var"
+    },
+    {
+      "kind" : "text",
+      "text" : " "
+    },
+    {
+      "kind" : "identifier",
+      "text" : "rollingFileSizeThreshold"
+    },
+    {
+      "kind" : "text",
+      "text" : ": "
+    },
+    {
+      "kind" : "typeIdentifier",
+      "preciseIdentifier" : "s:Si",
+      "text" : "Int"
+    }
+  ],
+  "identifier" : "doc:\/\/com.apple.ResearchKit\/documentation\/ResearchKit\/ORKRecorderConfiguration\/rollingFileSizeThreshold",
+  "kind" : "symbol",
+  "role" : "symbol",
+  "title" : "rollingFileSizeThreshold",
+  "type" : "topic",
+  "url" : "\/documentation\/researchkit\/orkrecorderconfiguration\/rollingfilesizethreshold"
 },
 "doc://com.apple.ResearchKit/documentation/ResearchKit/ORKStreamingAudioRecorderConfiguration": {
   "abstract" : [
