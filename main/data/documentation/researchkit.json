@@ -33,9 +33,9 @@
     {
       "content" : [
         {
-          "anchor" : "Overview-TEST",
+          "anchor" : "Overview-TEST-test",
           "level" : 2,
-          "text" : "Overview (TEST)",
+          "text" : "Overview (TEST test)",
           "type" : "heading"
         },
         {
